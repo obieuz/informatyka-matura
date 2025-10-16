@@ -1,0 +1,21 @@
+a
+
+najmniejsza średnia roczna	ROK NAMNIEJSZEJ ŚREDNIEJ ROCZNEJ
+4,74				1829
+
+b
+
+NAJWIEKSZA średnia roczna	ROK NAJ ŚREDNIEJ ROCZNEJ
+9,82				1989
+
+c
+
+	styczeń	luty	marzec	kwiecień	maj	czerwiec	lipiec	sierpień	wrzesień	październik	listopad	grudzień
+min	-13,5	-13,7	-6,9	2,4	7,9	13	14,6	14	9,1	1,8	-3,4	-13,7
+max	3,5	5,1	7,4	13,2	18,2	22,4	23,5	23,8	16,8	12,6	7,6	3,9
+
+
+d
+
+NAJDŁUŻSZY CIĄG	POCZĄTEK	KONIEC ROK
+6		1982		1987
