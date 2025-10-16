@@ -1,0 +1,16 @@
+a
+2, 9, 12, 18, 19, 20, 22
+
+b
+55
+
+c
+LICZBA OSOB Z BARDZO DOBRYMI	liczba osób z niedostatecznymi
+1				6
+
+d
+2, 45, 65, 70, 79
+
+e
+prehistoria	starożytność	średniowiecze	historia nowożytna	historia najnowsza
+278		263		281		320			298
