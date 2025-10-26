@@ -1,0 +1,25 @@
+1
+
+Grupa	Liczba studentów w grupie
+A	28
+B	30
+C	31
+D	33
+E	37
+F	32
+G	31
+H	28
+
+2
+
+Najczęściej występująca liczba punktów	Liczba wystąpień
+77					9
+
+3
+
+ocena		liczba studentów
+bardzo dobry	24
+celujący	31
+dobry		72
+dostateczny	30
+niedostateczny	93

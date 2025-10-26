@@ -1,0 +1,21 @@
+a
+
+		POWIERZCHNIA	RODZAJ
+najmniejsza	500,18	S
+NAJWIĘKSZA	1500	X
+
+b
+
+rodzaj działki	liczba działek	Średnia z Powierzchnia
+B	1775	999,59
+L	559	1016,75
+R	708	989,98
+S	964	986,12
+X	994	989,94
+
+c
+
+wielkosc podatku			liczba działek
+do 100 zł włącznie			2096
+ponad 100zł, ale do 500zł włącznie	2133
+ponad 500zł				771
