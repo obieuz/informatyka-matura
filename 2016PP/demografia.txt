@@ -1,0 +1,380 @@
+powiat	wojewodztwo	ludnosc_ogolem	wsp_urodzen	wsp_zgonow	saldo_migracji
+aleksandrowski	kujawsko-pomorskie	55336	11,3	11,3	0,8
+augustowski	podlaskie	58763	10,4	10,5	-1,1
+bartoszycki	warminsko-mazurskie	60128	10,9	10,3	-6,1
+bedzinski	slaskie	150950	9,4	13	3,1
+belchatowski	lodzkie	112993	11,5	9,1	-1,6
+bialobrzeski	mazowieckie	33701	15	11	-1,1
+bialogardzki	zachodniopomorskie	48261	11,7	10,2	-1
+bialostocki	podlaskie	139643	10,1	11,2	7,3
+bialski	lubelskie	112846	11,4	12,6	-2,7
+bielski	podlaskie	58463	9,6	12,7	-3,1
+bielski	slaskie	155571	12	9	6,9
+bierunsko-ledzinski	slaskie	56806	12,2	8,2	2,5
+bieszczadzki	podkarpackie	22001	11,3	8,7	-4,2
+bilgorajski	lubelskie	103226	10,5	11,1	-2,1
+bochenski	malopolskie	102181	13,1	9,4	1
+boleslawiecki	dolnoslaskie	89051	11	9,8	-0,1
+braniewski	warminsko-mazurskie	42927	11,5	10	-5
+brodnicki	kujawsko-pomorskie	75579	13,6	10	-1,3
+brzeski	malopolskie	91297	11,7	8,8	0,9
+brzeski	opolskie	92188	10,8	9,7	-0,5
+brzezinski	lodzkie	30537	10,2	12,7	0,2
+brzozowski	podkarpackie	65253	11,9	8,5	-2,1
+buski	swietokrzyskie	73127	9,9	12,4	0,1
+bydgoski	kujawsko-pomorskie	103010	11,5	7,8	15,1
+bytowski	pomorskie	76043	13,6	7,9	-2,7
+chelminski	kujawsko-pomorskie	51456	12,4	10	-2
+chelmski	lubelskie	78765	11,6	13,2	-1,4
+chodzieski	wielkopolskie	47389	12,1	10,1	0,1
+chojnicki	pomorskie	93411	13,9	9	-0,3
+choszczenski	zachodniopomorskie	49705	12,1	10,6	-2,3
+chrzanowski	malopolskie	127645	9,6	10,3	0,4
+ciechanowski	mazowieckie	90249	11,4	11,3	-2,6
+cieszynski	slaskie	172809	11,2	10,2	2,8
+czarnkowsko-trzcianecki	wielkopolskie	86939	12,9	9,5	-1,6
+czestochowski	slaskie	134103	9,6	11,9	3,7
+czluchowski	pomorskie	56762	11,8	8,4	-3,6
+dabrowski	malopolskie	58664	10,2	9,2	-1
+debicki	podkarpackie	133244	11,6	7,9	-1,1
+drawski	zachodniopomorskie	57485	11,2	9,4	-3,6
+dzialdowski	warminsko-mazurskie	65188	13,1	9	-3,6
+dzierzoniowski	dolnoslaskie	103636	9,2	12,8	-0,6
+elblaski	warminsko-mazurskie	56389	11,6	9,9	-2
+elcki	warminsko-mazurskie	86238	12,1	8,3	1,3
+garwolinski	mazowieckie	106927	13	10,7	-0,9
+gdanski	pomorskie	93191	12,7	6,7	19,3
+gizycki	warminsko-mazurskie	56522	11,3	9,8	-2,7
+gliwicki	slaskie	114093	10,8	10,6	-0,1
+glogowski	dolnoslaskie	87712	12,1	7,6	-3,3
+glubczycki	opolskie	49422	9,3	11,7	-3,2
+gnieznienski	wielkopolskie	141719	12	8,6	-0,4
+goldapski	warminsko-mazurskie	26642	12,7	8,1	-3,7
+goleniowski	zachodniopomorskie	79937	11,1	8,9	2,2
+golubsko-dobrzynski	kujawsko-pomorskie	45281	11,9	9,8	-1,4
+gorlicki	malopolskie	107017	12,2	8,8	-1,9
+gorowski	dolnoslaskie	36317	10,9	11,3	-1,6
+gorzowski	lubuskie	67443	12	9	5,7
+gostyninski	mazowieckie	46766	11,6	10,9	-2,7
+gostynski	wielkopolskie	76052	12,6	9,1	-1,8
+grajewski	podlaskie	49393	10,5	9,5	-4,4
+grodziski	mazowieckie	81923	12,3	10,6	13,7
+grodziski	wielkopolskie	49903	13,3	9,3	-0,8
+grojecki	mazowieckie	96957	12,4	11,4	1,2
+grudziadzki	kujawsko-pomorskie	38708	11,4	8,9	-0,9
+gryficki	zachodniopomorskie	60595	11,6	9,5	-1,8
+gryfinski	zachodniopomorskie	82830	10,8	9,1	-2,8
+hajnowski	podlaskie	46385	8,3	15,1	-3,6
+hrubieszowski	lubelskie	67059	10,1	12,6	-4,9
+ilawski	warminsko-mazurskie	90442	12,5	8,4	-1,2
+inowroclawski	kujawsko-pomorskie	164112	10,6	10	-1,6
+janowski	lubelskie	47242	10,1	12,8	-1,4
+jarocinski	wielkopolskie	70821	12,2	9,5	-1
+jaroslawski	podkarpackie	121654	10,7	9,3	-1,3
+jasielski	podkarpackie	114689	10,1	9,4	-1,3
+jaworski	dolnoslaskie	51581	9,9	11,8	-1,7
+jedrzejowski	swietokrzyskie	88665	10,4	11,6	-2
+jeleniogorski	dolnoslaskie	63865	9,3	12,3	3,8
+kaliski	wielkopolskie	81166	11,7	10,4	2,8
+kamiennogorski	dolnoslaskie	45562	10,3	11,2	-3,9
+kamienski	zachodniopomorskie	47769	10,9	10,8	-1,3
+kartuski	pomorskie	116000	15,2	6,5	7,7
+kazimierski	swietokrzyskie	35088	8,3	12,5	-1,8
+kedzierzynsko-kozielski	opolskie	100320	8,1	10,2	-3,3
+kepinski	wielkopolskie	55903	11,3	9,3	-0,9
+ketrzynski	warminsko-mazurskie	64814	10,8	11,3	-4,6
+kielecki	swietokrzyskie	201643	11,2	9,2	2,9
+klobucki	slaskie	85001	9,4	10,4	1,4
+klodzki	dolnoslaskie	163648	9,8	12	-2,6
+kluczborski	opolskie	68801	8,6	9,5	-2,4
+kolbuszowski	podkarpackie	61546	10	8,5	-0,4
+kolnenski	podlaskie	39053	10,7	9,6	-5,9
+kolobrzeski	zachodniopomorskie	77095	10,6	8,7	0,8
+kolski	wielkopolskie	88274	11,7	10,8	-1,2
+konecki	swietokrzyskie	83005	9,7	11,8	-2
+koninski	wielkopolskie	125965	11,7	9,3	2,5
+koscianski	wielkopolskie	78205	11,4	9,6	-0,7
+koscierski	pomorskie	68311	15,2	8	0,4
+koszalinski	zachodniopomorskie	65049	11,5	9,3	3,8
+kozienicki	mazowieckie	61199	10,8	11,2	-2,9
+krakowski	malopolskie	253344	11,2	9,5	9,9
+krapkowicki	opolskie	66795	8,4	8,2	-1,4
+krasnicki	lubelskie	98574	9,7	10,9	-2,4
+krasnostawski	lubelskie	67824	8,8	13,7	-1
+krosnienski	lubuskie	56131	11	10,5	-2,7
+krosnienski	podkarpackie	110849	11,1	9,2	-0,1
+krotoszynski	wielkopolskie	77440	12,8	9,8	-1,8
+kutnowski	lodzkie	102015	9,5	13,2	-1,9
+kwidzynski	pomorskie	81848	13,6	8,5	0,3
+lancucki	podkarpackie	78359	12,2	8,9	0,5
+laski	lodzkie	50808	9,9	11,8	0,6
+leborski	pomorskie	63915	12,5	8,6	-0,7
+leczycki	lodzkie	52420	10,7	13,3	-1,9
+leczynski	lubelskie	57164	11,4	8,9	-2,2
+legionowski	mazowieckie	103039	12	8,5	13,4
+legnicki	dolnoslaskie	53618	11,1	10	2,3
+leski	podkarpackie	26608	9,2	7	-0,9
+leszczynski	wielkopolskie	51722	13	8,7	5,9
+lezajski	podkarpackie	69105	10,5	8,5	-1,8
+lidzbarski	warminsko-mazurskie	42501	10,6	9,5	-2,8
+limanowski	malopolskie	124278	14,1	7,7	0,1
+lipnowski	kujawsko-pomorskie	66162	12,8	10,6	-2
+lipski	mazowieckie	36033	10,5	15,5	-2,3
+lobeski	zachodniopomorskie	38063	11,6	10,6	-2,8
+lodzki wschodni	lodzkie	66807	10,6	11	10,8
+lomzynski	podlaskie	50919	11,7	11,6	0,3
+losicki	mazowieckie	32072	10,1	13,3	-4,5
+lowicki	lodzkie	81151	10,8	12,3	-1,9
+lubaczowski	podkarpackie	56811	10,4	9,7	-1,8
+lubanski	dolnoslaskie	56085	10,1	11,9	-3,4
+lubartowski	lubelskie	89876	11	11,9	-2
+lubelski	lubelskie	144383	10,6	10,6	6,1
+lubinski	dolnoslaskie	105170	10,6	7,9	-2,8
+lubliniecki	slaskie	76618	10,2	10,4	2,3
+lukowski	lubelskie	107953	12,2	9,8	-4,1
+lwowecki	dolnoslaskie	47194	8,6	11,6	-2,8
+m Biala Podlaska	lubelskie	57876	10,9	7,2	-2,5
+m Bialystok	podlaskie	294685	10,5	7,8	-1,4
+m Bielsko-Biala	slaskie	175402	10,5	9,7	-2,3
+m Bydgoszcz	kujawsko-pomorskie	357650	10	10,5	-4,5
+m Bytom	slaskie	182749	9,9	11	-5
+m Chelm	lubelskie	67650	9,9	8,9	-3,6
+m Chorzow	slaskie	113007	10,9	13,2	-0,2
+m Czestochowa	slaskie	239319	9,9	11,1	-3,5
+m Dabrowa Gornicza	slaskie	127686	9,4	11	-3
+m Elblag	warminsko-mazurskie	126419	10,3	9,5	-1,9
+m Gdansk	pomorskie	456591	11,1	9,8	-0,2
+m Gdynia	pomorskie	247859	10	9,6	-3,8
+m Gliwice	slaskie	196167	9,5	9,8	-2,6
+m Gorzow Wielkopolski	lubuskie	125383	11	9,2	-1,6
+m Grudziadz	kujawsko-pomorskie	99074	10,7	10,2	-2,2
+m Jastrzebie-Zdroj	slaskie	92988	10,4	7,7	-7,7
+m Jaworzno	slaskie	95036	9,6	10,1	-1,3
+m Jelenia Gora	dolnoslaskie	84564	8,8	12,4	-3,4
+m Kalisz	wielkopolskie	107019	9,5	11,3	-4
+m Katowice	slaskie	308548	9,4	11,7	-3,2
+m Kielce	swietokrzyskie	204835	10	8,8	-4,1
+m Konin	wielkopolskie	79516	10,1	8,1	-6,3
+m Koszalin	zachodniopomorskie	106987	9	8,5	-1,2
+m Krakow	malopolskie	755000	10,7	9,8	0,6
+m Krosno	podkarpackie	47534	9,1	8,3	-2,3
+m Legnica	dolnoslaskie	104178	9,7	10,3	-2,4
+m Leszno	wielkopolskie	64338	12,5	8,9	-1,9
+m Lodz	lodzkie	742387	9,3	14,3	-1,8
+m Lomza	podlaskie	63357	10,3	7	-2,1
+m Lublin	lubelskie	349440	10,9	9,5	-2,3
+m Myslowice	slaskie	74893	11	10,6	-1,5
+m Nowy Sacz	malopolskie	84556	11,1	7,7	-1,8
+m Olsztyn	warminsko-mazurskie	176457	11,2	8,1	-1
+m Opole	opolskie	125792	9,4	8,7	-3,4
+m Ostroleka	mazowieckie	53837	11,3	7,1	-7,6
+m Piekary Slaskie	slaskie	58519	10,4	11,4	-3,8
+m Piotrkow Trybunalski	lodzkie	77810	10,6	11,1	-2,7
+m Plock	mazowieckie	126542	11	9,5	-3,2
+m Poznan	wielkopolskie	554221	11,3	10,1	-5,3
+m PrzemySl	podkarpackie	66389	10	9,7	-4,1
+m Radom	mazowieckie	223397	10,8	10	-4,4
+m Ruda Slaska	slaskie	143394	10,9	11,4	-4
+m Rybnik	slaskie	141372	11,6	8,6	-1,3
+m Rzeszow	podkarpackie	172770	11,1	8,6	-0,4
+m Siedlce	mazowieckie	77319	11,8	7,9	-2,1
+m Siemianowice Slaskie	slaskie	70712	10,2	12,7	-3,3
+m Skierniewice	lodzkie	48958	11	8,6	-1,6
+m Slupsk	pomorskie	97087	9,2	9,8	-2,9
+m Sopot	pomorskie	38460	7,7	13	-3,5
+m Sosnowiec	slaskie	219300	9	11,8	-4,8
+m Suwalki	podlaskie	69499	10,4	7	-2,1
+m Swietochlowice	slaskie	54091	10,2	11,8	-3,5
+m Swinoujscie	zachodniopomorskie	40765	8,4	9	0,5
+m Szczecin	zachodniopomorskie	406307	9,7	10,9	-0,9
+m Tarnobrzeg	podkarpackie	49419	8,4	7,2	-5
+m Tarnow	malopolskie	115158	9	8,5	-3,1
+m Torun	kujawsko-pomorskie	205718	10,8	9,2	-3
+m Tychy	slaskie	129449	11	8,3	-2,7
+m Wloclawek	kujawsko-pomorskie	117402	9,6	10,4	-3,4
+m Wroclaw	dolnoslaskie	632146	10,2	11	1,3
+m Zabrze	slaskie	187674	9,6	9,3	-3,7
+m ZamoSc	lubelskie	66557	10,8	7,8	-3,1
+m Zielona Gora	lubuskie	117503	10,8	9,9	0,2
+m Zory	slaskie	62022	12,3	6,6	-6,9
+makowski	mazowieckie	46068	13	12,5	-2,8
+malborski	pomorskie	62842	11,3	9,4	1
+miechowski	malopolskie	50114	10,3	14,5	0,3
+miedzychodzki	wielkopolskie	36646	12,8	9,9	-1
+miedzyrzecki	lubuskie	58250	11,3	9,4	-2,4
+mielecki	podkarpackie	133986	11,1	8,2	-0,8
+mikolowski	slaskie	92655	11,5	9,2	4,8
+milicki	dolnoslaskie	37036	12,9	10	-0,7
+minski	mazowieckie	144294	12,7	10,5	5
+mlawski	mazowieckie	72713	11,3	11,4	-1,4
+mogilenski	kujawsko-pomorskie	46877	10,2	9,7	-2,3
+moniecki	podlaskie	42212	8,3	12,4	-3,5
+mragowski	warminsko-mazurskie	50169	11,2	8,8	-2,2
+mst Warszawa	mazowieckie	1714446	11,1	10,7	2,3
+myslenicki	malopolskie	119975	13,2	8,2	2,4
+mySliborski	zachodniopomorskie	67074	10,7	9,7	-0,9
+myszkowski	slaskie	71517	9,8	12,1	0,8
+nakielski	kujawsko-pomorskie	85397	12,7	8,5	-1,6
+namyslowski	opolskie	43814	10,8	9,1	-2,7
+nidzicki	warminsko-mazurskie	33444	11,8	9,9	-6
+nizanski	podkarpackie	66947	8,8	9,3	-1,8
+nowodworski	mazowieckie	76583	11,2	9,5	2,7
+nowodworski	pomorskie	35642	11,8	9,3	-1,6
+nowomiejski	warminsko-mazurskie	43749	13	9,2	-2,2
+nowosadecki	malopolskie	202701	13,6	7,5	0,1
+nowosolski	lubuskie	86890	11,9	10,3	-2
+nowotarski	malopolskie	185161	12	7,3	0,7
+nowotomyski	wielkopolskie	72725	13,5	8,9	-0,9
+nyski	opolskie	143852	9,3	9,8	-2,1
+obornicki	wielkopolskie	57042	13,2	8,9	0,3
+olawski	dolnoslaskie	72357	11,4	9,1	4,3
+olecki	warminsko-mazurskie	34111	11,4	8,7	-3,4
+oleski	opolskie	67194	8,7	9,6	-2,6
+olesnicki	dolnoslaskie	104047	11,2	9,7	1,8
+olkuski	malopolskie	113893	9,9	9,4	-1,7
+olsztynski	warminsko-mazurskie	116766	11,6	9	6,5
+opatowski	swietokrzyskie	55471	9,5	13,3	-1,1
+opoczynski	lodzkie	78362	11,7	10,8	-2,8
+opolski	lubelskie	62048	10,4	12,5	-2,7
+opolski	opolskie	135010	8,1	8,4	2,9
+ostrodzki	warminsko-mazurskie	104506	11,6	9,6	-3,7
+ostrolecki	mazowieckie	84578	12,5	10,3	1,4
+ostrowiecki	swietokrzyskie	114670	9,3	10,8	-2,1
+ostrowski	mazowieckie	74511	10,4	11	-2,9
+ostrowski	wielkopolskie	159332	11,5	8,9	0,2
+ostrzeszowski	wielkopolskie	54973	11,9	10	1,1
+oswiecimski	malopolskie	153602	10,4	9,2	0
+otwocki	mazowieckie	119607	11,5	10	6,8
+pabianicki	lodzkie	119060	9,1	12,4	2,6
+pajeczanski	lodzkie	52750	8,7	12	-1,3
+parczewski	lubelskie	35921	11,2	12	-3,2
+piaseczynski	mazowieckie	157392	12,5	8	16,9
+pilski	wielkopolskie	137562	11,7	9,1	-1,9
+pinczowski	swietokrzyskie	41282	8,5	12,8	-3,4
+piotrkowski	lodzkie	90462	11,6	12,7	1,6
+piski	warminsko-mazurskie	57093	12,1	8,9	-5,7
+pleszewski	wielkopolskie	62407	11,2	9,5	-0,6
+plocki	mazowieckie	107471	11,2	11	4,2
+plonski	mazowieckie	87244	12,1	12,1	-0,1
+poddebicki	lodzkie	41618	10,1	14,1	-0,7
+policki	zachodniopomorskie	69087	10,9	6,8	12,7
+polkowicki	dolnoslaskie	61622	12,4	8,7	-1,6
+poznanski	wielkopolskie	319258	13,1	7,1	18,9
+proszowicki	malopolskie	43419	10,7	11,5	1,4
+prudnicki	opolskie	58732	9	11	-2,9
+pruszkowski	mazowieckie	150270	11,2	9,5	9,5
+przasnyski	mazowieckie	52389	11,7	12,1	-4,2
+przemyski	podkarpackie	71231	10,7	9,6	-1
+przeworski	podkarpackie	78630	11,4	10,5	-0,6
+przysuski	mazowieckie	43064	11,3	12,9	-3,7
+pszczynski	slaskie	106361	13,3	7,8	1,1
+pucki	pomorskie	77238	13,3	8,1	5,2
+pulawski	lubelskie	115860	9,9	11,2	-1,5
+pultuski	mazowieckie	50994	11,8	11,8	0,6
+pyrzycki	zachodniopomorskie	39930	11,5	9,7	-2,3
+raciborski	slaskie	110448	8,6	9,2	0,7
+radomski	mazowieckie	147212	11,7	9,5	2,2
+radomszczanski	lodzkie	117431	9,8	12,4	-0,5
+radziejowski	kujawsko-pomorskie	41793	10,5	11,1	-2,4
+radzynski	lubelskie	60866	11,7	10,9	-4
+rawicki	wielkopolskie	59826	11,8	10,2	0,6
+rawski	lodzkie	49053	11,4	11,6	-1,4
+ropczycko-sedziszowski	podkarpackie	71751	11,7	8,2	-0,8
+rybnicki	slaskie	74509	11	9,4	3,1
+rycki	lubelskie	58342	11	11,4	-4,1
+rypinski	kujawsko-pomorskie	43902	11,6	11,2	-3,4
+rzeszowski	podkarpackie	164900	11,2	9,5	5,4
+sandomierski	swietokrzyskie	80709	9,7	11,8	-2,2
+sanocki	podkarpackie	94857	9,8	8,3	-1,5
+sejnenski	podlaskie	21013	10,1	11,3	-2,4
+sepolenski	kujawsko-pomorskie	41045	13,4	9,4	-2,5
+siedlecki	mazowieckie	80509	10,7	11,6	0,4
+siemiatycki	podlaskie	47286	9,3	13,2	-4,2
+sieradzki	lodzkie	119916	10,7	11,7	-1,7
+sierpecki	mazowieckie	53028	10,3	12,2	-4,4
+skarzyski	swietokrzyskie	78400	8,9	11	-3
+skierniewicki	lodzkie	37604	11,2	13,6	2,4
+slawienski	zachodniopomorskie	57298	10,2	9,6	-2,9
+slubicki	lubuskie	46413	12,5	9,7	0,4
+slupecki	wielkopolskie	58516	11,5	9,7	-2,5
+slupski	pomorskie	93230	12,1	9	-0,2
+sochaczewski	mazowieckie	83928	11,5	10,4	0,8
+sokolowski	mazowieckie	55832	10,3	13,4	-3,5
+sokolski	podlaskie	70517	9,3	12,5	-4,3
+sredzki	dolnoslaskie	50119	11,4	10,5	4,8
+sredzki	wielkopolskie	55408	12,4	9,6	1,5
+sremski	wielkopolskie	59307	12,8	9	-0,1
+stalowowolski	podkarpackie	107815	9,3	8,6	-3,9
+starachowicki	swietokrzyskie	93280	10,3	11,2	-3,1
+stargardzki	zachodniopomorskie	119340	11	9,2	-0,6
+starogardzki	pomorskie	124056	12,9	8,9	-0,3
+staszowski	swietokrzyskie	73277	10,6	10,4	-2,5
+strzelecki	opolskie	79177	8,3	8,7	-1,6
+strzelecko-drezdenecki	lubuskie	49789	11,7	9,6	-3,3
+strzelinski	dolnoslaskie	43873	10	11,4	-1,2
+strzyzowski	podkarpackie	61897	10,5	9,9	-0,9
+sulecinski	lubuskie	35492	11,6	10,7	-2,2
+suski	malopolskie	82736	12,2	9,5	0,4
+suwalski	podlaskie	35148	10,7	10,8	-1,1
+swidnicki	dolnoslaskie	159323	10,5	10,4	0
+swidnicki	lubelskie	72366	9,5	9,9	-0,2
+swidwinski	zachodniopomorskie	48470	11,4	9,3	-3,2
+swiebodzinski	lubuskie	56038	11,8	10,1	0
+swiecki	kujawsko-pomorskie	97642	11,8	9,5	0,1
+szamotulski	wielkopolskie	87260	12	9,6	1,2
+szczecinecki	zachodniopomorskie	77053	10,9	10,3	-1,4
+szczycienski	warminsko-mazurskie	69286	12,1	9,7	-2,2
+sztumski	pomorskie	41694	13,6	8,5	-4,4
+szydlowiecki	mazowieckie	39912	11,5	10,7	-2
+tarnobrzeski	podkarpackie	53487	8,5	8,5	-1,4
+tarnogorski	slaskie	137496	9,7	10	0,3
+tarnowski	malopolskie	195908	11,2	8,5	1,3
+tatrzanski	malopolskie	65298	11	9,7	1,7
+tczewski	pomorskie	113570	13,8	9,2	-1,6
+tomaszowski	lodzkie	120132	11	12,2	-1,6
+tomaszowski	lubelskie	86657	9,7	11,6	-4,1
+torunski	kujawsko-pomorskie	95187	11,7	8,3	13,3
+trzebnicki	dolnoslaskie	79166	11,6	10,1	5
+tucholski	kujawsko-pomorskie	47622	12,6	8,7	-1,1
+turecki	wielkopolskie	83691	12,4	10,1	-1,7
+wabrzeski	kujawsko-pomorskie	34777	12,1	9,7	-1,4
+wadowicki	malopolskie	155923	11,7	9,1	-0,1
+wagrowiecki	wielkopolskie	68552	14	8,9	-0,2
+walbrzyski	dolnoslaskie	179526	9	12,6	-3,7
+walecki	zachodniopomorskie	54098	10,8	9,2	-3,3
+warszawski zachodni	mazowieckie	105185	10,5	9,2	11,2
+wegorzewski	warminsko-mazurskie	23327	11,2	10,8	-4,6
+wegrowski	mazowieckie	67080	10,9	12,5	-2,8
+wejherowski	pomorskie	192349	14,6	7,4	10,7
+wielicki	malopolskie	110400	11,3	9,1	12,5
+wielunski	lodzkie	77843	11,4	11,6	-0,7
+wieruszowski	lodzkie	42168	12	10,9	-1,8
+wloclawski	kujawsko-pomorskie	85368	10,2	11,3	0
+wlodawski	lubelskie	39526	10,8	12,7	-3,8
+wloszczowski	swietokrzyskie	46668	9,6	12,3	-2,4
+wodzislawski	slaskie	155982	11,2	9,6	0,6
+wolominski	mazowieckie	213714	13,1	8,6	11,5
+wolowski	dolnoslaskie	47344	10,8	10,4	-0,9
+wolsztynski	wielkopolskie	55591	12,3	8,6	0,2
+wroclawski	dolnoslaskie	111069	12,2	8,5	19,9
+wrzesinski	wielkopolskie	74856	13,1	9	0,5
+wschowski	lubuskie	39055	10,7	9,8	-0,9
+wysokomazowiecki	podlaskie	59010	11	12,5	-3,7
+wyszkowski	mazowieckie	72307	13,6	9,8	-0,9
+zabkowicki	dolnoslaskie	68575	10,2	11,2	-1,2
+zaganski	lubuskie	81658	11,1	10,1	-2,7
+zambrowski	podlaskie	44385	11,1	9,7	-4,7
+zamojski	lubelskie	109181	9,5	13	-0,6
+zarski	lubuskie	98364	11,3	10,4	-2,7
+zawiercianski	slaskie	122628	9,3	12,7	-0,2
+zdunskowolski	lodzkie	67588	10,7	11,1	-1
+zgierski	lodzkie	161959	10,3	11,9	4,8
+zgorzelecki	dolnoslaskie	92867	9,8	10,8	-3,1
+zielonogorski	lubuskie	91638	11,4	7,8	5,8
+zlotoryjski	dolnoslaskie	45376	10,4	11,9	-1,2
+zlotowski	wielkopolskie	68737	12,3	9,1	-2,1
+zninski	kujawsko-pomorskie	69985	11,6	9,9	-0,4
+zurominski	mazowieckie	39671	10,3	10,7	-2,6
+zwolenski	mazowieckie	36796	11,3	12,2	-2
+zyrardowski	mazowieckie	75408	13	12,2	2,3
+zywiecki	slaskie	150850	10,9	10,8	1,5
