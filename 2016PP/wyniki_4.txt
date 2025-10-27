@@ -4,17 +4,19 @@
 
 2
 
-powiaty		wsp_przyrostu_naturalnego
+powiat		wsp_przyrostu_naturalnego
 bytowski	5,7
 gdanski		6
-grodziski	5,7
 kartuski	8,7
 koscierski	7,2
 limanowski	6,4
 m Zory		5,7
 nowosadecki	6,1
 poznanski	6
+pszczynski	5,5
 wejherowski	7,2
+
+
 
 3
 
