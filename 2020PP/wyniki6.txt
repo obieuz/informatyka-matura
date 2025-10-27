@@ -17,9 +17,10 @@ Najczęściej występująca liczba punktów	Liczba wystąpień
 
 3
 
-ocena		liczba studentów
-bardzo dobry	24
-celujący	31
-dobry		72
-dostateczny	30
-niedostateczny	93
+ocena	liczba studentów
+bardzo dobry	26
+celujący	33
+dobry	71
+dostateczny	28
+niedostateczny	92
+
