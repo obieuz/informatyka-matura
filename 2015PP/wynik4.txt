@@ -1,0 +1,23 @@
+1
+
+Dama	Granta	Dorkas	Lodera
+317	300	322	398
+
+
+2
+
+marka	liczba samochodów	kwartał	rok
+Lodera	305	II	2014
+
+
+3
+
+liczba kwartałów	18	9	17	32
+nazwa marki		Dama	Granta	Dorkas	Lodera
+
+
+4
+
+29368
+
+
