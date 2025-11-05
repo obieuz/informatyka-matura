@@ -1,0 +1,26 @@
+a
+
+siano	żołędzie
+12	13
+
+b
+
+28.12.2012
+
+c
+
+SIANO	ŻOŁĘDZIE
+64	26
+
+d
+
+data	stan_siana_rana	stan_żołędzi_rano
+31.12.2012	55,6	19,2
+31.01.2013	47,2	17,6
+28.02.2013	49,6	12
+
+e
+
+5
+
+

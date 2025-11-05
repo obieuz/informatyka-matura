@@ -1,0 +1,30 @@
+1
+
+miesiące	łączna dostawa węgla kostka	łączna dostawa węgla orzech	łączna dostawa węgla miał
+paź		1742				1658				915
+lis		2756				2884				1750
+gru		2696				2749				1586
+sty		2990				2870				1646
+lut		2579				2651				1252
+mar		3332				3026				1360
+kwi		1365				966				706
+
+3
+
+25 880 280,00 zł
+
+4
+
+rodzaj węgla	liczba dni
+kostka		87
+orzech		64
+miał		29
+
+5
+
+18.10.2014
+
+6
+
+3
+

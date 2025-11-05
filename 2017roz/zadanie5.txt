@@ -1,0 +1,12 @@
+1
+
+28.09.2015	WIECZÓR
+
+2
+
+liczba dostaw	ile razy ogrzewał drewnem wieczorem	ile razy ogrzewał gazem wieczorem
+18	167	32
+
+4
+
+468

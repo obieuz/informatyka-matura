@@ -1,0 +1,38 @@
+1
+
+stan_kosztów_po_roku	stan_przychodów_po_roku
+15950	39600
+
+01.06.2023
+
+2
+
+miesiąc	dochody
+sty	-7430
+lut	600
+mar	1590
+kwi	2250
+maj	2850
+cze	3660
+lip	4920
+sie	5610
+wrz	4320
+paź	1890
+lis	2040
+gru	1350
+
+
+3
+	cena za wynajem
+a	47
+b	57
+c	66
+
+4
+
+ŁĄCZNE PRZYCHODY	ŁĄCZNE KOSZTY
+249630			100655
+
+
+
+
