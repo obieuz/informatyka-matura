@@ -1,0 +1,26 @@
+1
+
+miesiące	całkowita dostawa_malin	całkowita dostawa_truskawek	całkowita dostawa_porzeczek
+maj		9238	9287	3309
+cze		9485	8916	5081
+lip		11592	11339	10567
+sie		11045	11386	11078
+wrz		6532	7476	6355
+
+2
+
+19
+
+3
+
+nazwa_koniftury	ile razy wyprodukowana
+malinowo-truskawkowe	72
+malinowo-porzeczkowe	41
+truskawkowo-porzeczkowe	40
+
+4
+
+nazwa_koniftury	ile kilogramow
+malinowo-truskawkowe	29732
+malinowo-porzeczkowe	18008
+truskawkowo-porzeczkowe	18382

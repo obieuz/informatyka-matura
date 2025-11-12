@@ -1,0 +1,2073 @@
+data	nazwa_obszaru	masa [kg]	zawartosc [%]
+2033-03-03	Cebrenia	27,8	0,2
+2033-03-04	Amenthes	11,8	1,7
+2033-03-05	Noachis	21,0	6,0
+2033-03-06	Coprates	26,3	11,4
+2033-03-07	Ismenius Lacus	28,8	0,0
+2033-03-08	Mare Boreum	29,2	0,0
+2033-03-09	Iapygia	25,6	28,7
+2033-03-10	Amazonis	10,1	7,7
+2033-03-11	Sinus Sabaeus	14,6	0,0
+2033-03-12	Eridania	11,5	1,9
+2033-03-13	Mare Boreum	15,2	0,0
+2033-03-14	Iapygia	10,2	13,3
+2033-03-15	Arabia	20,4	4,6
+2033-03-16	Arabia	13,6	8,0
+2033-03-17	Phoenicis Lacus	11,0	11,6
+2033-03-18	Oxia Palus	14,1	0,0
+2033-03-19	Iapygia	19,2	0,0
+2033-03-20	Iapygia	20,7	0,0
+2033-03-21	Lunae Palus	29,5	2,1
+2033-03-22	Amazonis	24,4	10,1
+2033-03-23	Memnonia	15,6	6,6
+2033-03-24	Mare Boreum	22,7	2,9
+2033-03-25	Phoenicis Lacus	15,1	0,0
+2033-03-26	Tharsis	14,1	0,8
+2033-03-27	Coprates	24,9	2,2
+2033-03-28	Elysium	14,8	0,0
+2033-03-29	Arabia	18,8	0,0
+2033-03-30	Phoenicis Lacus	29,3	8,0
+2033-03-31	Margaritifer Sinus	29,4	2,4
+2033-04-01	Mare Acidalium	16,8	2,9
+2033-04-02	Sinus Sabaeus	21,4	6,3
+2033-04-03	Coprates	23,9	0,0
+2033-04-04	Sinus Sabaeus	26,7	0,0
+2033-04-05	Coprates	12,4	0,0
+2033-04-06	Sinus Sabaeus	10,4	10,7
+2033-04-07	Mare Boreum	17,9	0,0
+2033-04-08	Elysium	17,4	1,6
+2033-04-09	Amazonis	29,4	21,7
+2033-04-10	Tharsis	22,9	26,9
+2033-04-11	Tharsis	18,9	11,3
+2033-04-12	Amenthes	23,5	0,0
+2033-04-13	Memnonia	13,4	14,2
+2033-04-14	Elysium	18,9	1,5
+2033-04-15	Lunae Palus	13,5	1,4
+2033-04-16	Amenthes	17,7	5,9
+2033-04-17	Amazonis	24,7	0,0
+2033-04-18	Memnonia	25,6	1,9
+2033-04-19	Mare Acidalium	18,4	0,0
+2033-04-20	Aeolis	27,0	0,0
+2033-04-21	Iapygia	16,0	0,0
+2033-04-22	Coprates	18,6	7,4
+2033-04-23	Iapygia	12,7	30,8
+2033-04-24	Tharsis	14,5	0,0
+2033-04-25	Argyre	12,2	3,5
+2033-04-26	Syrtis Major	19,9	0,0
+2033-04-27	Arcadia	28,1	5,3
+2033-04-28	Iapygia	27,7	45,3
+2033-04-29	Amenthes	14,6	5,2
+2033-04-30	Memnonia	10,8	0,0
+2033-05-01	Casius	12,4	3,2
+2033-05-02	Iapygia	25,2	0,0
+2033-05-03	Iapygia	28,9	0,0
+2033-05-04	Tharsis	13,2	23,3
+2033-05-05	Iapygia	27,9	0,0
+2033-05-06	Coprates	10,9	3,5
+2033-05-07	Phoenicis Lacus	25,5	20,0
+2033-05-08	Mare Boreum	26,0	0,0
+2033-05-09	Syrtis Major	25,8	0,1
+2033-05-10	Arabia	17,5	0,5
+2033-05-11	Iapygia	17,8	3,3
+2033-05-12	Iapygia	17,5	0,0
+2033-05-13	Eridania	16,1	0,0
+2033-05-14	Amenthes	11,8	7,0
+2033-05-15	Phoenicis Lacus	26,2	0,0
+2033-05-16	Noachis	28,8	2,9
+2033-05-17	Iapygia	18,7	0,0
+2033-05-18	Memnonia	10,3	9,2
+2033-05-19	Noachis	29,8	3,4
+2033-05-20	Iapygia	26,2	32,3
+2033-05-21	Tharsis	13,8	15,9
+2033-05-22	Tharsis	22,4	24,5
+2033-05-23	Tharsis	24,5	0,9
+2033-05-24	Thaumasia	23,1	0,3
+2033-05-25	Syrtis Major	29,8	0,0
+2033-05-26	Cebrenia	11,2	0,0
+2033-05-27	Tharsis	18,7	0,0
+2033-05-28	Memnonia	11,4	8,1
+2033-05-29	Eridania	21,3	13,4
+2033-05-30	Amenthes	24,5	2,6
+2033-05-31	Tharsis	20,0	13,2
+2033-06-01	Iapygia	28,4	12,0
+2033-06-02	Amazonis	14,8	10,1
+2033-06-03	Mare Australe	27,9	0,6
+2033-06-04	Sinus Sabaeus	19,9	9,8
+2033-06-05	Tharsis	22,5	0,0
+2033-06-06	Ismenius Lacus	21,6	4,9
+2033-06-07	Iapygia	28,1	0,0
+2033-06-08	Sinus Sabaeus	21,5	8,6
+2033-06-09	Arabia	22,7	0,1
+2033-06-10	Iapygia	27,4	21,8
+2033-06-11	Tharsis	18,3	17,3
+2033-06-12	Tharsis	29,0	27,3
+2033-06-13	Memnonia	18,1	0,0
+2033-06-14	Elysium	16,4	1,1
+2033-06-15	Noachis	21,8	0,0
+2033-06-16	Mare Australe	27,2	0,0
+2033-06-17	Mare Acidalium	21,2	0,0
+2033-06-18	Tharsis	17,7	13,9
+2033-06-19	Mare Acidalium	10,6	6,9
+2033-06-20	Casius	10,4	1,1
+2033-06-21	Iapygia	15,8	7,1
+2033-06-22	Mare Boreum	19,9	10,8
+2033-06-23	Amazonis	13,0	0,0
+2033-06-24	Coprates	28,1	15,0
+2033-06-25	Sinus Sabaeus	22,5	8,6
+2033-06-26	Tharsis	14,0	36,1
+2033-06-27	Iapygia	10,6	18,4
+2033-06-28	Aeolis	22,3	0,0
+2033-06-29	Tharsis	14,5	26,0
+2033-06-30	Amenthes	21,0	1,7
+2033-07-01	Cebrenia	17,7	0,4
+2033-07-02	Coprates	24,3	9,7
+2033-07-03	Phoenicis Lacus	18,8	6,4
+2033-07-04	Eridania	15,9	5,2
+2033-07-05	Coprates	26,1	0,0
+2033-07-06	Tharsis	29,4	8,8
+2033-07-07	Eridania	10,5	14,5
+2033-07-08	Diacria	18,1	0,0
+2033-07-09	Phoenicis Lacus	20,6	0,0
+2033-07-10	Phoenicis Lacus	17,1	0,0
+2033-07-11	Mare Acidalium	17,0	0,3
+2033-07-12	Aeolis	14,7	2,3
+2033-07-13	Phoenicis Lacus	21,7	0,0
+2033-07-14	Oxia Palus	12,5	0,0
+2033-07-15	Ismenius Lacus	17,8	4,1
+2033-07-16	Iapygia	28,9	38,7
+2033-07-17	Amazonis	21,0	3,5
+2033-07-18	Margaritifer Sinus	13,0	0,1
+2033-07-19	Iapygia	23,1	0,0
+2033-07-20	Phoenicis Lacus	28,5	0,0
+2033-07-21	Phoenicis Lacus	12,8	0,0
+2033-07-22	Hellas	26,8	0,0
+2033-07-23	Iapygia	15,1	24,8
+2033-07-24	Memnonia	14,4	13,5
+2033-07-25	Amazonis	29,2	15,7
+2033-07-26	Iapygia	28,9	47,2
+2033-07-27	Elysium	18,4	3,9
+2033-07-28	Lunae Palus	26,2	4,0
+2033-07-29	Iapygia	14,3	45,1
+2033-07-30	Coprates	14,5	0,0
+2033-07-31	Iapygia	18,6	5,5
+2033-08-01	Coprates	26,3	14,5
+2033-08-02	Mare Tyrrhenum	25,9	0,7
+2033-08-03	Sinus Sabaeus	29,8	0,0
+2033-08-04	Iapygia	18,3	18,7
+2033-08-05	Sinus Sabaeus	24,5	6,7
+2033-08-06	Tharsis	18,7	0,0
+2033-08-07	Tharsis	29,2	34,9
+2033-08-08	Mare Boreum	21,4	10,7
+2033-08-09	Phoenicis Lacus	25,6	3,1
+2033-08-10	Phoenicis Lacus	15,7	5,1
+2033-08-11	Noachis	27,3	11,0
+2033-08-12	Syrtis Major	28,4	2,7
+2033-08-13	Amazonis	22,0	3,3
+2033-08-14	Ismenius Lacus	19,4	0,0
+2033-08-15	Phoenicis Lacus	22,7	14,8
+2033-08-16	Coprates	22,6	16,5
+2033-08-17	Lunae Palus	26,1	0,0
+2033-08-18	Phoenicis Lacus	27,6	6,7
+2033-08-19	Sinus Sabaeus	13,2	0,0
+2033-08-20	Margaritifer Sinus	22,0	0,0
+2033-08-21	Mare Boreum	10,8	7,6
+2033-08-22	Iapygia	15,6	38,4
+2033-08-23	Arcadia	11,7	0,5
+2033-08-24	Iapygia	27,2	8,3
+2033-08-25	Iapygia	24,7	28,9
+2033-08-26	Amazonis	18,2	12,5
+2033-08-27	Amazonis	14,6	17,9
+2033-08-28	Amazonis	16,5	13,9
+2033-08-29	Memnonia	29,4	0,0
+2033-08-30	Iapygia	17,9	0,0
+2033-08-31	Lunae Palus	29,8	0,0
+2033-09-01	Cebrenia	18,7	0,0
+2033-09-02	Sinus Sabaeus	24,3	7,8
+2033-09-03	Eridania	29,3	4,6
+2033-09-04	Coprates	18,4	0,0
+2033-09-05	Coprates	10,3	16,0
+2033-09-06	Iapygia	27,5	0,0
+2033-09-07	Coprates	20,6	15,7
+2033-09-08	Amazonis	21,3	0,0
+2033-09-09	Tharsis	26,2	0,0
+2033-09-10	Iapygia	23,9	0,0
+2033-09-11	Casius	26,6	1,6
+2033-09-12	Iapygia	18,6	20,4
+2033-09-13	Memnonia	22,3	1,7
+2033-09-14	Lunae Palus	18,4	3,9
+2033-09-15	Casius	28,0	4,4
+2033-09-16	Iapygia	10,9	32,9
+2033-09-17	Tharsis	25,1	33,3
+2033-09-18	Thaumasia	10,7	0,3
+2033-09-19	Iapygia	26,1	31,0
+2033-09-20	Amazonis	15,2	12,7
+2033-09-21	Arabia	28,8	4,3
+2033-09-22	Arcadia	10,3	0,0
+2033-09-23	Noachis	14,9	0,1
+2033-09-24	Iapygia	11,3	0,0
+2033-09-25	Iapygia	20,8	34,9
+2033-09-26	Tharsis	18,2	0,0
+2033-09-27	Lunae Palus	12,7	5,3
+2033-09-28	Arabia	21,4	8,3
+2033-09-29	Noachis	21,3	11,8
+2033-09-30	Lunae Palus	20,7	3,9
+2033-10-01	Elysium	19,7	0,0
+2033-10-02	Amazonis	27,2	17,6
+2033-10-03	Syrtis Major	16,6	1,7
+2033-10-04	Amazonis	22,3	0,0
+2033-10-05	Iapygia	18,0	40,8
+2033-10-06	Argyre	21,8	0,0
+2033-10-07	Noachis	22,2	11,2
+2033-10-08	Noachis	20,0	0,0
+2033-10-09	Mare Tyrrhenum	29,4	0,7
+2033-10-10	Iapygia	23,6	0,0
+2033-10-11	Coprates	16,3	22,0
+2033-10-12	Phoenicis Lacus	15,0	0,0
+2033-10-13	Arabia	10,8	0,0
+2033-10-14	Tharsis	10,5	0,0
+2033-10-15	Amenthes	20,3	0,0
+2033-10-16	Iapygia	13,1	50,4
+2033-10-17	Sinus Sabaeus	24,8	7,9
+2033-10-18	Amazonis	23,6	0,8
+2033-10-19	Lunae Palus	17,9	0,0
+2033-10-20	Sinus Sabaeus	23,2	3,0
+2033-10-21	Ismenius Lacus	21,8	2,0
+2033-10-22	Arcadia	22,2	3,1
+2033-10-23	Phoenicis Lacus	29,0	16,4
+2033-10-24	Argyre	24,6	1,7
+2033-10-25	Sinus Sabaeus	23,4	0,6
+2033-10-26	Phoenicis Lacus	21,0	0,0
+2033-10-27	Amenthes	22,0	0,0
+2033-10-28	Mare Boreum	29,9	8,0
+2033-10-29	Coprates	27,2	19,2
+2033-10-30	Tharsis	10,9	9,0
+2033-10-31	Mare Boreum	22,6	5,9
+2033-11-01	Aeolis	12,0	3,9
+2033-11-02	Phoenicis Lacus	19,5	14,2
+2033-11-03	Iapygia	27,0	10,9
+2033-11-04	Mare Acidalium	10,7	5,6
+2033-11-05	Tharsis	29,1	0,0
+2033-11-06	Casius	25,3	0,0
+2033-11-07	Noachis	13,3	4,4
+2033-11-08	Coprates	16,9	0,0
+2033-11-09	Phoenicis Lacus	26,4	6,8
+2033-11-10	Arabia	29,7	0,0
+2033-11-11	Coprates	17,6	8,7
+2033-11-12	Lunae Palus	13,2	3,3
+2033-11-13	Phoenicis Lacus	21,2	0,0
+2033-11-14	Phoenicis Lacus	23,0	7,7
+2033-11-15	Amazonis	23,0	0,0
+2033-11-16	Amazonis	23,4	0,0
+2033-11-17	Coprates	28,7	3,3
+2033-11-18	Arcadia	23,6	4,3
+2033-11-19	Noachis	10,2	8,7
+2033-11-20	Mare Boreum	13,8	0,0
+2033-11-21	Ismenius Lacus	27,7	0,0
+2033-11-22	Coprates	13,3	7,2
+2033-11-23	Amazonis	26,0	0,7
+2033-11-24	Noachis	16,3	11,0
+2033-11-25	Phoenicis Lacus	23,5	15,5
+2033-11-26	Casius	15,7	0,0
+2033-11-27	Arcadia	26,0	6,4
+2033-11-28	Tharsis	22,7	0,0
+2033-11-29	Mare Boreum	26,2	5,7
+2033-11-30	Mare Acidalium	14,1	0,0
+2033-12-01	Amazonis	23,6	19,7
+2033-12-02	Tharsis	25,2	37,2
+2033-12-03	Eridania	23,0	0,0
+2033-12-04	Noachis	29,7	6,8
+2033-12-05	Mare Boreum	17,2	3,5
+2033-12-06	Mare Boreum	21,7	2,5
+2033-12-07	Amazonis	25,8	3,8
+2033-12-08	Arcadia	12,9	1,6
+2033-12-09	Oxia Palus	18,2	0,0
+2033-12-10	Iapygia	20,0	25,7
+2033-12-11	Tharsis	17,1	33,0
+2033-12-12	Amenthes	23,2	2,3
+2033-12-13	Phoenicis Lacus	23,1	2,2
+2033-12-14	Iapygia	22,4	33,5
+2033-12-15	Phaethontis	25,4	0,9
+2033-12-16	Iapygia	15,4	1,6
+2033-12-17	Syrtis Major	23,5	0,6
+2033-12-18	Phoenicis Lacus	10,3	15,4
+2033-12-19	Iapygia	15,5	20,2
+2033-12-20	Argyre	20,7	3,0
+2033-12-21	Eridania	12,7	14,4
+2033-12-22	Aeolis	22,8	3,3
+2033-12-23	Diacria	20,5	0,0
+2033-12-24	Mare Acidalium	13,1	5,9
+2033-12-25	Margaritifer Sinus	29,0	1,0
+2033-12-26	Tharsis	15,4	0,0
+2033-12-27	Iapygia	20,3	10,7
+2033-12-28	Iapygia	15,0	0,0
+2033-12-29	Memnonia	16,6	0,0
+2033-12-30	Amazonis	28,6	0,0
+2033-12-31	Lunae Palus	11,4	3,6
+2034-01-01	Mare Boreum	15,5	1,0
+2034-01-02	Noachis	18,3	0,7
+2034-01-03	Tharsis	14,9	6,1
+2034-01-04	Amazonis	29,7	13,3
+2034-01-05	Coprates	28,9	13,8
+2034-01-06	Lunae Palus	24,3	0,0
+2034-01-07	Iapygia	24,0	19,7
+2034-01-08	Phoenicis Lacus	11,8	13,3
+2034-01-09	Iapygia	26,5	19,7
+2034-01-10	Arcadia	12,4	5,1
+2034-01-11	Iapygia	21,9	6,6
+2034-01-12	Iapygia	20,3	0,0
+2034-01-13	Mare Tyrrhenum	27,7	0,3
+2034-01-14	Tharsis	28,5	30,0
+2034-01-15	Margaritifer Sinus	28,7	1,9
+2034-01-16	Cebrenia	10,9	0,0
+2034-01-17	Mare Boreum	13,7	0,0
+2034-01-18	Amazonis	28,2	0,0
+2034-01-19	Tharsis	20,1	0,0
+2034-01-20	Amazonis	20,6	0,0
+2034-01-21	Eridania	15,5	16,8
+2034-01-22	Sinus Sabaeus	22,2	2,4
+2034-01-23	Eridania	15,0	4,1
+2034-01-24	Tharsis	18,4	30,4
+2034-01-25	Mare Tyrrhenum	29,3	0,4
+2034-01-26	Aeolis	23,9	3,3
+2034-01-27	Elysium	29,8	3,3
+2034-01-28	Iapygia	29,1	23,0
+2034-01-29	Amazonis	22,5	17,2
+2034-01-30	Tharsis	15,3	21,5
+2034-01-31	Iapygia	13,8	40,4
+2034-02-01	Coprates	12,3	0,0
+2034-02-02	Amenthes	18,5	4,2
+2034-02-03	Elysium	10,3	3,2
+2034-02-04	Tharsis	24,9	12,1
+2034-02-05	Iapygia	26,4	0,0
+2034-02-06	Coprates	11,8	0,0
+2034-02-07	Noachis	11,0	7,5
+2034-02-08	Iapygia	15,4	5,2
+2034-02-09	Casius	25,7	5,8
+2034-02-10	Eridania	14,8	0,0
+2034-02-11	Hellas	21,5	0,8
+2034-02-12	Tharsis	26,2	8,9
+2034-02-13	Cebrenia	20,6	0,1
+2034-02-14	Iapygia	14,1	20,9
+2034-02-15	Argyre	20,8	0,7
+2034-02-16	Memnonia	17,6	10,5
+2034-02-17	Iapygia	16,8	38,9
+2034-02-18	Cebrenia	23,1	0,0
+2034-02-19	Casius	16,3	3,4
+2034-02-20	Coprates	15,7	10,9
+2034-02-21	Memnonia	29,3	2,1
+2034-02-22	Mare Acidalium	24,0	7,3
+2034-02-23	Noachis	27,0	0,6
+2034-02-24	Iapygia	26,3	1,2
+2034-02-25	Phoenicis Lacus	26,3	8,2
+2034-02-26	Noachis	25,2	4,7
+2034-02-27	Iapygia	22,1	0,0
+2034-02-28	Iapygia	11,9	41,6
+2034-03-01	Eridania	19,6	0,0
+2034-03-02	Casius	15,9	0,0
+2034-03-03	Sinus Sabaeus	24,3	1,7
+2034-03-04	Arabia	20,0	0,0
+2034-03-05	Iapygia	14,2	32,2
+2034-03-06	Coprates	20,5	18,3
+2034-03-07	Iapygia	22,4	0,0
+2034-03-08	Mare Acidalium	19,1	0,0
+2034-03-09	Phoenicis Lacus	20,4	4,3
+2034-03-10	Tharsis	29,8	0,0
+2034-03-11	Phaethontis	13,7	0,7
+2034-03-12	Ismenius Lacus	20,2	3,7
+2034-03-13	Amazonis	18,2	1,6
+2034-03-14	Eridania	14,2	2,0
+2034-03-15	Phoenicis Lacus	11,2	14,3
+2034-03-16	Mare Tyrrhenum	13,9	0,2
+2034-03-17	Amazonis	22,6	15,1
+2034-03-18	Phoenicis Lacus	29,8	0,0
+2034-03-19	Elysium	12,7	2,6
+2034-03-20	Casius	14,4	0,0
+2034-03-21	Phaethontis	18,4	0,2
+2034-03-22	Mare Boreum	27,2	9,6
+2034-03-23	Mare Acidalium	12,5	8,8
+2034-03-24	Arcadia	22,6	3,5
+2034-03-25	Coprates	21,8	6,5
+2034-03-26	Aeolis	17,2	0,0
+2034-03-27	Eridania	13,4	14,1
+2034-03-28	Mare Boreum	13,8	9,9
+2034-03-29	Argyre	10,6	1,2
+2034-03-30	Oxia Palus	28,8	0,1
+2034-03-31	Thaumasia	16,9	0,7
+2034-04-01	Memnonia	11,2	4,8
+2034-04-02	Iapygia	13,9	23,0
+2034-04-03	Amazonis	25,3	21,9
+2034-04-04	Iapygia	14,7	0,0
+2034-04-05	Sinus Sabaeus	20,3	5,3
+2034-04-06	Phoenicis Lacus	25,0	3,8
+2034-04-07	Memnonia	19,6	0,6
+2034-04-08	Sinus Sabaeus	10,8	0,0
+2034-04-09	Margaritifer Sinus	17,1	0,7
+2034-04-10	Arabia	15,1	0,0
+2034-04-11	Memnonia	26,4	1,9
+2034-04-12	Iapygia	11,6	14,4
+2034-04-13	Iapygia	16,6	40,6
+2034-04-14	Tharsis	19,5	24,9
+2034-04-15	Lunae Palus	24,9	6,5
+2034-04-16	Aeolis	19,3	0,8
+2034-04-17	Lunae Palus	26,2	2,8
+2034-04-18	Coprates	28,1	0,6
+2034-04-19	Arabia	17,0	4,8
+2034-04-20	Lunae Palus	28,5	7,1
+2034-04-21	Amenthes	14,2	2,1
+2034-04-22	Coprates	24,9	8,3
+2034-04-23	Lunae Palus	19,1	3,4
+2034-04-24	Iapygia	14,9	23,1
+2034-04-25	Casius	16,9	6,8
+2034-04-26	Sinus Sabaeus	15,9	6,8
+2034-04-27	Mare Australe	26,3	0,7
+2034-04-28	Iapygia	12,2	0,0
+2034-04-29	Coprates	27,5	0,0
+2034-04-30	Margaritifer Sinus	23,0	0,0
+2034-05-01	Tharsis	17,9	36,8
+2034-05-02	Tharsis	27,3	0,0
+2034-05-03	Cebrenia	19,3	0,4
+2034-05-04	Arabia	25,5	0,0
+2034-05-05	Noachis	13,7	11,7
+2034-05-06	Tharsis	18,4	0,0
+2034-05-07	Memnonia	11,1	0,0
+2034-05-08	Sinus Sabaeus	28,0	0,0
+2034-05-09	Noachis	16,2	13,7
+2034-05-10	Tharsis	12,1	37,2
+2034-05-11	Elysium	21,4	3,1
+2034-05-12	Iapygia	11,2	0,0
+2034-05-13	Thaumasia	18,4	0,2
+2034-05-14	Sinus Sabaeus	13,7	0,0
+2034-05-15	Tharsis	10,4	15,6
+2034-05-16	Hellas	21,8	0,0
+2034-05-17	Coprates	11,0	0,4
+2034-05-18	Iapygia	19,0	21,9
+2034-05-19	Iapygia	12,5	0,0
+2034-05-20	Phoenicis Lacus	13,6	12,6
+2034-05-21	Iapygia	20,2	17,9
+2034-05-22	Iapygia	28,7	0,0
+2034-05-23	Elysium	13,4	4,8
+2034-05-24	Phoenicis Lacus	12,0	8,9
+2034-05-25	Amazonis	28,9	13,9
+2034-05-26	Mare Acidalium	25,2	0,0
+2034-05-27	Amazonis	18,6	1,8
+2034-05-28	Arcadia	20,0	2,4
+2034-05-29	Mare Boreum	14,3	3,9
+2034-05-30	Iapygia	28,8	25,1
+2034-05-31	Tharsis	26,8	10,8
+2034-06-01	Tharsis	20,4	0,0
+2034-06-02	Mare Acidalium	14,1	4,5
+2034-06-03	Arabia	28,1	6,3
+2034-06-04	Eridania	15,7	11,5
+2034-06-05	Mare Australe	27,7	0,6
+2034-06-06	Coprates	22,9	22,6
+2034-06-07	Eridania	10,3	0,0
+2034-06-08	Aeolis	28,4	4,0
+2034-06-09	Memnonia	18,7	15,0
+2034-06-10	Tharsis	13,7	9,4
+2034-06-11	Arabia	16,3	3,6
+2034-06-12	Casius	14,0	0,0
+2034-06-13	Phoenicis Lacus	26,0	5,5
+2034-06-14	Tharsis	27,0	38,6
+2034-06-15	Iapygia	26,6	49,7
+2034-06-16	Tharsis	20,9	30,0
+2034-06-17	Mare Acidalium	28,5	5,3
+2034-06-18	Amenthes	10,4	0,0
+2034-06-19	Memnonia	25,9	9,2
+2034-06-20	Amazonis	24,6	11,0
+2034-06-21	Oxia Palus	22,0	0,0
+2034-06-22	Ismenius Lacus	16,8	2,4
+2034-06-23	Iapygia	21,7	44,1
+2034-06-24	Sinus Sabaeus	28,9	0,0
+2034-06-25	Eridania	26,6	0,4
+2034-06-26	Phoenicis Lacus	28,0	16,7
+2034-06-27	Lunae Palus	27,5	0,0
+2034-06-28	Mare Acidalium	18,2	0,0
+2034-06-29	Memnonia	25,1	0,0
+2034-06-30	Cebrenia	10,1	0,2
+2034-07-01	Phoenicis Lacus	13,1	7,9
+2034-07-02	Mare Boreum	22,9	0,0
+2034-07-03	Mare Boreum	26,3	4,0
+2034-07-04	Tharsis	11,3	19,8
+2034-07-05	Iapygia	30,0	0,0
+2034-07-06	Mare Acidalium	20,4	0,0
+2034-07-07	Coprates	24,5	8,7
+2034-07-08	Amazonis	17,0	2,7
+2034-07-09	Tharsis	21,0	5,6
+2034-07-10	Tharsis	20,7	0,0
+2034-07-11	Sinus Sabaeus	26,7	9,8
+2034-07-12	Diacria	10,2	0,1
+2034-07-13	Iapygia	15,7	5,8
+2034-07-14	Phaethontis	15,9	2,2
+2034-07-15	Tharsis	21,0	13,1
+2034-07-16	Mare Boreum	10,9	8,1
+2034-07-17	Mare Acidalium	20,9	5,9
+2034-07-18	Tharsis	21,8	15,9
+2034-07-19	Phoenicis Lacus	11,9	18,1
+2034-07-20	Eridania	12,9	0,0
+2034-07-21	Tharsis	14,9	4,8
+2034-07-22	Iapygia	29,5	0,0
+2034-07-23	Tharsis	18,1	0,0
+2034-07-24	Noachis	10,8	11,8
+2034-07-25	Mare Boreum	13,5	5,4
+2034-07-26	Mare Acidalium	15,9	0,0
+2034-07-27	Arcadia	23,1	0,0
+2034-07-28	Oxia Palus	26,7	0,0
+2034-07-29	Iapygia	26,0	29,1
+2034-07-30	Memnonia	23,6	9,1
+2034-07-31	Arcadia	29,8	5,7
+2034-08-01	Tharsis	18,6	0,0
+2034-08-02	Phoenicis Lacus	17,6	2,4
+2034-08-03	Phoenicis Lacus	12,6	9,2
+2034-08-04	Lunae Palus	25,4	5,4
+2034-08-05	Elysium	12,8	3,6
+2034-08-06	Amazonis	18,7	0,0
+2034-08-07	Phaethontis	22,3	0,0
+2034-08-08	Memnonia	26,4	0,5
+2034-08-09	Coprates	28,5	3,2
+2034-08-10	Lunae Palus	16,8	5,5
+2034-08-11	Casius	24,7	0,8
+2034-08-12	Mare Boreum	29,6	0,0
+2034-08-13	Iapygia	23,3	29,4
+2034-08-14	Mare Boreum	28,8	11,5
+2034-08-15	Mare Boreum	26,5	0,0
+2034-08-16	Aeolis	17,1	3,6
+2034-08-17	Mare Boreum	17,8	7,0
+2034-08-18	Casius	24,7	1,5
+2034-08-19	Tharsis	25,1	0,0
+2034-08-20	Mare Tyrrhenum	27,0	0,0
+2034-08-21	Memnonia	18,2	13,9
+2034-08-22	Phoenicis Lacus	10,8	7,9
+2034-08-23	Coprates	27,9	9,9
+2034-08-24	Argyre	14,1	0,7
+2034-08-25	Memnonia	17,5	3,2
+2034-08-26	Iapygia	14,3	0,0
+2034-08-27	Elysium	15,4	0,0
+2034-08-28	Tharsis	17,5	0,0
+2034-08-29	Eridania	11,6	4,1
+2034-08-30	Mare Boreum	27,9	10,3
+2034-08-31	Tharsis	11,8	20,2
+2034-09-01	Coprates	12,0	8,5
+2034-09-02	Iapygia	11,8	7,8
+2034-09-03	Lunae Palus	22,2	0,0
+2034-09-04	Coprates	13,3	3,8
+2034-09-05	Eridania	24,6	2,1
+2034-09-06	Tharsis	15,7	0,0
+2034-09-07	Memnonia	26,7	16,2
+2034-09-08	Phoenicis Lacus	28,1	1,1
+2034-09-09	Iapygia	29,1	3,0
+2034-09-10	Coprates	26,2	0,0
+2034-09-11	Hellas	23,3	0,0
+2034-09-12	Tharsis	21,7	10,4
+2034-09-13	Memnonia	18,8	15,6
+2034-09-14	Phoenicis Lacus	25,4	7,4
+2034-09-15	Amazonis	21,1	1,0
+2034-09-16	Amazonis	25,1	20,0
+2034-09-17	Coprates	17,6	0,0
+2034-09-18	Phoenicis Lacus	21,2	3,4
+2034-09-19	Coprates	26,4	14,7
+2034-09-20	Amenthes	13,5	0,0
+2034-09-21	Mare Acidalium	25,1	0,0
+2034-09-22	Amazonis	10,4	11,0
+2034-09-23	Phoenicis Lacus	24,3	4,9
+2034-09-24	Sinus Sabaeus	18,7	6,2
+2034-09-25	Phaethontis	14,1	0,0
+2034-09-26	Aeolis	24,2	0,0
+2034-09-27	Mare Acidalium	26,4	0,0
+2034-09-28	Iapygia	24,5	4,0
+2034-09-29	Arabia	25,5	2,9
+2034-09-30	Amazonis	11,8	13,5
+2034-10-01	Mare Acidalium	14,3	5,4
+2034-10-02	Mare Boreum	12,4	1,2
+2034-10-03	Tharsis	29,3	19,8
+2034-10-04	Coprates	29,4	0,0
+2034-10-05	Eridania	29,8	16,0
+2034-10-06	Tharsis	29,9	13,3
+2034-10-07	Mare Boreum	11,6	9,7
+2034-10-08	Amazonis	10,2	0,0
+2034-10-09	Mare Boreum	10,7	11,9
+2034-10-10	Diacria	11,7	0,1
+2034-10-11	Memnonia	29,4	9,6
+2034-10-12	Elysium	29,1	2,6
+2034-10-13	Iapygia	20,5	30,1
+2034-10-14	Coprates	26,2	19,0
+2034-10-15	Phoenicis Lacus	22,6	0,0
+2034-10-16	Arabia	17,7	0,0
+2034-10-17	Tharsis	21,2	0,0
+2034-10-18	Phaethontis	10,3	0,2
+2034-10-19	Syrtis Major	10,1	2,1
+2034-10-20	Ismenius Lacus	23,4	3,9
+2034-10-21	Hellas	11,7	0,0
+2034-10-22	Amenthes	26,0	2,1
+2034-10-23	Diacria	29,5	0,4
+2034-10-24	Arabia	13,0	4,4
+2034-10-25	Mare Boreum	17,1	3,8
+2034-10-26	Casius	12,6	0,2
+2034-10-27	Iapygia	23,6	24,1
+2034-10-28	Amazonis	14,9	14,2
+2034-10-29	Sinus Sabaeus	17,0	0,0
+2034-10-30	Amazonis	12,8	0,0
+2034-10-31	Eridania	17,5	0,0
+2034-11-01	Iapygia	13,9	15,3
+2034-11-02	Tharsis	25,9	14,5
+2034-11-03	Lunae Palus	12,1	0,0
+2034-11-04	Coprates	25,8	12,3
+2034-11-05	Mare Boreum	29,1	0,0
+2034-11-06	Iapygia	13,2	0,0
+2034-11-07	Coprates	29,4	12,8
+2034-11-08	Phoenicis Lacus	21,0	0,0
+2034-11-09	Noachis	22,7	12,4
+2034-11-10	Iapygia	25,1	43,4
+2034-11-11	Iapygia	26,8	26,9
+2034-11-12	Mare Australe	15,9	0,5
+2034-11-13	Memnonia	27,6	0,0
+2034-11-14	Syrtis Major	20,8	0,0
+2034-11-15	Noachis	23,9	9,9
+2034-11-16	Casius	24,8	4,7
+2034-11-17	Tharsis	16,3	0,0
+2034-11-18	Memnonia	20,1	0,0
+2034-11-19	Mare Acidalium	25,9	8,9
+2034-11-20	Tharsis	27,3	15,8
+2034-11-21	Noachis	19,1	6,3
+2034-11-22	Iapygia	16,9	0,0
+2034-11-23	Coprates	13,4	20,1
+2034-11-24	Argyre	24,8	0,4
+2034-11-25	Lunae Palus	28,4	1,6
+2034-11-26	Aeolis	25,3	1,8
+2034-11-27	Memnonia	25,9	1,6
+2034-11-28	Noachis	12,2	0,8
+2034-11-29	Phaethontis	22,8	2,3
+2034-11-30	Tharsis	12,7	0,0
+2034-12-01	Arcadia	13,0	5,1
+2034-12-02	Iapygia	13,5	4,9
+2034-12-03	Eridania	17,8	5,0
+2034-12-04	Iapygia	21,5	47,1
+2034-12-05	Ismenius Lacus	20,5	0,1
+2034-12-06	Eridania	14,4	0,0
+2034-12-07	Phoenicis Lacus	12,3	0,0
+2034-12-08	Eridania	26,5	14,0
+2034-12-09	Eridania	17,7	0,0
+2034-12-10	Arcadia	15,7	1,0
+2034-12-11	Elysium	16,2	0,0
+2034-12-12	Margaritifer Sinus	18,6	1,4
+2034-12-13	Memnonia	23,9	4,0
+2034-12-14	Iapygia	15,8	50,3
+2034-12-15	Sinus Sabaeus	26,2	8,5
+2034-12-16	Iapygia	23,1	0,0
+2034-12-17	Margaritifer Sinus	10,8	0,0
+2034-12-18	Memnonia	21,2	16,1
+2034-12-19	Coprates	26,3	21,1
+2034-12-20	Coprates	22,8	22,7
+2034-12-21	Memnonia	24,0	11,5
+2034-12-22	Arabia	16,8	2,0
+2034-12-23	Eridania	12,5	4,7
+2034-12-24	Iapygia	15,0	1,7
+2034-12-25	Memnonia	16,2	0,0
+2034-12-26	Coprates	29,3	0,0
+2034-12-27	Mare Tyrrhenum	26,4	0,2
+2034-12-28	Memnonia	23,0	0,0
+2034-12-29	Amazonis	25,4	1,2
+2034-12-30	Iapygia	24,5	22,5
+2034-12-31	Tharsis	19,0	18,9
+2035-01-01	Tharsis	10,0	7,6
+2035-01-02	Iapygia	10,4	20,6
+2035-01-03	Margaritifer Sinus	10,5	0,0
+2035-01-04	Noachis	12,1	8,8
+2035-01-05	Iapygia	20,5	0,0
+2035-01-06	Eridania	13,1	0,0
+2035-01-07	Arcadia	29,8	1,1
+2035-01-08	Phoenicis Lacus	17,1	5,5
+2035-01-09	Arabia	29,1	0,4
+2035-01-10	Memnonia	10,9	0,0
+2035-01-11	Mare Tyrrhenum	27,4	0,3
+2035-01-12	Tharsis	16,3	9,8
+2035-01-13	Coprates	14,7	0,0
+2035-01-14	Sinus Sabaeus	17,2	2,0
+2035-01-15	Phoenicis Lacus	24,2	9,9
+2035-01-16	Eridania	22,3	0,0
+2035-01-17	Mare Australe	26,7	0,6
+2035-01-18	Sinus Sabaeus	10,9	3,8
+2035-01-19	Margaritifer Sinus	23,7	0,0
+2035-01-20	Iapygia	16,0	22,3
+2035-01-21	Iapygia	19,4	41,6
+2035-01-22	Amazonis	26,7	10,0
+2035-01-23	Tharsis	20,8	0,0
+2035-01-24	Iapygia	25,6	0,0
+2035-01-25	Memnonia	18,3	0,5
+2035-01-26	Mare Boreum	27,4	4,2
+2035-01-27	Aeolis	16,1	3,4
+2035-01-28	Arabia	27,5	8,0
+2035-01-29	Mare Boreum	28,4	10,2
+2035-01-30	Eridania	16,1	4,0
+2035-01-31	Aeolis	28,4	2,6
+2035-02-01	Arabia	29,3	0,0
+2035-02-02	Eridania	19,7	16,2
+2035-02-03	Hellas	11,5	0,3
+2035-02-04	Tharsis	19,5	0,0
+2035-02-05	Elysium	22,7	0,7
+2035-02-06	Coprates	19,7	7,3
+2035-02-07	Arcadia	19,4	0,4
+2035-02-08	Aeolis	13,8	1,1
+2035-02-09	Eridania	19,6	2,3
+2035-02-10	Tharsis	22,6	13,3
+2035-02-11	Noachis	18,2	7,6
+2035-02-12	Tharsis	27,3	38,4
+2035-02-13	Tharsis	14,7	31,8
+2035-02-14	Mare Acidalium	20,6	5,9
+2035-02-15	Iapygia	12,6	14,4
+2035-02-16	Amazonis	14,5	0,0
+2035-02-17	Iapygia	24,7	36,0
+2035-02-18	Tharsis	17,9	24,9
+2035-02-19	Arabia	20,2	2,9
+2035-02-20	Ismenius Lacus	13,4	1,7
+2035-02-21	Lunae Palus	12,2	6,0
+2035-02-22	Diacria	29,8	0,4
+2035-02-23	Tharsis	16,1	28,7
+2035-02-24	Iapygia	18,8	0,0
+2035-02-25	Phoenicis Lacus	17,1	0,0
+2035-02-26	Mare Boreum	11,7	7,7
+2035-02-27	Memnonia	25,4	14,2
+2035-02-28	Mare Acidalium	12,6	9,0
+2035-03-01	Iapygia	15,8	0,0
+2035-03-02	Memnonia	24,7	13,9
+2035-03-03	Casius	26,7	0,0
+2035-03-04	Tharsis	21,2	5,3
+2035-03-05	Noachis	10,4	8,6
+2035-03-06	Arcadia	25,1	3,3
+2035-03-07	Tharsis	27,8	20,9
+2035-03-08	Amazonis	26,1	0,0
+2035-03-09	Eridania	18,3	7,8
+2035-03-10	Amazonis	16,3	0,0
+2035-03-11	Amazonis	17,2	12,5
+2035-03-12	Argyre	22,1	3,7
+2035-03-13	Aeolis	18,8	0,0
+2035-03-14	Memnonia	12,3	7,1
+2035-03-15	Iapygia	27,5	34,3
+2035-03-16	Memnonia	23,1	0,0
+2035-03-17	Amazonis	21,3	0,0
+2035-03-18	Arcadia	13,8	5,9
+2035-03-19	Eridania	20,0	16,0
+2035-03-20	Sinus Sabaeus	23,9	0,0
+2035-03-21	Mare Australe	15,3	0,1
+2035-03-22	Arabia	16,6	0,0
+2035-03-23	Casius	20,8	2,0
+2035-03-24	Amazonis	10,8	12,3
+2035-03-25	Amazonis	12,5	18,4
+2035-03-26	Mare Boreum	24,0	4,9
+2035-03-27	Iapygia	21,4	11,1
+2035-03-28	Mare Acidalium	18,3	0,0
+2035-03-29	Phoenicis Lacus	10,5	3,9
+2035-03-30	Iapygia	11,7	0,0
+2035-03-31	Coprates	26,8	0,0
+2035-04-01	Iapygia	22,1	33,8
+2035-04-02	Mare Tyrrhenum	17,1	0,0
+2035-04-03	Eridania	12,1	14,4
+2035-04-04	Tharsis	28,6	23,2
+2035-04-05	Noachis	21,2	1,5
+2035-04-06	Mare Boreum	17,2	2,4
+2035-04-07	Iapygia	22,3	0,0
+2035-04-08	Phoenicis Lacus	13,2	3,6
+2035-04-09	Memnonia	13,6	13,4
+2035-04-10	Sinus Sabaeus	15,7	0,0
+2035-04-11	Mare Boreum	24,8	0,0
+2035-04-12	Iapygia	25,1	5,1
+2035-04-13	Tharsis	14,2	23,5
+2035-04-14	Arabia	21,1	1,4
+2035-04-15	Iapygia	25,4	28,0
+2035-04-16	Iapygia	24,7	5,7
+2035-04-17	Eridania	19,8	0,0
+2035-04-18	Casius	28,4	2,9
+2035-04-19	Amazonis	26,5	0,0
+2035-04-20	Iapygia	14,1	13,1
+2035-04-21	Thaumasia	15,9	0,5
+2035-04-22	Tharsis	28,2	26,9
+2035-04-23	Thaumasia	17,1	0,5
+2035-04-24	Tharsis	27,0	0,0
+2035-04-25	Memnonia	24,1	0,0
+2035-04-26	Sinus Sabaeus	10,4	7,2
+2035-04-27	Eridania	27,2	15,1
+2035-04-28	Mare Acidalium	22,1	0,0
+2035-04-29	Arabia	13,3	8,5
+2035-04-30	Sinus Sabaeus	26,4	0,0
+2035-05-01	Syrtis Major	25,8	2,9
+2035-05-02	Phoenicis Lacus	23,0	3,8
+2035-05-03	Eridania	22,7	0,0
+2035-05-04	Arcadia	26,2	5,1
+2035-05-05	Arabia	16,6	0,0
+2035-05-06	Aeolis	23,9	0,0
+2035-05-07	Coprates	10,6	21,3
+2035-05-08	Iapygia	22,8	24,6
+2035-05-09	Amenthes	26,8	7,5
+2035-05-10	Tharsis	21,3	37,7
+2035-05-11	Sinus Sabaeus	20,3	11,0
+2035-05-12	Tharsis	25,6	20,1
+2035-05-13	Eridania	25,1	14,7
+2035-05-14	Coprates	24,3	24,3
+2035-05-15	Arabia	12,9	2,7
+2035-05-16	Tharsis	16,7	27,7
+2035-05-17	Iapygia	16,2	20,5
+2035-05-18	Sinus Sabaeus	19,5	5,1
+2035-05-19	Iapygia	22,9	6,6
+2035-05-20	Tharsis	25,9	4,4
+2035-05-21	Memnonia	20,3	4,6
+2035-05-22	Thaumasia	11,3	0,3
+2035-05-23	Iapygia	27,4	29,9
+2035-05-24	Tharsis	29,2	0,0
+2035-05-25	Cebrenia	27,4	0,0
+2035-05-26	Tharsis	10,1	8,1
+2035-05-27	Amenthes	12,9	5,9
+2035-05-28	Arabia	18,7	0,0
+2035-05-29	Mare Tyrrhenum	17,8	0,3
+2035-05-30	Iapygia	24,7	42,9
+2035-05-31	Iapygia	28,7	33,8
+2035-06-01	Memnonia	12,3	1,7
+2035-06-02	Tharsis	22,9	0,0
+2035-06-03	Lunae Palus	20,0	3,0
+2035-06-04	Iapygia	27,3	0,0
+2035-06-05	Eridania	29,9	7,7
+2035-06-06	Sinus Sabaeus	27,5	2,7
+2035-06-07	Memnonia	16,5	13,3
+2035-06-08	Amenthes	23,5	5,9
+2035-06-09	Amenthes	21,5	4,1
+2035-06-10	Phoenicis Lacus	10,3	15,6
+2035-06-11	Iapygia	15,0	0,0
+2035-06-12	Noachis	23,3	5,3
+2035-06-13	Phoenicis Lacus	10,5	14,4
+2035-06-14	Iapygia	18,5	0,0
+2035-06-15	Arabia	20,2	5,4
+2035-06-16	Aeolis	29,0	4,2
+2035-06-17	Phoenicis Lacus	12,1	18,1
+2035-06-18	Eridania	14,1	5,6
+2035-06-19	Iapygia	19,5	2,7
+2035-06-20	Casius	28,7	0,3
+2035-06-21	Tharsis	20,3	15,0
+2035-06-22	Coprates	25,9	4,7
+2035-06-23	Coprates	25,3	0,0
+2035-06-24	Elysium	22,8	0,6
+2035-06-25	Mare Acidalium	28,4	2,3
+2035-06-26	Mare Acidalium	29,7	0,0
+2035-06-27	Phoenicis Lacus	11,7	6,4
+2035-06-28	Mare Acidalium	12,8	6,9
+2035-06-29	Iapygia	11,0	0,0
+2035-06-30	Phaethontis	14,7	0,5
+2035-07-01	Arcadia	13,2	2,5
+2035-07-02	Arcadia	28,0	3,8
+2035-07-03	Amazonis	27,5	10,3
+2035-07-04	Arcadia	12,1	4,7
+2035-07-05	Phoenicis Lacus	24,7	7,2
+2035-07-06	Syrtis Major	27,1	2,6
+2035-07-07	Coprates	28,7	3,0
+2035-07-08	Iapygia	15,0	21,4
+2035-07-09	Amazonis	11,6	3,7
+2035-07-10	Iapygia	13,1	0,0
+2035-07-11	Arcadia	25,5	0,0
+2035-07-12	Thaumasia	19,4	0,7
+2035-07-13	Coprates	27,3	2,6
+2035-07-14	Iapygia	21,0	27,8
+2035-07-15	Arabia	11,5	0,0
+2035-07-16	Margaritifer Sinus	13,6	2,7
+2035-07-17	Ismenius Lacus	17,8	0,3
+2035-07-18	Ismenius Lacus	10,8	0,0
+2035-07-19	Iapygia	23,0	3,3
+2035-07-20	Amazonis	14,0	18,1
+2035-07-21	Arcadia	10,7	0,4
+2035-07-22	Eridania	24,7	9,1
+2035-07-23	Tharsis	12,2	18,6
+2035-07-24	Noachis	23,8	7,7
+2035-07-25	Sinus Sabaeus	18,5	0,0
+2035-07-26	Lunae Palus	24,6	0,4
+2035-07-27	Tharsis	24,6	10,4
+2035-07-28	Sinus Sabaeus	25,4	11,2
+2035-07-29	Amazonis	13,1	22,2
+2035-07-30	Iapygia	10,1	11,6
+2035-07-31	Phoenicis Lacus	25,0	0,0
+2035-08-01	Memnonia	20,9	11,4
+2035-08-02	Arabia	27,6	2,5
+2035-08-03	Iapygia	22,8	0,0
+2035-08-04	Mare Boreum	12,0	0,0
+2035-08-05	Aeolis	16,8	4,9
+2035-08-06	Elysium	12,9	3,0
+2035-08-07	Iapygia	18,0	13,6
+2035-08-08	Tharsis	26,0	30,4
+2035-08-09	Phoenicis Lacus	21,3	0,0
+2035-08-10	Amazonis	15,7	5,9
+2035-08-11	Iapygia	19,1	0,0
+2035-08-12	Tharsis	24,6	12,3
+2035-08-13	Iapygia	18,7	17,8
+2035-08-14	Mare Boreum	13,2	3,2
+2035-08-15	Sinus Sabaeus	24,8	2,3
+2035-08-16	Phoenicis Lacus	19,3	1,8
+2035-08-17	Memnonia	22,7	0,0
+2035-08-18	Amazonis	15,2	0,0
+2035-08-19	Aeolis	28,6	0,2
+2035-08-20	Coprates	17,9	18,6
+2035-08-21	Hellas	11,6	0,0
+2035-08-22	Margaritifer Sinus	19,0	2,2
+2035-08-23	Sinus Sabaeus	17,6	7,2
+2035-08-24	Coprates	12,1	7,2
+2035-08-25	Eridania	28,3	1,8
+2035-08-26	Memnonia	13,3	0,0
+2035-08-27	Amazonis	21,0	4,2
+2035-08-28	Iapygia	12,0	2,2
+2035-08-29	Tharsis	12,1	0,0
+2035-08-30	Amazonis	15,8	17,2
+2035-08-31	Sinus Sabaeus	25,7	5,9
+2035-09-01	Iapygia	20,5	26,0
+2035-09-02	Eridania	23,5	15,3
+2035-09-03	Sinus Sabaeus	21,7	1,2
+2035-09-04	Iapygia	29,8	0,0
+2035-09-05	Coprates	27,1	0,0
+2035-09-06	Sinus Sabaeus	27,3	0,0
+2035-09-07	Tharsis	15,5	27,6
+2035-09-08	Eridania	27,9	5,1
+2035-09-09	Iapygia	19,7	21,4
+2035-09-10	Iapygia	27,8	27,6
+2035-09-11	Mare Acidalium	12,3	2,9
+2035-09-12	Memnonia	12,8	8,8
+2035-09-13	Iapygia	15,0	0,0
+2035-09-14	Aeolis	27,6	4,7
+2035-09-15	Iapygia	19,6	0,0
+2035-09-16	Diacria	16,0	0,4
+2035-09-17	Iapygia	10,3	0,0
+2035-09-18	Memnonia	20,2	13,9
+2035-09-19	Arcadia	26,4	6,8
+2035-09-20	Lunae Palus	20,6	0,0
+2035-09-21	Tharsis	12,3	0,2
+2035-09-22	Tharsis	11,2	36,2
+2035-09-23	Ismenius Lacus	22,6	2,4
+2035-09-24	Syrtis Major	16,4	0,1
+2035-09-25	Casius	23,4	0,0
+2035-09-26	Aeolis	20,2	0,3
+2035-09-27	Amazonis	17,6	15,0
+2035-09-28	Iapygia	21,7	33,3
+2035-09-29	Iapygia	18,4	19,3
+2035-09-30	Coprates	20,1	15,4
+2035-10-01	Memnonia	16,5	14,7
+2035-10-02	Iapygia	12,3	30,2
+2035-10-03	Iapygia	29,6	42,8
+2035-10-04	Sinus Sabaeus	26,6	9,2
+2035-10-05	Memnonia	26,7	4,0
+2035-10-06	Phoenicis Lacus	23,6	0,0
+2035-10-07	Syrtis Major	13,6	2,8
+2035-10-08	Amenthes	13,8	6,5
+2035-10-09	Noachis	12,3	0,0
+2035-10-10	Coprates	12,3	0,0
+2035-10-11	Memnonia	22,7	10,3
+2035-10-12	Iapygia	19,0	0,0
+2035-10-13	Ismenius Lacus	23,4	0,0
+2035-10-14	Phoenicis Lacus	28,2	0,0
+2035-10-15	Phoenicis Lacus	20,1	9,7
+2035-10-16	Lunae Palus	29,6	0,0
+2035-10-17	Coprates	25,8	0,0
+2035-10-18	Iapygia	19,6	18,5
+2035-10-19	Tharsis	21,5	3,0
+2035-10-20	Phoenicis Lacus	24,2	17,4
+2035-10-21	Casius	12,0	0,0
+2035-10-22	Phaethontis	23,0	0,0
+2035-10-23	Tharsis	19,8	29,2
+2035-10-24	Amenthes	14,9	0,8
+2035-10-25	Phoenicis Lacus	17,9	10,3
+2035-10-26	Coprates	26,0	0,0
+2035-10-27	Sinus Sabaeus	21,5	9,3
+2035-10-28	Tharsis	29,9	2,4
+2035-10-29	Iapygia	12,3	35,1
+2035-10-30	Lunae Palus	21,7	3,9
+2035-10-31	Iapygia	10,7	0,0
+2035-11-01	Amenthes	21,5	0,0
+2035-11-02	Iapygia	26,0	33,8
+2035-11-03	Phoenicis Lacus	24,4	15,4
+2035-11-04	Amenthes	20,8	0,0
+2035-11-05	Eridania	18,2	15,7
+2035-11-06	Lunae Palus	25,6	7,0
+2035-11-07	Amazonis	25,2	0,0
+2035-11-08	Sinus Sabaeus	19,5	5,3
+2035-11-09	Argyre	15,2	2,1
+2035-11-10	Phoenicis Lacus	21,3	11,4
+2035-11-11	Phoenicis Lacus	21,8	17,4
+2035-11-12	Oxia Palus	27,7	0,5
+2035-11-13	Iapygia	28,5	46,0
+2035-11-14	Casius	25,7	0,0
+2035-11-15	Iapygia	18,0	0,5
+2035-11-16	Noachis	29,5	0,0
+2035-11-17	Memnonia	21,0	10,3
+2035-11-18	Elysium	11,4	3,2
+2035-11-19	Iapygia	12,7	0,0
+2035-11-20	Amenthes	14,1	6,2
+2035-11-21	Iapygia	29,5	29,9
+2035-11-22	Mare Acidalium	18,4	0,0
+2035-11-23	Iapygia	29,6	43,9
+2035-11-24	Phoenicis Lacus	22,6	14,6
+2035-11-25	Arabia	13,2	6,7
+2035-11-26	Noachis	10,4	8,5
+2035-11-27	Eridania	16,9	16,4
+2035-11-28	Phoenicis Lacus	19,4	0,0
+2035-11-29	Argyre	16,9	1,0
+2035-11-30	Iapygia	18,4	0,0
+2035-12-01	Phoenicis Lacus	13,4	12,8
+2035-12-02	Coprates	28,8	0,0
+2035-12-03	Eridania	19,5	1,3
+2035-12-04	Amazonis	29,0	14,0
+2035-12-05	Iapygia	29,6	28,7
+2035-12-06	Noachis	26,5	0,0
+2035-12-07	Memnonia	24,8	12,1
+2035-12-08	Iapygia	20,0	14,7
+2035-12-09	Tharsis	16,9	38,3
+2035-12-10	Iapygia	11,5	24,7
+2035-12-11	Eridania	11,4	0,0
+2035-12-12	Noachis	28,5	0,0
+2035-12-13	Mare Acidalium	27,9	0,7
+2035-12-14	Coprates	26,7	15,5
+2035-12-15	Memnonia	28,3	6,8
+2035-12-16	Iapygia	28,9	0,0
+2035-12-17	Elysium	21,6	4,0
+2035-12-18	Aeolis	16,5	4,2
+2035-12-19	Eridania	24,6	10,6
+2035-12-20	Iapygia	28,9	40,8
+2035-12-21	Iapygia	22,1	10,0
+2035-12-22	Margaritifer Sinus	29,3	0,0
+2035-12-23	Memnonia	18,8	4,7
+2035-12-24	Tharsis	26,5	7,3
+2035-12-25	Amazonis	24,0	0,0
+2035-12-26	Tharsis	21,0	12,2
+2035-12-27	Lunae Palus	28,1	6,7
+2035-12-28	Arabia	23,3	4,8
+2035-12-29	Lunae Palus	14,3	1,5
+2035-12-30	Syrtis Major	12,6	1,1
+2035-12-31	Tharsis	18,1	0,0
+2036-01-01	Phoenicis Lacus	19,0	11,0
+2036-01-02	Arabia	13,1	0,0
+2036-01-03	Eridania	17,3	1,1
+2036-01-04	Lunae Palus	23,7	5,9
+2036-01-05	Phaethontis	26,3	0,0
+2036-01-06	Phoenicis Lacus	16,4	0,0
+2036-01-07	Mare Boreum	13,0	0,0
+2036-01-08	Amazonis	28,6	1,0
+2036-01-09	Iapygia	11,1	2,4
+2036-01-10	Argyre	12,9	2,9
+2036-01-11	Diacria	28,4	0,9
+2036-01-12	Tharsis	21,8	3,4
+2036-01-13	Noachis	20,8	11,8
+2036-01-14	Eridania	17,4	0,0
+2036-01-15	Noachis	24,8	0,0
+2036-01-16	Mare Boreum	12,9	0,0
+2036-01-17	Lunae Palus	25,9	0,0
+2036-01-18	Iapygia	11,5	23,2
+2036-01-19	Elysium	25,5	0,0
+2036-01-20	Phaethontis	22,6	2,2
+2036-01-21	Iapygia	14,2	0,0
+2036-01-22	Eridania	26,9	9,2
+2036-01-23	Tharsis	30,0	32,3
+2036-01-24	Casius	16,2	5,2
+2036-01-25	Amazonis	12,2	0,0
+2036-01-26	Phoenicis Lacus	28,7	0,5
+2036-01-27	Noachis	23,3	11,1
+2036-01-28	Phoenicis Lacus	30,0	16,1
+2036-01-29	Memnonia	16,0	9,8
+2036-01-30	Elysium	21,6	3,4
+2036-01-31	Tharsis	27,9	4,8
+2036-02-01	Eridania	17,5	14,7
+2036-02-02	Coprates	20,7	0,0
+2036-02-03	Iapygia	10,8	36,4
+2036-02-04	Tharsis	27,6	32,8
+2036-02-05	Amazonis	10,8	11,6
+2036-02-06	Lunae Palus	13,7	0,0
+2036-02-07	Memnonia	19,5	0,0
+2036-02-08	Mare Boreum	21,6	11,6
+2036-02-09	Lunae Palus	21,6	2,7
+2036-02-10	Argyre	16,1	0,0
+2036-02-11	Noachis	29,4	12,5
+2036-02-12	Arcadia	17,8	5,9
+2036-02-13	Tharsis	26,1	14,8
+2036-02-14	Iapygia	13,8	0,0
+2036-02-15	Sinus Sabaeus	16,1	6,2
+2036-02-16	Iapygia	23,2	45,8
+2036-02-17	Sinus Sabaeus	18,9	0,0
+2036-02-18	Tharsis	28,9	34,1
+2036-02-19	Iapygia	19,3	49,6
+2036-02-20	Memnonia	23,9	11,7
+2036-02-21	Eridania	28,6	11,5
+2036-02-22	Arcadia	14,5	0,3
+2036-02-23	Iapygia	13,0	0,0
+2036-02-24	Tharsis	16,2	9,2
+2036-02-25	Phoenicis Lacus	27,1	6,3
+2036-02-26	Iapygia	15,6	28,0
+2036-02-27	Arcadia	28,9	6,8
+2036-02-28	Noachis	13,8	11,9
+2036-02-29	Noachis	17,8	1,5
+2036-03-01	Mare Acidalium	25,1	0,0
+2036-03-02	Mare Acidalium	29,5	0,0
+2036-03-03	Arcadia	16,1	7,1
+2036-03-04	Mare Boreum	18,0	12,0
+2036-03-05	Iapygia	12,2	26,8
+2036-03-06	Arabia	20,7	4,7
+2036-03-07	Iapygia	20,1	47,4
+2036-03-08	Iapygia	14,9	43,8
+2036-03-09	Iapygia	19,0	0,0
+2036-03-10	Noachis	12,5	0,0
+2036-03-11	Eridania	15,2	13,9
+2036-03-12	Tharsis	29,2	26,8
+2036-03-13	Noachis	13,9	1,1
+2036-03-14	Phoenicis Lacus	11,4	0,0
+2036-03-15	Mare Boreum	15,8	7,0
+2036-03-16	Iapygia	10,2	43,3
+2036-03-17	Eridania	19,6	8,9
+2036-03-18	Noachis	15,5	10,1
+2036-03-19	Phoenicis Lacus	19,9	16,2
+2036-03-20	Memnonia	10,7	2,8
+2036-03-21	Arcadia	11,5	5,9
+2036-03-22	Arabia	28,4	1,0
+2036-03-23	Tharsis	22,3	5,1
+2036-03-24	Eridania	28,7	11,5
+2036-03-25	Noachis	19,1	0,0
+2036-03-26	Iapygia	10,2	7,6
+2036-03-27	Iapygia	18,4	0,0
+2036-03-28	Tharsis	29,3	0,0
+2036-03-29	Lunae Palus	26,7	5,7
+2036-03-30	Ismenius Lacus	22,2	0,9
+2036-03-31	Eridania	25,5	5,8
+2036-04-01	Tharsis	23,5	32,0
+2036-04-02	Amenthes	28,4	5,7
+2036-04-03	Mare Acidalium	13,7	6,0
+2036-04-04	Mare Boreum	22,1	11,7
+2036-04-05	Amazonis	16,9	18,2
+2036-04-06	Mare Acidalium	28,0	0,0
+2036-04-07	Iapygia	13,5	3,7
+2036-04-08	Tharsis	13,4	22,5
+2036-04-09	Noachis	19,9	11,6
+2036-04-10	Coprates	24,2	11,0
+2036-04-11	Casius	20,4	0,0
+2036-04-12	Casius	16,6	3,9
+2036-04-13	Phaethontis	14,3	0,0
+2036-04-14	Arcadia	24,4	4,4
+2036-04-15	Iapygia	26,7	30,4
+2036-04-16	Eridania	20,1	3,1
+2036-04-17	Noachis	13,5	6,9
+2036-04-18	Coprates	18,8	21,5
+2036-04-19	Tharsis	18,0	13,9
+2036-04-20	Casius	16,9	1,8
+2036-04-21	Noachis	23,7	13,0
+2036-04-22	Mare Tyrrhenum	17,6	0,6
+2036-04-23	Coprates	29,1	8,3
+2036-04-24	Mare Boreum	26,8	11,2
+2036-04-25	Memnonia	10,5	0,0
+2036-04-26	Amazonis	13,5	0,0
+2036-04-27	Iapygia	14,0	22,0
+2036-04-28	Amazonis	26,7	8,0
+2036-04-29	Arcadia	11,2	6,1
+2036-04-30	Casius	24,7	0,0
+2036-05-01	Mare Australe	27,2	0,3
+2036-05-02	Diacria	11,0	0,0
+2036-05-03	Sinus Sabaeus	10,9	4,4
+2036-05-04	Coprates	27,4	6,0
+2036-05-05	Noachis	20,0	7,6
+2036-05-06	Memnonia	23,5	2,5
+2036-05-07	Amazonis	28,5	0,0
+2036-05-08	Casius	10,8	5,8
+2036-05-09	Phoenicis Lacus	18,9	9,5
+2036-05-10	Eridania	24,0	4,0
+2036-05-11	Sinus Sabaeus	12,7	3,0
+2036-05-12	Coprates	13,4	6,2
+2036-05-13	Iapygia	15,9	0,0
+2036-05-14	Amazonis	19,4	21,2
+2036-05-15	Phoenicis Lacus	16,3	17,6
+2036-05-16	Amazonis	28,0	20,4
+2036-05-17	Sinus Sabaeus	19,0	5,2
+2036-05-18	Casius	24,1	4,8
+2036-05-19	Iapygia	15,2	25,7
+2036-05-20	Amazonis	16,3	21,0
+2036-05-21	Coprates	26,9	0,0
+2036-05-22	Mare Boreum	25,0	0,5
+2036-05-23	Lunae Palus	25,1	5,2
+2036-05-24	Sinus Sabaeus	29,2	7,1
+2036-05-25	Eridania	18,1	5,1
+2036-05-26	Amazonis	12,5	0,0
+2036-05-27	Amazonis	19,1	0,3
+2036-05-28	Tharsis	27,4	0,0
+2036-05-29	Coprates	21,1	10,4
+2036-05-30	Casius	13,4	0,0
+2036-05-31	Amenthes	11,9	7,3
+2036-06-01	Eridania	20,4	4,3
+2036-06-02	Coprates	29,5	18,6
+2036-06-03	Sinus Sabaeus	24,1	5,0
+2036-06-04	Arabia	11,5	3,6
+2036-06-05	Syrtis Major	21,2	1,8
+2036-06-06	Iapygia	22,2	40,3
+2036-06-07	Iapygia	14,6	2,6
+2036-06-08	Eridania	23,3	8,1
+2036-06-09	Eridania	16,2	10,4
+2036-06-10	Iapygia	25,9	0,0
+2036-06-11	Amenthes	14,6	7,0
+2036-06-12	Memnonia	15,1	11,7
+2036-06-13	Tharsis	14,1	6,5
+2036-06-14	Casius	22,1	1,8
+2036-06-15	Amazonis	27,2	21,9
+2036-06-16	Noachis	10,8	0,0
+2036-06-17	Coprates	24,6	0,0
+2036-06-18	Iapygia	27,8	26,3
+2036-06-19	Arabia	12,9	2,8
+2036-06-20	Eridania	13,9	0,6
+2036-06-21	Mare Australe	27,6	0,6
+2036-06-22	Amazonis	18,6	21,5
+2036-06-23	Noachis	17,8	0,0
+2036-06-24	Phoenicis Lacus	20,8	8,5
+2036-06-25	Mare Acidalium	16,4	6,8
+2036-06-26	Casius	14,6	0,0
+2036-06-27	Mare Boreum	27,1	1,2
+2036-06-28	Iapygia	18,3	3,7
+2036-06-29	Mare Australe	27,1	0,2
+2036-06-30	Phoenicis Lacus	12,9	10,2
+2036-07-01	Tharsis	19,1	19,6
+2036-07-02	Noachis	19,2	3,6
+2036-07-03	Mare Boreum	25,2	0,0
+2036-07-04	Phoenicis Lacus	13,5	6,3
+2036-07-05	Sinus Sabaeus	19,2	7,7
+2036-07-06	Arabia	24,1	7,8
+2036-07-07	Iapygia	17,8	13,4
+2036-07-08	Coprates	24,7	21,1
+2036-07-09	Elysium	16,8	0,0
+2036-07-10	Amenthes	10,7	3,0
+2036-07-11	Noachis	29,3	8,3
+2036-07-12	Syrtis Major	28,2	0,0
+2036-07-13	Iapygia	17,3	33,6
+2036-07-14	Noachis	24,6	0,0
+2036-07-15	Sinus Sabaeus	12,6	0,6
+2036-07-16	Tharsis	27,3	0,0
+2036-07-17	Ismenius Lacus	14,4	2,0
+2036-07-18	Iapygia	11,2	32,6
+2036-07-19	Tharsis	11,4	5,5
+2036-07-20	Arabia	22,9	0,0
+2036-07-21	Coprates	14,3	13,2
+2036-07-22	Iapygia	22,9	22,9
+2036-07-23	Amazonis	11,8	0,0
+2036-07-24	Memnonia	24,5	0,0
+2036-07-25	Phoenicis Lacus	25,5	19,3
+2036-07-26	Tharsis	14,7	18,3
+2036-07-27	Phoenicis Lacus	28,7	0,0
+2036-07-28	Iapygia	16,7	0,0
+2036-07-29	Phoenicis Lacus	17,4	13,7
+2036-07-30	Iapygia	15,6	0,0
+2036-07-31	Tharsis	21,7	0,0
+2036-08-01	Coprates	26,0	0,0
+2036-08-02	Mare Acidalium	24,5	9,0
+2036-08-03	Lunae Palus	23,2	0,0
+2036-08-04	Argyre	17,6	0,8
+2036-08-05	Coprates	13,9	8,8
+2036-08-06	Casius	20,7	4,3
+2036-08-07	Amenthes	10,1	1,7
+2036-08-08	Coprates	26,2	22,7
+2036-08-09	Tharsis	27,6	13,8
+2036-08-10	Noachis	20,6	4,7
+2036-08-11	Mare Boreum	21,4	5,0
+2036-08-12	Noachis	17,1	0,0
+2036-08-13	Iapygia	19,5	20,5
+2036-08-14	Eridania	15,9	0,0
+2036-08-15	Iapygia	21,1	46,8
+2036-08-16	Tharsis	20,2	36,6
+2036-08-17	Sinus Sabaeus	25,0	7,8
+2036-08-18	Iapygia	22,1	8,8
+2036-08-19	Phaethontis	28,9	0,5
+2036-08-20	Amazonis	19,6	0,0
+2036-08-21	Coprates	18,0	13,2
+2036-08-22	Sinus Sabaeus	28,3	0,0
+2036-08-23	Noachis	25,2	0,0
+2036-08-24	Iapygia	22,5	0,0
+2036-08-25	Eridania	19,9	6,7
+2036-08-26	Amazonis	10,8	19,6
+2036-08-27	Tharsis	18,4	0,6
+2036-08-28	Arcadia	27,6	3,7
+2036-08-29	Arcadia	11,3	1,9
+2036-08-30	Arcadia	28,7	0,0
+2036-08-31	Margaritifer Sinus	15,0	1,7
+2036-09-01	Coprates	15,1	13,5
+2036-09-02	Tharsis	19,4	29,6
+2036-09-03	Coprates	21,9	1,6
+2036-09-04	Memnonia	19,4	9,8
+2036-09-05	Coprates	21,8	18,5
+2036-09-06	Lunae Palus	29,3	2,8
+2036-09-07	Tharsis	14,4	0,0
+2036-09-08	Iapygia	14,5	0,0
+2036-09-09	Phoenicis Lacus	18,4	10,1
+2036-09-10	Memnonia	29,8	0,0
+2036-09-11	Coprates	27,3	18,6
+2036-09-12	Mare Boreum	22,7	0,0
+2036-09-13	Iapygia	27,3	18,4
+2036-09-14	Memnonia	12,9	0,0
+2036-09-15	Tharsis	24,3	1,9
+2036-09-16	Memnonia	20,6	14,6
+2036-09-17	Amenthes	24,2	0,0
+2036-09-18	Iapygia	15,2	0,0
+2036-09-19	Syrtis Major	27,3	2,5
+2036-09-20	Syrtis Major	28,0	0,0
+2036-09-21	Hellas	16,1	0,0
+2036-09-22	Tharsis	18,8	16,9
+2036-09-23	Iapygia	13,2	10,4
+2036-09-24	Amenthes	17,9	3,5
+2036-09-25	Coprates	18,3	16,7
+2036-09-26	Lunae Palus	25,7	2,0
+2036-09-27	Iapygia	29,2	31,5
+2036-09-28	Coprates	21,5	0,0
+2036-09-29	Amazonis	29,5	12,2
+2036-09-30	Coprates	17,7	10,1
+2036-10-01	Tharsis	26,7	1,2
+2036-10-02	Iapygia	13,3	0,5
+2036-10-03	Coprates	13,4	23,4
+2036-10-04	Amazonis	22,1	17,7
+2036-10-05	Mare Acidalium	11,4	0,0
+2036-10-06	Phoenicis Lacus	26,0	4,9
+2036-10-07	Phoenicis Lacus	27,8	6,7
+2036-10-08	Coprates	29,3	1,7
+2036-10-09	Aeolis	24,7	2,5
+2036-10-10	Cebrenia	16,6	0,1
+2036-10-11	Memnonia	27,5	0,0
+2036-10-12	Phoenicis Lacus	22,7	0,0
+2036-10-13	Sinus Sabaeus	20,1	10,5
+2036-10-14	Coprates	16,1	8,1
+2036-10-15	Coprates	13,9	0,0
+2036-10-16	Sinus Sabaeus	22,3	0,0
+2036-10-17	Arcadia	13,0	0,0
+2036-10-18	Amazonis	16,2	0,0
+2036-10-19	Arabia	24,8	0,0
+2036-10-20	Eridania	29,7	0,0
+2036-10-21	Iapygia	17,6	14,7
+2036-10-22	Iapygia	10,4	27,7
+2036-10-23	Phoenicis Lacus	17,0	1,1
+2036-10-24	Memnonia	15,7	5,9
+2036-10-25	Tharsis	23,8	4,3
+2036-10-26	Amazonis	16,2	8,7
+2036-10-27	Amenthes	23,3	5,8
+2036-10-28	Coprates	18,7	1,1
+2036-10-29	Lunae Palus	27,9	2,6
+2036-10-30	Memnonia	19,8	0,0
+2036-10-31	Amazonis	16,7	3,5
+2036-11-01	Aeolis	28,6	0,0
+2036-11-02	Iapygia	10,8	32,9
+2036-11-03	Memnonia	12,8	0,0
+2036-11-04	Arcadia	17,6	0,0
+2036-11-05	Mare Acidalium	24,1	0,0
+2036-11-06	Amazonis	11,4	18,2
+2036-11-07	Mare Boreum	21,9	5,4
+2036-11-08	Arcadia	16,8	1,6
+2036-11-09	Noachis	26,0	0,0
+2036-11-10	Amazonis	20,2	10,0
+2036-11-11	Tharsis	20,3	37,8
+2036-11-12	Coprates	27,5	20,8
+2036-11-13	Tharsis	24,2	2,9
+2036-11-14	Amazonis	10,7	14,3
+2036-11-15	Tharsis	17,3	0,0
+2036-11-16	Amazonis	13,5	21,1
+2036-11-17	Noachis	13,6	6,0
+2036-11-18	Amenthes	19,9	0,0
+2036-11-19	Memnonia	13,1	10,2
+2036-11-20	Margaritifer Sinus	29,8	1,9
+2036-11-21	Thaumasia	23,7	0,3
+2036-11-22	Tharsis	14,0	0,0
+2036-11-23	Diacria	19,0	0,5
+2036-11-24	Mare Tyrrhenum	23,9	0,5
+2036-11-25	Tharsis	12,8	26,7
+2036-11-26	Coprates	26,9	4,5
+2036-11-27	Arcadia	10,6	0,0
+2036-11-28	Amazonis	21,1	10,6
+2036-11-29	Noachis	11,7	9,9
+2036-11-30	Ismenius Lacus	20,5	3,7
+2036-12-01	Tharsis	27,4	10,4
+2036-12-02	Iapygia	15,8	10,2
+2036-12-03	Tharsis	19,6	0,0
+2036-12-04	Iapygia	16,9	48,4
+2036-12-05	Tharsis	12,2	0,0
+2036-12-06	Iapygia	16,6	14,1
+2036-12-07	Amazonis	27,6	0,0
+2036-12-08	Phoenicis Lacus	24,8	0,0
+2036-12-09	Iapygia	23,1	29,8
+2036-12-10	Casius	12,4	6,1
+2036-12-11	Tharsis	13,9	21,5
+2036-12-12	Elysium	16,6	4,7
+2036-12-13	Eridania	17,7	14,0
+2036-12-14	Amazonis	19,0	1,7
+2036-12-15	Coprates	29,9	0,0
+2036-12-16	Tharsis	23,7	31,4
+2036-12-17	Iapygia	25,4	0,0
+2036-12-18	Memnonia	24,3	15,8
+2036-12-19	Coprates	10,8	0,0
+2036-12-20	Iapygia	19,0	9,1
+2036-12-21	Phoenicis Lacus	27,8	15,2
+2036-12-22	Coprates	28,8	0,0
+2036-12-23	Amenthes	12,6	0,8
+2036-12-24	Amenthes	20,7	0,0
+2036-12-25	Tharsis	19,4	19,3
+2036-12-26	Iapygia	24,3	8,8
+2036-12-27	Tharsis	21,2	36,0
+2036-12-28	Amenthes	28,4	0,0
+2036-12-29	Casius	17,1	5,4
+2036-12-30	Iapygia	24,4	23,8
+2036-12-31	Memnonia	18,5	6,0
+2037-01-01	Tharsis	24,1	21,5
+2037-01-02	Mare Acidalium	17,9	5,4
+2037-01-03	Mare Acidalium	15,8	7,4
+2037-01-04	Diacria	19,6	0,3
+2037-01-05	Tharsis	17,7	0,0
+2037-01-06	Casius	19,9	4,7
+2037-01-07	Amenthes	10,6	4,8
+2037-01-08	Tharsis	25,6	17,4
+2037-01-09	Mare Boreum	22,4	7,7
+2037-01-10	Ismenius Lacus	14,5	3,8
+2037-01-11	Mare Boreum	15,0	4,2
+2037-01-12	Eridania	24,0	11,5
+2037-01-13	Aeolis	20,7	2,9
+2037-01-14	Thaumasia	13,5	0,7
+2037-01-15	Tharsis	23,7	13,1
+2037-01-16	Iapygia	12,1	36,0
+2037-01-17	Eridania	21,8	10,9
+2037-01-18	Mare Acidalium	17,4	0,0
+2037-01-19	Noachis	15,6	0,0
+2037-01-20	Eridania	13,7	0,0
+2037-01-21	Iapygia	24,7	16,2
+2037-01-22	Phoenicis Lacus	25,3	14,2
+2037-01-23	Phoenicis Lacus	18,4	0,0
+2037-01-24	Arabia	10,2	0,0
+2037-01-25	Phaethontis	26,9	0,0
+2037-01-26	Ismenius Lacus	28,2	0,0
+2037-01-27	Coprates	15,9	0,0
+2037-01-28	Iapygia	19,7	0,0
+2037-01-29	Coprates	16,0	0,0
+2037-01-30	Noachis	20,8	0,0
+2037-01-31	Aeolis	12,5	0,0
+2037-02-01	Phoenicis Lacus	12,7	2,4
+2037-02-02	Memnonia	23,5	11,5
+2037-02-03	Arabia	17,8	1,8
+2037-02-04	Amazonis	11,0	0,0
+2037-02-05	Sinus Sabaeus	21,3	5,2
+2037-02-06	Coprates	19,6	8,1
+2037-02-07	Amazonis	25,7	4,2
+2037-02-08	Iapygia	20,9	28,6
+2037-02-09	Tharsis	26,4	3,2
+2037-02-10	Tharsis	26,5	13,1
+2037-02-11	Ismenius Lacus	11,7	0,0
+2037-02-12	Sinus Sabaeus	24,7	0,3
+2037-02-13	Mare Boreum	24,4	9,6
+2037-02-14	Tharsis	19,0	28,8
+2037-02-15	Iapygia	13,7	19,3
+2037-02-16	Iapygia	28,9	20,4
+2037-02-17	Elysium	25,2	0,0
+2037-02-18	Amazonis	15,4	9,0
+2037-02-19	Oxia Palus	24,1	0,3
+2037-02-20	Mare Acidalium	27,7	0,0
+2037-02-21	Amazonis	19,6	21,1
+2037-02-22	Aeolis	29,0	3,2
+2037-02-23	Hellas	10,3	0,7
+2037-02-24	Iapygia	11,0	40,2
+2037-02-25	Amazonis	28,6	0,6
+2037-02-26	Lunae Palus	22,5	1,0
+2037-02-27	Sinus Sabaeus	19,6	0,0
+2037-02-28	Thaumasia	19,9	0,0
+2037-03-01	Noachis	21,7	9,4
+2037-03-02	Sinus Sabaeus	15,3	0,0
+2037-03-03	Phoenicis Lacus	20,9	12,4
+2037-03-04	Amenthes	17,0	0,0
+2037-03-05	Noachis	25,8	1,4
+2037-03-06	Casius	19,1	2,5
+2037-03-07	Eridania	24,6	12,5
+2037-03-08	Phoenicis Lacus	22,6	15,4
+2037-03-09	Mare Boreum	18,3	4,7
+2037-03-10	Coprates	25,5	0,0
+2037-03-11	Memnonia	26,6	0,0
+2037-03-12	Coprates	19,8	14,9
+2037-03-13	Arcadia	23,7	0,9
+2037-03-14	Argyre	23,5	1,0
+2037-03-15	Amenthes	18,8	7,8
+2037-03-16	Noachis	18,7	10,0
+2037-03-17	Tharsis	28,3	21,8
+2037-03-18	Mare Acidalium	10,6	6,4
+2037-03-19	Iapygia	26,2	19,2
+2037-03-20	Eridania	25,3	8,7
+2037-03-21	Mare Acidalium	21,6	1,0
+2037-03-22	Tharsis	24,9	23,5
+2037-03-23	Phoenicis Lacus	27,7	11,5
+2037-03-24	Tharsis	12,3	0,0
+2037-03-25	Elysium	10,2	0,8
+2037-03-26	Iapygia	23,1	0,0
+2037-03-27	Memnonia	11,3	0,0
+2037-03-28	Tharsis	29,5	10,4
+2037-03-29	Phoenicis Lacus	19,7	0,0
+2037-03-30	Amenthes	27,9	3,4
+2037-03-31	Iapygia	17,4	34,2
+2037-04-01	Lunae Palus	23,0	0,0
+2037-04-02	Margaritifer Sinus	27,6	0,0
+2037-04-03	Mare Acidalium	11,6	0,0
+2037-04-04	Elysium	24,2	5,0
+2037-04-05	Noachis	13,2	2,3
+2037-04-06	Coprates	27,0	0,7
+2037-04-07	Noachis	23,9	6,2
+2037-04-08	Tharsis	16,8	17,6
+2037-04-09	Tharsis	28,5	15,2
+2037-04-10	Phaethontis	25,2	1,9
+2037-04-11	Iapygia	24,9	6,8
+2037-04-12	Sinus Sabaeus	14,7	5,7
+2037-04-13	Iapygia	12,2	14,1
+2037-04-14	Mare Boreum	24,2	8,0
+2037-04-15	Mare Acidalium	28,7	0,0
+2037-04-16	Iapygia	28,5	0,0
+2037-04-17	Coprates	29,3	23,3
+2037-04-18	Iapygia	13,3	4,9
+2037-04-19	Iapygia	22,6	0,7
+2037-04-20	Elysium	19,3	3,0
+2037-04-21	Ismenius Lacus	17,9	5,1
+2037-04-22	Elysium	16,7	0,3
+2037-04-23	Elysium	22,0	0,0
+2037-04-24	Mare Boreum	21,2	5,9
+2037-04-25	Amazonis	20,6	4,6
+2037-04-26	Tharsis	29,4	9,2
+2037-04-27	Coprates	21,3	0,0
+2037-04-28	Mare Boreum	20,1	2,2
+2037-04-29	Iapygia	12,7	5,6
+2037-04-30	Amazonis	28,9	0,0
+2037-05-01	Tharsis	24,4	28,7
+2037-05-02	Iapygia	10,8	0,0
+2037-05-03	Iapygia	18,4	0,0
+2037-05-04	Tharsis	23,3	10,7
+2037-05-05	Phoenicis Lacus	27,9	14,8
+2037-05-06	Sinus Sabaeus	24,7	9,0
+2037-05-07	Tharsis	14,3	22,0
+2037-05-08	Phaethontis	26,2	2,0
+2037-05-09	Oxia Palus	21,5	0,4
+2037-05-10	Iapygia	12,8	0,0
+2037-05-11	Mare Boreum	24,6	3,0
+2037-05-12	Casius	22,6	1,6
+2037-05-13	Eridania	27,3	9,3
+2037-05-14	Tharsis	10,8	22,2
+2037-05-15	Lunae Palus	12,0	5,3
+2037-05-16	Coprates	28,1	0,0
+2037-05-17	Amazonis	16,1	9,0
+2037-05-18	Memnonia	29,0	1,6
+2037-05-19	Amazonis	23,6	16,0
+2037-05-20	Tharsis	11,6	32,0
+2037-05-21	Phoenicis Lacus	15,9	5,5
+2037-05-22	Arcadia	28,3	6,0
+2037-05-23	Sinus Sabaeus	16,6	11,3
+2037-05-24	Mare Acidalium	25,2	6,4
+2037-05-25	Iapygia	29,5	26,1
+2037-05-26	Memnonia	13,3	7,3
+2037-05-27	Lunae Palus	19,5	3,4
+2037-05-28	Syrtis Major	11,9	1,7
+2037-05-29	Arabia	29,5	5,1
+2037-05-30	Tharsis	25,1	0,0
+2037-05-31	Mare Acidalium	15,1	0,0
+2037-06-01	Phaethontis	19,7	1,7
+2037-06-02	Tharsis	25,6	0,0
+2037-06-03	Amazonis	25,0	18,8
+2037-06-04	Aeolis	11,5	0,0
+2037-06-05	Iapygia	23,8	7,3
+2037-06-06	Tharsis	25,3	14,7
+2037-06-07	Iapygia	22,6	42,2
+2037-06-08	Arabia	18,1	3,3
+2037-06-09	Tharsis	17,8	0,0
+2037-06-10	Iapygia	25,1	25,5
+2037-06-11	Memnonia	12,0	0,0
+2037-06-12	Iapygia	23,2	0,0
+2037-06-13	Noachis	16,0	7,9
+2037-06-14	Phoenicis Lacus	26,5	20,2
+2037-06-15	Mare Australe	28,9	0,3
+2037-06-16	Iapygia	26,6	0,0
+2037-06-17	Coprates	13,1	19,9
+2037-06-18	Iapygia	21,5	33,4
+2037-06-19	Hellas	25,7	0,0
+2037-06-20	Tharsis	11,8	23,0
+2037-06-21	Syrtis Major	12,6	0,7
+2037-06-22	Casius	26,2	0,3
+2037-06-23	Ismenius Lacus	29,1	5,0
+2037-06-24	Mare Acidalium	18,9	7,5
+2037-06-25	Amazonis	10,5	7,3
+2037-06-26	Aeolis	15,1	6,0
+2037-06-27	Coprates	27,8	8,3
+2037-06-28	Oxia Palus	11,7	0,4
+2037-06-29	Iapygia	10,5	36,9
+2037-06-30	Amenthes	21,0	7,1
+2037-07-01	Argyre	17,4	3,7
+2037-07-02	Memnonia	21,9	7,6
+2037-07-03	Memnonia	26,0	4,6
+2037-07-04	Tharsis	12,2	19,3
+2037-07-05	Ismenius Lacus	22,4	0,3
+2037-07-06	Mare Acidalium	18,6	7,2
+2037-07-07	Iapygia	17,1	0,0
+2037-07-08	Tharsis	25,1	24,3
+2037-07-09	Amazonis	10,4	22,2
+2037-07-10	Memnonia	28,9	0,0
+2037-07-11	Hellas	24,1	0,0
+2037-07-12	Tharsis	23,2	22,1
+2037-07-13	Eridania	24,1	9,3
+2037-07-14	Iapygia	14,6	0,0
+2037-07-15	Elysium	17,7	0,0
+2037-07-16	Noachis	20,1	11,5
+2037-07-17	Ismenius Lacus	27,5	0,0
+2037-07-18	Coprates	10,9	9,0
+2037-07-19	Argyre	27,6	3,2
+2037-07-20	Tharsis	24,5	15,3
+2037-07-21	Lunae Palus	10,8	0,0
+2037-07-22	Tharsis	28,7	27,2
+2037-07-23	Mare Boreum	21,5	0,6
+2037-07-24	Argyre	20,1	0,8
+2037-07-25	Tharsis	21,3	14,6
+2037-07-26	Casius	20,2	6,9
+2037-07-27	Eridania	16,8	7,6
+2037-07-28	Noachis	26,5	2,5
+2037-07-29	Coprates	18,9	0,0
+2037-07-30	Elysium	22,9	1,2
+2037-07-31	Tharsis	11,3	32,7
+2037-08-01	Eridania	13,0	1,7
+2037-08-02	Ismenius Lacus	18,3	2,5
+2037-08-03	Coprates	10,2	14,3
+2037-08-04	Amazonis	14,5	10,5
+2037-08-05	Arabia	12,3	7,4
+2037-08-06	Eridania	17,0	16,9
+2037-08-07	Amenthes	17,5	0,0
+2037-08-08	Cebrenia	28,4	0,0
+2037-08-09	Tharsis	13,1	36,6
+2037-08-10	Coprates	16,6	6,6
+2037-08-11	Tharsis	20,2	0,0
+2037-08-12	Coprates	26,4	11,9
+2037-08-13	Iapygia	11,8	0,0
+2037-08-14	Lunae Palus	19,5	6,4
+2037-08-15	Tharsis	12,0	13,3
+2037-08-16	Mare Acidalium	16,3	7,5
+2037-08-17	Lunae Palus	22,8	2,7
+2037-08-18	Iapygia	16,2	43,3
+2037-08-19	Argyre	11,5	3,1
+2037-08-20	Eridania	13,5	0,0
+2037-08-21	Lunae Palus	16,2	6,4
+2037-08-22	Iapygia	18,5	24,9
+2037-08-23	Tharsis	10,9	0,0
+2037-08-24	Lunae Palus	23,9	4,5
+2037-08-25	Amazonis	20,2	0,0
+2037-08-26	Coprates	23,3	0,0
+2037-08-27	Eridania	26,3	2,2
+2037-08-28	Eridania	20,3	16,6
+2037-08-29	Iapygia	11,1	38,0
+2037-08-30	Amenthes	10,7	1,2
+2037-08-31	Margaritifer Sinus	21,8	0,0
+2037-09-01	Coprates	29,7	2,5
+2037-09-02	Iapygia	21,7	16,1
+2037-09-03	Iapygia	26,0	47,6
+2037-09-04	Coprates	18,0	5,3
+2037-09-05	Argyre	15,8	3,6
+2037-09-06	Arcadia	14,1	6,8
+2037-09-07	Argyre	22,3	1,8
+2037-09-08	Tharsis	22,2	0,0
+2037-09-09	Noachis	23,8	0,0
+2037-09-10	Arabia	10,0	8,1
+2037-09-11	Argyre	23,8	0,0
+2037-09-12	Aeolis	13,4	2,6
+2037-09-13	Argyre	17,0	1,5
+2037-09-14	Noachis	25,5	0,0
+2037-09-15	Arabia	19,7	0,0
+2037-09-16	Iapygia	22,8	10,7
+2037-09-17	Oxia Palus	25,5	0,0
+2037-09-18	Iapygia	16,8	2,2
+2037-09-19	Aeolis	25,3	2,5
+2037-09-20	Syrtis Major	26,3	0,4
+2037-09-21	Eridania	21,9	7,0
+2037-09-22	Eridania	11,2	0,0
+2037-09-23	Phoenicis Lacus	10,6	5,2
+2037-09-24	Sinus Sabaeus	17,7	1,0
+2037-09-25	Coprates	19,9	0,0
+2037-09-26	Iapygia	25,1	42,1
+2037-09-27	Mare Boreum	18,5	0,3
+2037-09-28	Iapygia	25,5	25,3
+2037-09-29	Iapygia	12,8	0,0
+2037-09-30	Tharsis	23,6	34,3
+2037-10-01	Phoenicis Lacus	13,1	2,0
+2037-10-02	Aeolis	23,0	0,0
+2037-10-03	Eridania	13,0	15,8
+2037-10-04	Mare Boreum	19,5	8,0
+2037-10-05	Coprates	19,2	0,0
+2037-10-06	Amenthes	28,3	1,1
+2037-10-07	Iapygia	18,1	0,0
+2037-10-08	Tharsis	17,5	13,3
+2037-10-09	Noachis	26,7	12,9
+2037-10-10	Tharsis	26,6	0,0
+2037-10-11	Mare Acidalium	12,2	1,8
+2037-10-12	Coprates	27,4	4,8
+2037-10-13	Eridania	24,9	1,6
+2037-10-14	Casius	21,4	5,5
+2037-10-15	Mare Australe	14,1	0,0
+2037-10-16	Syrtis Major	15,4	2,1
+2037-10-17	Eridania	27,7	0,0
+2037-10-18	Iapygia	15,5	43,4
+2037-10-19	Coprates	26,8	0,0
+2037-10-20	Eridania	23,1	9,1
+2037-10-21	Noachis	22,8	12,9
+2037-10-22	Iapygia	17,2	0,0
+2037-10-23	Iapygia	29,3	6,1
+2037-10-24	Eridania	19,5	14,2
+2037-10-25	Tharsis	28,1	9,4
+2037-10-26	Amazonis	21,1	12,0
+2037-10-27	Coprates	23,8	13,3
+2037-10-28	Argyre	19,4	2,2
+2037-10-29	Coprates	25,8	17,1
+2037-10-30	Coprates	30,0	6,3
+2037-10-31	Iapygia	11,0	0,0
+2037-11-01	Tharsis	27,2	0,0
+2037-11-02	Coprates	18,3	8,4
+2037-11-03	Syrtis Major	14,0	2,5
+2037-11-04	Coprates	26,2	6,9
+2037-11-05	Phoenicis Lacus	25,5	8,4
+2037-11-06	Memnonia	23,1	11,4
+2037-11-07	Sinus Sabaeus	21,3	2,8
+2037-11-08	Sinus Sabaeus	16,3	7,6
+2037-11-09	Arabia	23,7	7,6
+2037-11-10	Memnonia	24,8	0,0
+2037-11-11	Phaethontis	21,7	1,0
+2037-11-12	Iapygia	16,7	21,0
+2037-11-13	Aeolis	22,3	0,1
+2037-11-14	Arcadia	13,6	0,0
+2037-11-15	Syrtis Major	11,8	2,1
+2037-11-16	Amazonis	11,1	0,0
+2037-11-17	Eridania	11,2	15,0
+2037-11-18	Aeolis	19,1	0,0
+2037-11-19	Iapygia	11,1	46,3
+2037-11-20	Memnonia	15,1	6,2
+2037-11-21	Phoenicis Lacus	21,7	0,0
+2037-11-22	Aeolis	19,7	0,2
+2037-11-23	Coprates	17,5	2,2
+2037-11-24	Noachis	18,8	11,3
+2037-11-25	Diacria	19,6	0,3
+2037-11-26	Amazonis	24,4	22,0
+2037-11-27	Aeolis	10,5	0,1
+2037-11-28	Mare Boreum	23,5	0,0
+2037-11-29	Casius	19,2	0,0
+2037-11-30	Noachis	11,0	0,0
+2037-12-01	Amazonis	10,4	0,0
+2037-12-02	Coprates	11,9	9,0
+2037-12-03	Arabia	23,1	2,0
+2037-12-04	Tharsis	18,6	17,2
+2037-12-05	Noachis	21,8	12,3
+2037-12-06	Arabia	27,7	7,4
+2037-12-07	Tharsis	23,2	24,0
+2037-12-08	Tharsis	25,8	16,1
+2037-12-09	Amenthes	19,8	6,6
+2037-12-10	Memnonia	11,2	7,5
+2037-12-11	Iapygia	15,7	0,0
+2037-12-12	Diacria	23,6	0,6
+2037-12-13	Ismenius Lacus	27,5	5,3
+2037-12-14	Amenthes	17,3	0,0
+2037-12-15	Tharsis	11,2	32,7
+2037-12-16	Amazonis	17,8	0,0
+2037-12-17	Iapygia	16,9	41,8
+2037-12-18	Amazonis	18,3	0,0
+2037-12-19	Lunae Palus	12,2	0,0
+2037-12-20	Eridania	21,2	0,0
+2037-12-21	Iapygia	19,6	48,2
+2037-12-22	Mare Boreum	15,6	0,6
+2037-12-23	Arcadia	12,5	5,9
+2037-12-24	Sinus Sabaeus	29,3	0,0
+2037-12-25	Memnonia	24,6	0,0
+2037-12-26	Mare Boreum	21,2	3,1
+2037-12-27	Iapygia	12,7	38,1
+2037-12-28	Aeolis	20,6	5,2
+2037-12-29	Sinus Sabaeus	28,3	0,0
+2037-12-30	Tharsis	15,1	22,6
+2037-12-31	Phoenicis Lacus	24,8	10,5
+2038-01-01	Margaritifer Sinus	16,9	1,2
+2038-01-02	Margaritifer Sinus	23,4	0,0
+2038-01-03	Coprates	10,5	22,2
+2038-01-04	Iapygia	16,2	0,0
+2038-01-05	Oxia Palus	29,7	0,3
+2038-01-06	Iapygia	12,8	0,0
+2038-01-07	Ismenius Lacus	19,1	1,7
+2038-01-08	Amazonis	27,7	0,0
+2038-01-09	Arabia	22,0	5,9
+2038-01-10	Noachis	19,6	2,7
+2038-01-11	Ismenius Lacus	16,0	0,3
+2038-01-12	Amenthes	14,0	1,3
+2038-01-13	Phoenicis Lacus	29,5	3,3
+2038-01-14	Coprates	12,2	0,0
+2038-01-15	Amazonis	15,0	7,4
+2038-01-16	Elysium	10,4	2,0
+2038-01-17	Tharsis	18,6	4,6
+2038-01-18	Memnonia	23,7	7,2
+2038-01-19	Amenthes	27,2	0,0
+2038-01-20	Phoenicis Lacus	11,3	18,8
+2038-01-21	Coprates	22,1	0,0
+2038-01-22	Sinus Sabaeus	11,0	0,0
+2038-01-23	Tharsis	14,7	0,0
+2038-01-24	Tharsis	10,4	14,4
+2038-01-25	Argyre	29,6	2,8
+2038-01-26	Memnonia	11,3	7,2
+2038-01-27	Elysium	22,4	0,0
+2038-01-28	Tharsis	19,6	28,7
+2038-01-29	Noachis	28,5	12,9
+2038-01-30	Argyre	10,9	0,0
+2038-01-31	Eridania	13,4	15,7
+2038-02-01	Tharsis	27,3	0,0
+2038-02-02	Mare Boreum	23,6	0,0
+2038-02-03	Coprates	26,5	20,3
+2038-02-04	Mare Boreum	23,6	6,5
+2038-02-05	Amazonis	22,4	13,3
+2038-02-06	Memnonia	22,0	15,5
+2038-02-07	Casius	10,8	0,4
+2038-02-08	Phoenicis Lacus	21,6	0,0
+2038-02-09	Ismenius Lacus	10,1	0,0
+2038-02-10	Amazonis	29,0	12,6
+2038-02-11	Ismenius Lacus	16,4	3,7
+2038-02-12	Tharsis	13,5	38,5
+2038-02-13	Arabia	18,1	3,0
+2038-02-14	Coprates	20,4	11,7
+2038-02-15	Phoenicis Lacus	29,6	0,9
+2038-02-16	Mare Tyrrhenum	11,4	0,6
+2038-02-17	Amazonis	28,8	14,1
+2038-02-18	Iapygia	11,8	42,4
+2038-02-19	Coprates	11,5	10,1
+2038-02-20	Eridania	13,6	8,4
+2038-02-21	Hellas	14,1	0,7
+2038-02-22	Tharsis	19,4	32,7
+2038-02-23	Phaethontis	28,5	0,0
+2038-02-24	Tharsis	23,7	12,2
+2038-02-25	Elysium	21,7	0,0
+2038-02-26	Noachis	13,3	0,0
+2038-02-27	Mare Boreum	14,4	0,0
+2038-02-28	Amazonis	28,5	21,5
+2038-03-01	Tharsis	20,5	0,0
+2038-03-02	Iapygia	11,4	39,0
+2038-03-03	Mare Boreum	12,5	0,0
+2038-03-04	Phoenicis Lacus	16,6	4,6
+2038-03-05	Phoenicis Lacus	10,6	11,3
+2038-03-06	Coprates	27,9	16,1
+2038-03-07	Iapygia	11,1	28,2
+2038-03-08	Coprates	21,5	12,8
+2038-03-09	Noachis	28,4	4,6
+2038-03-10	Mare Acidalium	18,1	5,9
+2038-03-11	Elysium	25,3	0,0
+2038-03-12	Mare Boreum	15,6	10,6
+2038-03-13	Tharsis	19,9	0,0
+2038-03-14	Coprates	24,7	14,7
+2038-03-15	Aeolis	21,9	5,6
+2038-03-16	Arabia	18,0	6,2
+2038-03-17	Mare Australe	24,5	0,6
+2038-03-18	Ismenius Lacus	10,9	0,0
+2038-03-19	Arcadia	11,3	2,7
+2038-03-20	Iapygia	13,2	30,0
+2038-03-21	Ismenius Lacus	18,7	4,7
+2038-03-22	Ismenius Lacus	12,1	1,5
+2038-03-23	Phoenicis Lacus	11,9	1,3
+2038-03-24	Arcadia	17,7	2,6
+2038-03-25	Margaritifer Sinus	25,9	0,8
+2038-03-26	Noachis	27,7	0,0
+2038-03-27	Eridania	13,3	13,3
+2038-03-28	Tharsis	11,7	4,9
+2038-03-29	Arcadia	26,5	4,5
+2038-03-30	Casius	18,7	2,3
+2038-03-31	Mare Acidalium	11,7	6,0
+2038-04-01	Tharsis	27,5	22,6
+2038-04-02	Casius	27,4	0,0
+2038-04-03	Amazonis	14,8	0,0
+2038-04-04	Lunae Palus	26,2	0,0
+2038-04-05	Phoenicis Lacus	12,9	17,9
+2038-04-06	Syrtis Major	12,5	0,0
+2038-04-07	Argyre	12,3	0,0
+2038-04-08	Amenthes	19,4	0,0
+2038-04-09	Phoenicis Lacus	20,9	0,0
+2038-04-10	Mare Boreum	10,4	0,0
+2038-04-11	Amazonis	22,2	2,5
+2038-04-12	Iapygia	16,8	0,0
+2038-04-13	Tharsis	21,7	33,3
+2038-04-14	Amazonis	10,2	16,6
+2038-04-15	Iapygia	16,5	0,0
+2038-04-16	Oxia Palus	29,1	0,5
+2038-04-17	Amazonis	17,8	0,0
+2038-04-18	Iapygia	10,0	0,0
+2038-04-19	Mare Boreum	15,5	8,6
+2038-04-20	Iapygia	15,3	21,4
+2038-04-21	Sinus Sabaeus	23,7	0,0
+2038-04-22	Amazonis	26,1	12,5
+2038-04-23	Amazonis	13,4	0,0
+2038-04-24	Amenthes	17,8	3,7
+2038-04-25	Argyre	13,0	2,7
+2038-04-26	Coprates	28,2	0,0
+2038-04-27	Iapygia	23,0	0,0
+2038-04-28	Coprates	21,5	0,0
+2038-04-29	Memnonia	22,3	0,0
+2038-04-30	Iapygia	28,2	0,0
+2038-05-01	Argyre	11,9	3,4
+2038-05-02	Memnonia	20,9	7,5
+2038-05-03	Mare Tyrrhenum	18,4	0,2
+2038-05-04	Iapygia	27,8	35,9
+2038-05-05	Tharsis	20,7	14,7
+2038-05-06	Amenthes	13,0	0,0
+2038-05-07	Tharsis	29,4	0,0
+2038-05-08	Noachis	19,8	13,9
+2038-05-09	Amazonis	10,9	17,0
+2038-05-10	Iapygia	27,3	15,8
+2038-05-11	Tharsis	16,4	0,0
+2038-05-12	Phoenicis Lacus	28,0	9,7
+2038-05-13	Coprates	17,4	6,6
+2038-05-14	Ismenius Lacus	25,7	0,7
+2038-05-15	Tharsis	20,1	11,0
+2038-05-16	Tharsis	17,9	0,0
+2038-05-17	Amazonis	10,7	6,4
+2038-05-18	Mare Boreum	20,4	0,0
+2038-05-19	Sinus Sabaeus	25,4	1,0
+2038-05-20	Ismenius Lacus	10,9	0,2
+2038-05-21	Casius	18,5	0,5
+2038-05-22	Iapygia	14,8	50,3
+2038-05-23	Memnonia	28,5	0,7
+2038-05-24	Hellas	19,4	0,0
+2038-05-25	Aeolis	20,7	4,7
+2038-05-26	Arcadia	25,7	0,0
+2038-05-27	Tharsis	21,4	0,0
+2038-05-28	Iapygia	19,2	0,0
+2038-05-29	Memnonia	19,4	14,2
+2038-05-30	Tharsis	24,2	1,9
+2038-05-31	Coprates	27,7	19,5
+2038-06-01	Amenthes	16,9	4,1
+2038-06-02	Tharsis	11,8	0,0
+2038-06-03	Sinus Sabaeus	15,7	9,4
+2038-06-04	Noachis	14,2	0,0
+2038-06-05	Phoenicis Lacus	18,1	13,1
+2038-06-06	Tharsis	21,9	27,5
+2038-06-07	Iapygia	28,0	2,1
+2038-06-08	Eridania	14,2	7,0
+2038-06-09	Eridania	11,1	0,0
+2038-06-10	Arabia	11,8	6,0
+2038-06-11	Phaethontis	26,8	0,9
+2038-06-12	Iapygia	27,3	44,5
+2038-06-13	Ismenius Lacus	14,3	3,7
+2038-06-14	Amenthes	19,4	0,0
+2038-06-15	Tharsis	26,5	0,0
+2038-06-16	Tharsis	28,3	14,4
+2038-06-17	Casius	19,8	0,0
+2038-06-18	Iapygia	16,0	28,7
+2038-06-19	Tharsis	14,5	12,0
+2038-06-20	Phoenicis Lacus	14,3	13,0
+2038-06-21	Memnonia	12,7	10,7
+2038-06-22	Mare Acidalium	12,6	0,0
+2038-06-23	Arcadia	19,9	6,6
+2038-06-24	Coprates	27,4	6,6
+2038-06-25	Tharsis	27,4	0,0
+2038-06-26	Thaumasia	11,2	0,3
+2038-06-27	Amazonis	19,9	19,4
+2038-06-28	Cebrenia	13,0	0,4
+2038-06-29	Memnonia	25,4	12,4
+2038-06-30	Mare Boreum	23,5	0,7
+2038-07-01	Mare Acidalium	16,0	0,1
+2038-07-02	Noachis	25,0	11,7
+2038-07-03	Hellas	22,2	0,9
+2038-07-04	Argyre	29,6	0,0
+2038-07-05	Iapygia	10,1	0,0
+2038-07-06	Mare Boreum	26,3	6,7
+2038-07-07	Iapygia	27,3	15,3
+2038-07-08	Amazonis	27,8	0,0
+2038-07-09	Noachis	16,7	4,9
+2038-07-10	Phoenicis Lacus	15,0	9,4
+2038-07-11	Iapygia	10,4	28,5
+2038-07-12	Phoenicis Lacus	18,1	9,6
+2038-07-13	Phaethontis	26,7	1,5
+2038-07-14	Eridania	22,9	8,9
+2038-07-15	Phoenicis Lacus	29,3	0,0
+2038-07-16	Coprates	26,4	3,2
+2038-07-17	Memnonia	20,0	7,3
+2038-07-18	Amazonis	17,1	0,0
+2038-07-19	Amenthes	18,8	0,0
+2038-07-20	Eridania	12,6	4,4
+2038-07-21	Mare Acidalium	24,0	0,0
+2038-07-22	Tharsis	13,4	35,6
+2038-07-23	Iapygia	25,7	21,1
+2038-07-24	Margaritifer Sinus	24,9	2,0
+2038-07-25	Amazonis	12,5	0,0
+2038-07-26	Iapygia	21,8	0,0
+2038-07-27	Amenthes	15,8	6,7
+2038-07-28	Sinus Sabaeus	13,9	0,0
+2038-07-29	Elysium	12,2	4,4
+2038-07-30	Amazonis	12,2	0,0
+2038-07-31	Tharsis	13,7	28,0
+2038-08-01	Lunae Palus	27,9	0,0
+2038-08-02	Eridania	25,6	1,7
+2038-08-03	Arabia	11,7	4,6
+2038-08-04	Ismenius Lacus	27,3	0,0
+2038-08-05	Amazonis	25,6	18,2
+2038-08-06	Thaumasia	23,6	0,1
+2038-08-07	Iapygia	14,6	0,0
+2038-08-08	Mare Boreum	17,4	7,8
+2038-08-09	Iapygia	27,4	0,0
+2038-08-10	Tharsis	15,2	5,9
+2038-08-11	Mare Australe	11,6	0,0
+2038-08-12	Arcadia	10,8	1,6
+2038-08-13	Mare Acidalium	12,0	3,9
+2038-08-14	Arcadia	14,0	5,0
+2038-08-15	Tharsis	26,4	0,0
+2038-08-16	Phoenicis Lacus	23,0	20,1
+2038-08-17	Ismenius Lacus	20,5	1,1
+2038-08-18	Arabia	15,9	3,1
+2038-08-19	Iapygia	20,8	6,9
+2038-08-20	Margaritifer Sinus	12,9	1,5
+2038-08-21	Tharsis	11,6	15,8
+2038-08-22	Eridania	25,6	0,0
+2038-08-23	Coprates	15,7	6,7
+2038-08-24	Arabia	25,5	0,0
+2038-08-25	Mare Acidalium	19,5	3,4
+2038-08-26	Syrtis Major	14,1	0,0
+2038-08-27	Noachis	26,4	0,0
+2038-08-28	Phoenicis Lacus	11,7	8,4
+2038-08-29	Syrtis Major	28,0	0,0
+2038-08-30	Lunae Palus	13,0	0,1
+2038-08-31	Amazonis	10,8	11,3
+2038-09-01	Amazonis	26,4	18,7
+2038-09-02	Tharsis	26,7	3,9
+2038-09-03	Amazonis	11,7	13,0
+2038-09-04	Diacria	12,0	0,4
+2038-09-05	Margaritifer Sinus	24,2	0,7
+2038-09-06	Arcadia	27,3	3,7
+2038-09-07	Eridania	10,7	0,0
+2038-09-08	Ismenius Lacus	11,1	0,0
+2038-09-09	Coprates	28,5	19,8
+2038-09-10	Tharsis	10,1	0,0
+2038-09-11	Mare Boreum	20,8	11,2
+2038-09-12	Coprates	16,6	0,0
+2038-09-13	Eridania	26,4	10,0
+2038-09-14	Mare Acidalium	15,1	0,0
+2038-09-15	Noachis	20,9	10,1
+2038-09-16	Eridania	27,3	5,3
+2038-09-17	Noachis	17,6	5,5
+2038-09-18	Tharsis	27,8	0,0
+2038-09-19	Iapygia	25,8	12,1
+2038-09-20	Arcadia	18,1	1,1
+2038-09-21	Sinus Sabaeus	21,9	7,7
+2038-09-22	Casius	23,2	5,1
+2038-09-23	Hellas	26,6	0,3
+2038-09-24	Amazonis	23,2	0,0
+2038-09-25	Iapygia	11,0	40,9
+2038-09-26	Aeolis	26,8	2,3
+2038-09-27	Eridania	22,2	0,0
+2038-09-28	Memnonia	10,2	6,1
+2038-09-29	Phaethontis	18,4	1,5
+2038-09-30	Coprates	29,4	22,3
+2038-10-01	Aeolis	23,4	0,0
+2038-10-02	Amenthes	13,6	6,1
+2038-10-03	Coprates	17,7	1,4
+2038-10-04	Aeolis	17,0	5,9
+2038-10-05	Noachis	29,6	6,6
+2038-10-06	Iapygia	23,4	0,0
+2038-10-07	Coprates	21,3	22,4
+2038-10-08	Tharsis	18,6	0,0
+2038-10-09	Eridania	16,8	2,8
+2038-10-10	Elysium	13,2	4,0
+2038-10-11	Tharsis	29,8	24,9
+2038-10-12	Iapygia	10,6	31,8
+2038-10-13	Phoenicis Lacus	11,9	12,3
+2038-10-14	Diacria	26,8	0,5
+2038-10-15	Mare Acidalium	29,0	3,5
+2038-10-16	Elysium	22,9	2,0
+2038-10-17	Margaritifer Sinus	27,1	0,0
+2038-10-18	Iapygia	11,8	49,0
+2038-10-19	Noachis	26,6	0,0
+2038-10-20	Memnonia	21,3	0,0
+2038-10-21	Amazonis	23,2	0,0
+2038-10-22	Iapygia	27,3	0,0
+2038-10-23	Eridania	21,3	2,6
+2038-10-24	Tharsis	22,9	5,3
+2038-10-25	Thaumasia	25,0	0,0
+2038-10-26	Argyre	15,9	2,5
+2038-10-27	Mare Acidalium	19,2	1,3
+2038-10-28	Coprates	22,5	10,9
+2038-10-29	Eridania	28,7	13,3
+2038-10-30	Tharsis	14,6	29,3
+2038-10-31	Memnonia	12,1	6,5
+2038-11-01	Tharsis	20,0	26,1
+2038-11-02	Casius	20,8	2,5
+2038-11-03	Coprates	26,6	5,9

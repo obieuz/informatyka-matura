@@ -1,0 +1,59 @@
+1
+
+numer nip klienta	Liczba kilogramów kupionych jabłek
+164-61-25-530		12185
+159-34-45-151		12047
+091-99-74-175		11769
+
+2
+
+całkowity przychód hurtowni	2 422 669,40 zł
+
+nazwa	całkowity przychód
+Reneta	389 921,00 zł
+
+3
+
+miesiące i najpopularniejsze jabłko w tym miesiącu	całkowita liczba kg sprzedanych jabłek
+sty	
+Gala							14017
+
+lut	
+Gala							14969
+
+mar	
+Jonagored						15079
+
+kwi	
+Gala							19404
+
+maj	
+Gala							17382
+
+cze	
+Reneta							18661
+
+lip	
+Melba							21216
+
+sie	
+Reneta							19054
+
+wrz	
+Reneta							20881
+
+paź	
+Reneta							17065
+
+lis	
+Reneta							19755
+
+gru	
+Jonagored						13425
+
+4
+
+liczba transakcji z rabatem	116
+łączna wartość rabatu	2 094,70 zł
+
+

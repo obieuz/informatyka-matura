@@ -1,0 +1,20 @@
+1
+
+data - 06.05.2015
+ilosc litrow dolanej wody - 13172
+
+3
+
+miesiąc	cena
+kwi	0,00 zł
+maj	164,36 zł
+cze	1 056,60 zł
+lip	2 559,32 zł
+sie	3 651,14 zł
+wrz	1 326,62 zł
+
+4
+
+temp_mniejsza_rowna_15	temp_wieksza_15_opady_nie_przekraczaja_0_61	temp_wieksza_15_opady_przekraczaja_0_612
+88			73						22
+

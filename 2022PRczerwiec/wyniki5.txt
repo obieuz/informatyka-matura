@@ -1,0 +1,21 @@
+1
+
+początek	17.08.2022
+koniec	31.08.2022
+
+2
+
+miesiące	sprzedane lody	sprzedana kukurydza	sprzedane hot-dogi
+cze		3527	2355	2639
+lip		3675	2448	2747
+sie		3579	2390	2665
+
+3
+
+data	27.06.2022
+suma utargu	45 358,00 zł
+
+4
+
+A	23.09.2022
+B	1,34 zł
