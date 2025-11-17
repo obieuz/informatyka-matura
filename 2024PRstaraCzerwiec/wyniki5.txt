@@ -1,0 +1,32 @@
+1
+
+miesiące	Liczba przyjezdnych
+sty	15226
+lut	13394
+mar	15096
+kwi	15292
+maj	15723
+cze	14880
+lip	16378
+sie	14778
+wrz	14294
+paź	15637
+lis	15272
+gru	15528
+
+2
+
+początek	03.10.2023
+koniec	13.10.2023
+
+3
+
+kiedy_przekroczyło_11000	16.10.2023
+najwięcej kuracjuszy	27.10.2023
+
+4
+
+a	20.02.2023
+b	7
+c	291
+
