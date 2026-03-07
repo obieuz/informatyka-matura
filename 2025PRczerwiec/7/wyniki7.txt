@@ -1,0 +1,37 @@
+7.1
+
+imie	nazwisko	wydatki
+Marta	Jasczyk	4846
+
+7.2
+
+id_klienta	imie	nazwisko
+K045	Grzegorz	Sikora
+K052	Anna	Wiatr
+K137	Natalia	Chwiszczuk
+K151	Anna	Mason
+K164	Krzysztof	Szostak
+K221	Marcin	Ozga
+K224	Krzysztof	Orlik
+K227	Hanna	Mazur
+K275	Barbara	Wroblewska
+K277	Mateusz	Szymczyk
+K282	Natalia	Kejza
+K358	Anna	Dymek
+K374	Marek	Sitko
+
+7.3
+
+1848,6 zł
+
+7.4
+
+
+id_fryzjera	imie
+F02	Natalia
+F03	Krzysztof
+F04	Grzegorz
+F07	Kamila
+F08	Aneta
+F10	Bartosz
+F18	Kalina

@@ -1,0 +1,24 @@
+a)
+
+Wiek	PoliczOfId_przedszkola
+3	795
+4	150
+5	77
+6	9
+
+b)
+
+NAZWA przedszkola				ogolem		dziewczat	chlopcow
+Przedszkole nr 87 Gwiezdna Kraina 		50		27		23
+Przedszkole nr 49 im. Panienki z Okienka	33		17		16
+Przedszkole nr 28 Srebrna Kotwica		28		14		14
+
+c)
+
+Nazwa_przedszkola		liczba_przyjętych_dzieci
+Przedszkole nr 75 Reksio	54
+
+d)
+
+Nazwa_przedszkola			dzieci_ponad_limit
+Przedszkole nr 5 Pod Wesola Chmurka	5

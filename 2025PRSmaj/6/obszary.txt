@@ -1,0 +1,31 @@
+kod_obszaru	nazwa_obszaru
+MC-01	Mare Boreum
+MC-02	Diacria
+MC-03	Arcadia
+MC-04	Mare Acidalium
+MC-05	Ismenius Lacus
+MC-06	Casius
+MC-07	Cebrenia
+MC-08	Amazonis
+MC-09	Tharsis
+MC-10	Lunae Palus
+MC-11	Oxia Palus
+MC-12	Arabia
+MC-13	Syrtis Major
+MC-14	Amenthes
+MC-15	Elysium
+MC-16	Memnonia
+MC-17	Phoenicis Lacus
+MC-18	Coprates
+MC-19	Margaritifer Sinus
+MC-20	Sinus Sabaeus
+MC-21	Iapygia
+MC-22	Mare Tyrrhenum
+MC-23	Aeolis
+MC-24	Phaethontis
+MC-25	Thaumasia
+MC-26	Argyre
+MC-27	Noachis
+MC-28	Hellas
+MC-29	Eridania
+MC-30	Mare Australe

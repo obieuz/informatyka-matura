@@ -1,0 +1,75 @@
+6.1
+
+typ_u	liczba_instalacji
+PC	16
+Phone	2814
+Tablet	267
+
+6.2
+
+producent_u	liczba_instalacji
+Samsung	478
+Huawei	142
+LGE	81
+Xiaomi	78
+Motorola	67
+OnePlus	34
+Google	33
+Lenovo	25
+Sony	23
+ZTE	21
+Asus	20
+TCT (Alcatel)	14
+Oppo	10
+Nokia	9
+Vivo	6
+HTC	5
+RCA	4
+Meizu	2
+Infinix	2
+Hyundai	2
+Lanix	2
+Sky Devices	2
+SSB PHONES	1
+Verizon Wireless	1
+Bitel	1
+Blu	1
+bq	1
+BQru	1
+Chuwi	1
+Essential Products	1
+Gigaset	1
+Vankyo	1
+Umidigi	1
+Logicom	1
+Tech 4u	1
+Myphone	1
+Itel	1
+KOOLNEE	1
+Kyocera	1
+Leeco	1
+Redmi	1
+Razer	1
+Acer	1
+Nextbook	1
+MyPhone (PL)	1
+Ulefone	1
+
+6.3
+
+nazwa_k	instalacje_na_1mil_mieszkancow
+SWITZERLAND	5,28
+SLOVENIA	4,35
+IRELAND	3,91
+AUSTRIA	3,84
+CZECH REPUBLIC	3,76
+
+6.4
+kod_u	nazwa_u		liczba_krajow
+11935	Galaxy Tab A (2016)	20
+
+6.5
+
+CUBA
+BAHRAIN
+ZIMBABWE

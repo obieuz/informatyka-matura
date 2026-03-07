@@ -1,0 +1,8 @@
+1
+139
+2
+1404
+3
+Liczba liczb w których suma cyfr = 35 --- 4
+Największa suma cyfr --- 88
+Liczba gdzie suma cyfr = 88 --- 2

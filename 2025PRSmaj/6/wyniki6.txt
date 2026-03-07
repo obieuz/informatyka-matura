@@ -1,0 +1,41 @@
+6.1
+
+rok_wyslania	liczba_łazików
+2071	8
+2067	8
+
+6.2
+
+nazwa_obszaru	woda
+Mare Boreum	4103901
+
+6.3
+
+nazwa_lazika	pierwszy pomiar ostatni pomiar
+Spirit 14	29.08.2066	25.07.2076
+
+6.4
+
+nazwa_obszaru
+Amazonis
+Arabia
+Syrtis Major
+Elysium
+Sinus Sabaeus
+Mare Tyrrhenum
+Aeolis
+Eridania
+
+6.5
+
+nazwa_lazika
+Mariner 14
+Mariner 15
+Mariner 20
+Phoenix 13
+Phoenix 3
+Rosetta 1
+Rosetta 8
+Spirit 12
+Spirit 7
+Viking 17

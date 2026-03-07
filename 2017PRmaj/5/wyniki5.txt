@@ -1,0 +1,29 @@
+5.1
+
+a)
+
+Rodzaj_meczu	liczba_meczy
+L	113
+P	25
+T	6
+
+b)
+
+rok 	liczba_meczy
+2007	21
+
+5.2
+
+Zwinne Mewy
+Nocne Pumy
+
+5.3
+
+		liczba_meczy
+przegrane	452
+remisy		170
+wygrane		579
+
+5.4
+
+22

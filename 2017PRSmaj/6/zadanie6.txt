@@ -1,0 +1,81 @@
+6.1
+
+imie	nazwisko
+Sylwia	Adamska
+Marcin	Ciesielski
+Pawel	Dziminski
+Klaudia	Kapuscinska
+Ewelina	Lagun
+Michal	Majewski
+Katarzyna	Michalak
+Kamila	Olobry
+Piotr	Otorowski
+Danuta	Pawezowska
+Tomasz	Stefanczyk
+Pawel	Straciuk
+Monika	Wer
+
+6.2
+imie	nazwisko	zapłacona_kwota
+Marcin	Ciesielski	34017,5
+
+6.3
+
+numer_miesieca liczba_rezerwacji
+6	76
+7	505
+8	291
+9	28
+
+6.4
+
+wylot	kraj	liczba_wycieczek
+Gdansk	Bulgaria	22
+Gdansk	Egipt	12
+Gdansk	Grecja	32
+Gdansk	Hiszpania	12
+Gdansk	Maroko	18
+Gdansk	Tunezja	15
+Gdansk	Turcja	18
+Katowice	Bulgaria	19
+Katowice	Egipt	41
+Katowice	Grecja	28
+Katowice	Hiszpania	21
+Katowice	Maroko	11
+Katowice	Tunezja	17
+Katowice	Turcja	21
+Krakow	Bulgaria	17
+Krakow	Egipt	12
+Krakow	Grecja	17
+Krakow	Hiszpania	9
+Krakow	Maroko	16
+Krakow	Tunezja	5
+Krakow	Turcja	15
+Lodz	Bulgaria	12
+Lodz	Egipt	3
+Lodz	Grecja	27
+Lodz	Hiszpania	16
+Lodz	Maroko	17
+Lodz	Tunezja	26
+Lodz	Turcja	28
+Poznan	Bulgaria	14
+Poznan	Egipt	15
+Poznan	Grecja	17
+Poznan	Hiszpania	17
+Poznan	Maroko	15
+Poznan	Tunezja	11
+Poznan	Turcja	22
+Warszawa	Bulgaria	15
+Warszawa	Egipt	17
+Warszawa	Grecja	24
+Warszawa	Hiszpania	21
+Warszawa	Maroko	20
+Warszawa	Tunezja	24
+Warszawa	Turcja	26
+Wroclaw	Bulgaria	23
+Wroclaw	Egipt	19
+Wroclaw	Grecja	15
+Wroclaw	Hiszpania	25
+Wroclaw	Maroko	18
+Wroclaw	Tunezja	24
+Wroclaw	Turcja	11

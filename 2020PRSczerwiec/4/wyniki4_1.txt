@@ -1,0 +1,3 @@
+Liczba liczb pierwszych 501
+Najwieksza liczba 99767
+Najmniejsza liczba 311

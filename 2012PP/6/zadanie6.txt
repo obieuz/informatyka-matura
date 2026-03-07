@@ -1,0 +1,33 @@
+a)
+
+imie	nazwisko
+Piotr	Bogasiuk
+Anastazja	Chojnawiak
+Marcin	Chojnik
+Karol	Kaczmarczyk
+Dominik	Kaczmarek
+Mariusz	Lis
+Katarzyna	Weber
+
+b)
+
+kierunek	liczba_kandydatów
+fizyka	48
+informatyka	55
+matematyka	38
+
+c)
+
+imie	nazwisko
+Krzysztof	Peszek
+Piotr	Koniec
+
+d)
+
+plec	liczba_osob
+k	15
+m	40
+
+e)
+
+71,56

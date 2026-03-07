@@ -1,0 +1,23 @@
+5.1
+
+regiony	Suma mieszkanców w 2013
+A	33929579
+B	41736619
+C	57649017
+D	36530387
+
+5.2
+
+w kraju	19
+
+region	liczba wojewodztw
+A	3
+B	4
+C	8
+D	4
+
+5.3
+
+liczba_mieszkancow	125930205
+najbardziej zaludnione wojewodztwo	w12C
+liczba wojewodztw z efektem przeludnienia	18

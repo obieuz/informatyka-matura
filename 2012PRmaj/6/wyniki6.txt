@@ -1,0 +1,62 @@
+a
+
+rodzaj usługi	sumaryczna kwota
+Leasing		391790
+Wynajem		400713
+
+b
+
+PN3661T
+PN3651R
+PN3641B
+PN3631H
+PN3621I
+PN16838
+PN16836
+PN16834
+PN16832
+PN16830
+PN16828
+PN16826
+PN16824
+PN16822
+
+c
+
+NAZWA FIRMY	Liczba leasingow
+WROCBUD2	13
+
+d
+
+nazwy powiatów
+bedzinski
+bialostocki
+braniewski
+buski
+elblaski
+elcki
+gorowski
+jeleniogorski
+kluczborski
+koscianski
+leczynski
+lubelski
+nyski
+olawski
+olsztynski
+opolski
+pilski
+siemiatycki
+tarnobrzeski
+tarnogorski
+tarnowski
+turecki
+zamojski
+
+e
+
+nazwa firmy	Średnia rata
+BARTEX	2325,64
+REFAMUR	2590,13
+WIET-IND	2556,43
+

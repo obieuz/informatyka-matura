@@ -1,0 +1,34 @@
+5.1
+
+miasto startowe	Tarnobrzeg
+miasto docelowe	Kielce
+stawka	4,26
+
+5.2
+
+21108
+
+5.3
+
+z Ciechanowa do Olsztynu
+
+5.4
+
+miasto końcowe	kursy
+Warszawa	11
+Szczecin	10
+Bielsko-Biala	9
+Konin	9
+Poznan	8
+Pila	8
+Kielce	8
+Ciechanow	8
+Zielona Gora	8
+Kostrzyn	8
+Opole	8
+
+5.5
+
+Początek	10.12.2017
+Koniec		20.12.2017
+

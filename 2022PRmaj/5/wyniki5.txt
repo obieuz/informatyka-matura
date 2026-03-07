@@ -1,0 +1,33 @@
+5.1
+
+nazwa_magazynu	Liczba zamówień
+Gniezno	152
+Malbork	183
+Ogrodzieniec	222
+Przemysl	198
+
+5.2
+
+WARTOSC MAX	8
+PIERWSZY DZIEŃ	07.10.2021
+OSTATNI DZIEŃ	14.10.2021
+
+5.3
+
+magazyn		łączna wielkość zamówień
+Gniezno		819000
+Malbork		944240
+Ogrodzieniec	1115560
+Przemysl	1062920
+
+5.4
+
+numer	154
+data	19.03.2021
+liczba_zamowien	37
+liczba_butelek	285230
+
+5.5
+
+13179
+

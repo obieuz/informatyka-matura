@@ -1,0 +1,18 @@
+4.1
+++o+o++o+o++
++*+**++**+*+
+*+o++**++o+*
+*oo*o**o*oo*
++*++*oo*++*+
++o++oooo++o+
+4.2
+32
+4.3
+Wiersz 399, pole 5
+Wiersz 546, pole 2
+Wiersz 630, pole 11
+Liczba kwadratow - 3
+4.4
+531246 *******o+*+o
+4.5
+527865439 ++oo*+oo*++ooo*o*++

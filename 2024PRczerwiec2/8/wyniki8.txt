@@ -1,0 +1,37 @@
+8.1
+
+kod_szczepionki	liczba_szczepien
+sz15_5d	111
+sz10_4d	83
+sz21_5d	82
+sz17_4d	81
+sz20_5d	79
+sz9_5d	73
+sz3_5d	72
+sz13_5d	71
+sz1_3d	69
+sz6_3d	64
+sz7_5d	60
+sz12_3d	60
+sz24_3d	59
+sz22_3d	45
+sz18_2d	38
+sz19_2d	35
+sz4_2d	34
+sz8_2d	29
+sz16_1d	28
+sz11_1d	25
+sz23_1d	23
+sz5_1d	23
+sz14_1d	16
+sz2_1d	15
+
+8.2
+
+24 PACJENTÓW
+
+17 kobiet
+
+8.3
+
+2023 maj 48osób

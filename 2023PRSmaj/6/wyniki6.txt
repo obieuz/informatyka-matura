@@ -1,0 +1,55 @@
+6.1
+
+K2
+
+6.2
+
+nazwa	srednia
+5 sekund	8,16
+Avalone	8,25
+Colt Express	7,54
+Jenga	8,16
+Koncept	8,37
+Mamy szpiega	8,22
+Przebiegle wielblady	7,73
+Sushi Go	8,07
+Swiatowy Konflikt	7,80
+Szeryf z Nottingham	7,88
+
+6.3
+
+imie	nazwisko
+Fryderyk	Baran
+Denis	Blaszczyk
+Dobromil	Duda
+Janusz	Glowacki
+Igor	Jasinski
+Julian	Kaczmarczyk
+Maciej	Kaminski
+Maurycy	Kaminski
+Oktawian	Kaminski
+Heronim	Krawczyk
+Mateusz	Kucharski
+Olgierd	Michalak
+Miroslaw	Pawlak
+Boguslawa	Sawicka
+Ireneusz	Szczepanski
+Allan	Szewczyk
+Roman	Szewczyk
+Andzelika	Szymczak
+Franciszek	Szymczak
+Danuta	Walczak
+Aleksander	Wasilewski
+Leonardo	Wojcik
+Korneliusz	Zalewski
+6.4
+
+334
+
+6.5
+
+nazwa	liczba_ocen 	kategoria_wiekowa
+Robinson Crusoe	28	weteran
+K2	24	senior
+K2	6	junior
+Terraformacja Marsa	6	junior

@@ -1,0 +1,47 @@
+a)
+
+kulturystyka
+kolekcjonerstwo
+krzyzowki
+
+b)
+
+8
+
+c)
+
+Imię	Nazwisko
+Zofia	Augustowska
+Sebastian	Helski
+Kornel	Henrykowski
+Jerzy	Kielecki
+Ewelia	Lubelska
+Wiktor	Lubelski
+Wiktor	Pilski
+Horacy	Warszawski
+
+d)
+
+Nazwisko	Imię
+Augustowska	Anna
+Augustowska	Justyna
+Augustowska	Zofia
+Augustowski	Adam
+Augustowski	Kornel
+Augustowski	Sebastian
+Augustowski	Tomasz
+Katowicka	Paulina
+Katowicki	Grzegorz
+Nadolicki	Jan
+Nyska	Ewelina
+Piotrkowska	Katarzyna
+Piotrkowski	Andrzej
+Polkowicka	Dominika
+
+e)
+
+bron
+agroturystyka
+kolekcjonerstwo
+szydelkowanie
+malarstwo

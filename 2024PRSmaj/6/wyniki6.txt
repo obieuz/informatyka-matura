@@ -1,0 +1,37 @@
+6.1
+
+Imie	Nazwisko	kwota
+Rafael	Blake	3700
+
+6.2
+
+Punkty	ile_zdarzen
+0	837
+2	825
+4	782
+6	844
+8	886
+10	826
+
+6.3
+
+nr miesiąca punkty
+11	1766
+
+6.4
+
+NrRejestracyjny	Imie	Nazwisko
+BHW4028	Sandra	Wheeler
+CJX1859	Quynn	Travis
+KNM7950	Jasper	Santos
+NIP6570	Honorato	Roth
+QFR8936	Ivy	Bowen
+SRU9727	Helen	White
+XHK9060	Quentin	Tyler
+YYS1077	Kevin	Wright
+
+6.5
+
+Regiony zdarzenia
+GCL	5
+YQO	5

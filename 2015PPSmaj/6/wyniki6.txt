@@ -1,0 +1,27 @@
+6.1
+
+imie	nazwisko
+Rodryk	Sakson
+
+6.2
+
+imie	nazwisko	dostepne_srodki
+Kazimierz	Baran	42366,12
+
+6.3
+
+imie		nazwisko
+Krystyna	Tobera	
+Grzegorz	Potocki	
+Maria		Zamojska	
+Ewa		Klimaszewska	
+
+6.4
+najwięcej
+bank		ilosc_kont	dostepne_srodki
+BRE Bank SA	103		530751,56
+
+najmniej
+
+bank	ilosc_kont	dostepne_srodki
+Skok	5		28202,6

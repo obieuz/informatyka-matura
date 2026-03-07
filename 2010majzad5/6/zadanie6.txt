@@ -1,0 +1,35 @@
+a)
+
+imie	wzrost
+Oskar	62
+Maja	61
+
+b)
+
+data_urodzenia	liczba_dzieci
+20.11.1999	23
+
+c)
+
+Barbara
+Maria
+Marzena
+Eliza
+Janina
+Paulina
+
+d)
+
+imie	data_urodzenia
+Anna	21.11.1999
+Wiktoria	20.11.1999
+
+e)
+
+data_urodzenia
+19.11.1999
+21.11.1999
+22.11.1999
+23.11.1999
+09.12.1999
+12.12.1999

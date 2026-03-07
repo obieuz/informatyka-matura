@@ -1,0 +1,293 @@
+id_aktora	imie	nazwisko	data_ur	kraj_urodzenia
+1_A	Jeremy	Irons	1948-09-19	Wielkia Brytania
+10_A	Peggy	Ashcroft	1907-12-22	Wielkia Brytania
+100_A	Jamie	Foxx	1967-12-13	Stany Zjednoczone
+101_A	Morgan	Freeman	1937-06-01	Stany Zjednoczone
+102_A	Brenda	Fricker	1945-02-17	Irlandia
+103_A	Clark	Gable	1901-02-01	Stany Zjednoczone
+104_A	Greer	Garson	1904-09-29	Wielkia Brytania
+105_A	Marcia	Gay Harden	1959-08-14	Stany Zjednoczone
+106_A	Judy	Gholliday	1921-06-21	Stany Zjednoczone
+107_A	John	Gielgud	1904-04-14	Wielkia Brytania
+108_A	Whoopi	Goldberg	1955-11-13	Stany Zjednoczone
+109_A	Cuba	Gooding Jr.	1968-01-02	Stany Zjednoczone
+11_A	Mary	Astor	1906-05-03	Stany Zjednoczone
+110_A	Ruth	Gordon	1896-10-30	Stany Zjednoczone
+111_A	Louis	Gossett Jr.	1936-05-27	Stany Zjednoczone
+112_A	Gloria	Grahame	1923-11-28	Stany Zjednoczone
+113_A	Lee	Grant	1927-10-31	Wielkia Brytania
+114_A	Joel	Grey	1932-04-11	Stany Zjednoczone
+115_A	Hugh	Griffith	1912-05-30	Wielkia Brytania
+116_A	Alec	Guinness	1914-04-02	Wielkia Brytania
+117_A	Edmund	Gwenn	1877-09-26	Wielkia Brytania
+118_A	Gene	Hackman	1930-01-30	Stany Zjednoczone
+119_A	Tom	Hanks	1956-08-09	Stany Zjednoczone
+12_A	Fay	Bainter	1893-12-07	Stany Zjednoczone
+120_A	Rex	Harrison	1908-03-05	Wielkia Brytania
+121_A	Anne	Hathaway	1982-11-12	Stany Zjednoczone
+122_A	Helen	Hayes	1900-10-10	Stany Zjednoczone
+123_A	Susan	Hayward	1917-06-30	Stany Zjednoczone
+124_A	Eileen	Heckart	1919-03-29	Stany Zjednoczone
+125_A	Van	Heflin	1908-12-13	Stany Zjednoczone
+126_A	Audrey	Hepburn	1929-05-04	Belgia
+127_A	Katharine	Hepburn	1907-05-12	Stany Zjednoczone
+128_A	Charlton	Heston	1923-10-04	Stany Zjednoczone
+129_A	Wendy	Hiller	1912-08-15	Wielkia Brytania
+13_A	Christian	Bale	1974-01-30	Wielkia Brytania
+130_A	Dustin	Hoffman	1937-08-08	Stany Zjednoczone
+131_A	William	Holden	1918-04-17	Stany Zjednoczone
+132_A	Celeste	Holm	1917-04-29	Stany Zjednoczone
+133_A	Anthony	Hopkins	1937-12-13	Wielkia Brytania
+134_A	John	Houseman	1902-10-22	Rumunia
+135_A	Jennifer	Hudson	1981-09-12	Stany Zjednoczone
+136_A	Josephine	Hull	1877-01-03	Stany Zjednoczone
+137_A	Helen	Hunt	1963-06-15	Stany Zjednoczone
+138_A	Linda	Hunt	1945-04-02	Stany Zjednoczone
+139_A	Holly	Hunter	1958-03-20	Stany Zjednoczone
+14_A	Martin	Balsam	1919-11-04	Stany Zjednoczone
+140_A	Kim	Hunter	1922-11-12	Stany Zjednoczone
+141_A	William	Hurt	1950-03-20	Stany Zjednoczone
+142_A	Anjelica	Huston	1951-07-08	Stany Zjednoczone
+143_A	Walter	Huston	1883-04-05	Kanada
+144_A	Timothy	Hutton	1960-08-16	Stany Zjednoczone
+145_A	Burl	Ives	1909-06-14	Stany Zjednoczone
+146_A	Glenda	Jackson	1936-05-09	Stany Zjednoczone
+147_A	Dean	Jagger	1903-10-07	Stany Zjednoczone
+148_A	Emil	Jannings	1884-07-23	Austria
+149_A	Ben	Johnson	1918-06-13	Stany Zjednoczone
+15_A	Anne	Bancroft	1931-09-17	Stany Zjednoczone
+150_A	Angelina	Jolie	1975-06-04	Stany Zjednoczone
+151_A	Jennifer	Jones	1919-03-02	Stany Zjednoczone
+152_A	Shirley	Jones	1934-03-31	Stany Zjednoczone
+153_A	Diane	Keaton	1946-01-05	Stany Zjednoczone
+154_A	Lila	Kedrova	1918-11-09	Rosja
+155_A	Grace	Kelly	1929-10-12	Stany Zjednoczone
+156_A	George	Kennedy	1925-02-18	Stany Zjednoczone
+157_A	Nicole	Kidman	1967-06-20	Stany Zjednoczone
+158_A	Ben	Kingsley	1943-12-31	Stany Zjednoczone
+159_A	Kevin	Kline	1947-11-24	Stany Zjednoczone
+16_A	Javier	Bardem	1969-03-01	Hiszpania
+160_A	Burt 	Lancaster 	1913-10-02	Stany Zjednoczone
+161_A	Martin	Landau	1928-06-20	Stany Zjednoczone
+162_A	Jessica	Lange	1964-12-28	Stany Zjednoczone
+163_A	Brie	Larson	1989-11-01	Stany Zjednoczone
+164_A	Charles	Laughton	1899-07-01	Wielkia Brytania
+165_A	Jennifer	Lawrence	1990-08-15	Stany Zjednoczone
+166_A	Cloris	Leachman	1926-04-30	Stany Zjednoczone
+167_A	Heath	Ledge	1979-04-04	Australia
+168_A	Tommy	Lee Jones	1946-09-15	Stany Zjednoczone
+169_A	Vivien	Leigh	1913-10-05	Indie
+17_A	Ethel	Barrymore	1879-08-15	Stany Zjednoczone
+170_A	Jack	Lemmon	1925-02-08	Stany Zjednoczone
+171_A	Melissa	Leo	1960-09-14	Stany Zjednoczone
+172_A	Jared	Leto	1971-12-26	Stany Zjednoczone
+173_A	Sophia	Loren	1934-09-20	Wlochy
+174_A	Paul	Lukas	1891-05-26	Wegry
+175_A	Shirley	MacLaine	1934-04-24	Stany Zjednoczone
+176_A	Anna	Magnani	1908-03-07	Wlochy
+177_A	Karl	Malden	1912-03-22	Stany Zjednoczone
+178_A	Dorothy	Malone	1925-01-30	Stany Zjednoczone
+179_A	Fredric	March	1897-08-31	Stany Zjednoczone
+18_A	Lionel	Barrymore	1878-04-28	Stany Zjednoczone
+180_A	Eva	Marie Saint	1924-07-04	Stany Zjednoczone
+181_A	Lee	Marvin	1924-02-19	Stany Zjednoczone
+182_A	Marlee	Matlin	1965-08-24	Stany Zjednoczone
+183_A	Walter	Matthau	1920-11-01	Stany Zjednoczone
+184_A	Mercedes	McCambridge	1916-03-16	Stany Zjednoczone
+185_A	Matthew	McConaughey	1969-10-04	Stany Zjednoczone
+186_A	Hattie	McDaniel	1895-06-10	Stany Zjednoczone
+187_A	Frances	McDormand	1957-06-23	Stany Zjednoczone
+188_A	Victor	McLaglen	1886-12-10	Wielkia Brytania
+189_A	Ray	Milland	1907-01-03	Wielkia Brytania
+19_A	Kim	Basinger	1953-12-08	Stany Zjednoczone
+190_A	John	Mills	1908-02-22	Wielkia Brytania
+191_A	Liza	Minnelli	1946-03-12	Stany Zjednoczone
+192_A	Helen	Mirren	1945-07-26	Wielkia Brytania
+193_A	Thomas	Mitchell	1892-06-15	Wielkia Brytania
+194_A	Julianne	Moore	1960-12-03	Stany Zjednoczone
+195_A	Rita	Moreno	1931-12-11	Portoryko
+196_A	Paul	Muni	1895-09-22	Ukraina
+197_A	F.Murray	 Abraham	1939-11-24	Stany Zjednoczone
+198_A	Patricia	Neal	1926-01-20	Stany Zjednoczone
+199_A	Paul	Newman	1925-01-26	Stany Zjednoczone
+2_A	Casey	Affleck	1975-08-12	Stany Zjednoczone
+20_A	Kathy	Bates	1948-06-28	Stany Zjednoczone
+200_A	Jack	Nicholson	1937-04-22	Stany Zjednoczone
+201_A	Mo	Nique	1967-12-11	Stany Zjednoczone
+202_A	David	Niven	1910-03-01	Wielkia Brytania
+203_A	Lupita	Nyongo	1983-03-01	Meksyk
+204_A	Edmond	OBrien	1915-09-10	Stany Zjednoczone
+205_A	Laurence	Olivier	1907-05-22	Wielkia Brytania
+206_A	Tatum	ONeal	1963-10-05	Stany Zjednoczone
+207_A	Al	Pacino	1940-04-25	Stany Zjednoczone
+208_A	Geraldine	Page	1924-10-22	Stany Zjednoczone
+209_A	Jack	Palance	1919-02-18	Stany Zjednoczone
+21_A	Anne	Baxter	1923-05-07	Stany Zjednoczone
+210_A	Gwyneth	Paltrow	1972-09-27	Stany Zjednoczone
+211_A	Anna	Paquin	1982-07-24	Kanada
+212_A	Estelle	Parsons	1927-10-20	Stany Zjednoczone
+213_A	Katina	Paxinou	1900-12-17	Grecja
+214_A	Gregory	Peck	1916-04-05	Stany Zjednoczone
+215_A	Sean	Penn	1960-08-17	Stany Zjednoczone
+216_A	Joe	Pesci	1943-02-09	Stany Zjednoczone
+217_A	Mary	Pickford	1892-04-08	Kanada
+218_A	Christopher	Plummer	1929-12-13	Kanada
+219_A	Sidney	Poitier	1927-02-20	Stany Zjednoczone
+22_A	Warner	Baxter	1889-03-29	Stany Zjednoczone
+220_A	Natalie	Portman	1981-06-09	Stany Zjednoczone
+221_A	Anthony	Quinn	1915-04-21	Meksyk
+222_A	Luise	Rainer	1910-01-12	Niemcy
+223_A	Vanessa	Redgrave	1937-01-30	Wielkia Brytania
+224_A	Eddie	Redmayne	1982-01-06	Wielkia Brytania
+225_A	Donna	Reed	1921-01-27	Stany Zjednoczone
+226_A	Anne	Revere	1903-06-25	Stany Zjednoczone
+227_A	Jason	Robards	1922-07-26	Stany Zjednoczone
+228_A	Tim	Robbins	1958-11-16	Stany Zjednoczone
+229_A	Julia	Roberts	1967-11-28	Stany Zjednoczone
+23_A	Ed	Begley	1949-09-16	Stany Zjednoczone
+230_A	Cliff	Robertson	1923-09-09	Stany Zjednoczone
+231_A	Ginger	Rogers	1911-07-16	Stany Zjednoczone
+232_A	Mercedes	Ruehl	1948-02-28	Stany Zjednoczone
+233_A	Geoffrey	Rush	1951-07-06	Australia
+234_A	Harold	Russell	1914-01-14	Kanada
+235_A	Margaret	Rutherford	1892-05-11	Wielkia Brytania
+236_A	Mark	Rylance	1960-01-18	Wielkia Brytania
+237_A	Haing	Ngor	1940-03-22	Stany Zjednoczone
+238_A	George	Sanders	1906-07-03	Rosja
+239_A	Susan	Sarandon	1946-11-04	Stany Zjednoczone
+24_A	Roberto	Benigni	1952-11-27	Wlochy
+240_A	Maximilian	Schell	1930-12-08	Australia
+241_A	Joseph	Schildkraut	1896-03-22	Australia
+242_A	Paul	Scofield	1922-01-21	Wielkia Brytania
+243_A	Philip	Seymour Hoffman	1967-07-23	Stany Zjednoczone
+244_A	Norma	Shearer	1902-08-10	Kanada
+245_A	Simone	Signoret	1921-03-25	Niemcy
+246_A	J.K.	Simmons	1955-01-09	Stany Zjednoczone
+247_A	Frank	Sinatra	1915-12-12	Stany Zjednoczone
+248_A	Maggie	Smith	1934-12-28	Wielkia Brytania
+249_A	Gale	Sondergaard	1899-02-15	Stany Zjednoczone
+25_A	Ingrid	Bergman	1915-08-29	Szwecja
+250_A	Mira	Sorvino	1967-09-28	Stany Zjednoczone
+251_A	Sissy	Spacek	1949-12-25	Stany Zjednoczone
+252_A	Kevin	Spacey	1959-07-26	Stany Zjednoczone
+253_A	Octavia	Spencer	1970-05-25	Stany Zjednoczone
+254_A	Maureen	Stapleton	1925-06-21	Stany Zjednoczone
+255_A	Mary	Steenburgen	1953-02-08	Stany Zjednoczone
+256_A	Rod	Steiger	1925-04-14	Stany Zjednoczone
+257_A	James	Stewart	1908-05-20	Stany Zjednoczone
+258_A	Emma	Stone	1988-10-06	Stany Zjednoczone
+259_A	Beatrice	Straight	1914-08-02	Stany Zjednoczone
+26_A	Halle	Berry	1966-08-14	Stany Zjednoczone
+260_A	Meryl	Streep	1949-06-22	Stany Zjednoczone
+261_A	Hilary	Swank	1974-07-30	Stany Zjednoczone
+262_A	Tilda	Swinton	1960-10-05	Wielkia Brytania
+263_A	Jessica	Tandy	1909-06-07	Stany Zjednoczone
+264_A	Elizabeth	Taylor	1932-02-27	Wielkia Brytania
+265_A	Charlize	Theron	1975-08-07	RPA
+266_A	Emma	Thompson	1959-04-15	Kanada
+267_A	Marisa	Tomei	1964-12-04	Stany Zjednoczone
+268_A	Spencer	Tracy	1900-04-05	Stany Zjednoczone
+269_A	Claire	Trevor	1910-03-08	Stany Zjednoczone
+27_A	Juliette	Binoche	1964-03-09	Francja
+270_A	Miyoshi	Umeki	1929-05-08	Japonia
+271_A	Peter	Ustinov	1921-04-16	Wielkia Brytania
+272_A	Jo	Van Fleet	1915-12-29	Stany Zjednoczone
+273_A	Alicia	Vikander	1988-11-03	Szwecja
+274_A	Jon	Voight	1938-12-29	Stany Zjednoczone
+275_A	Christopher	Walken	1943-03-31	Stany Zjednoczone
+276_A	Christoph	Waltz	1956-11-04	Australia
+277_A	Denzel	Washington	1954-12-28	Stany Zjednoczone
+278_A	John	Wayne	1907-05-26	Stany Zjednoczone
+279_A	Rachel	Weisz	1970-03-07	Wielkia Brytania
+28_A	Cate	Blanchett	1969-05-14	Australia
+280_A	Forest	Whitaker	1961-07-15	Stany Zjednoczone
+281_A	Dianne	Wiest	1948-03-28	Stany Zjednoczone
+282_A	Robin	Williams	1951-07-21	Stany Zjednoczone
+283_A	Kate	Winslet	1975-11-05	Wielkia Brytania
+284_A	Shelley	Winters	1920-08-18	Stany Zjednoczone
+285_A	Reese	Witherspoon	1976-03-22	Stany Zjednoczone
+286_A	Joanne	Woodward	1930-02-27	Stany Zjednoczone
+287_A	Teresa	Wright	1918-11-27	Stany Zjednoczone
+288_A	Jane	Wyman	1917-01-05	Stany Zjednoczone
+289_A	Gig	Young	1913-10-04	Stany Zjednoczone
+29_A	Humphrey	Bogart	1899-12-25	Stany Zjednoczone
+290_A	Goldie	Young	1945-11-21	Stany Zjednoczone
+291_A	Loretta	Young	1913-01-06	Stany Zjednoczone
+292_A	Renee	Zellweger	1969-04-25	Stany Zjednoczone
+293_A	Catherine	Zet	1969-09-25	Stany Zjednoczone
+3_A	Jack	Albertson	1907-06-16	Stany Zjednoczone
+30_A	Shirley	Booth	1898-08-30	Stany Zjednoczone
+31_A	Ernest	Borgnine	1917-01-24	Stany Zjednoczone
+32_A	Alice	Brady	1892-10-02	Stany Zjednoczone
+33_A	Marlon	Brando	1924-04-03	Stany Zjednoczone
+34_A	Walter	Brennan	1894-07-25	Stany Zjednoczone
+35_A	Jeff	Bridges	1949-12-04	Stany Zjednoczone
+36_A	Jim	Broadbent	1949-05-24	Wielkia Brytania
+37_A	Adrien	Brody	1973-04-14	Stany Zjednoczone
+38_A	Yul	Brynner	1920-07-11	Rosja
+39_A	Sandra	Bullock	1964-07-26	Stany Zjednoczone
+4_A	Mahershala	Ali	1974-02-16	Stany Zjednoczone
+40_A	George	Burns	1896-01-20	Stany Zjednoczone
+41_A	Ellen	Burstyn	1932-12-07	Stany Zjednoczone
+42_A	Red	Buttons	1919-02-05	Stany Zjednoczone
+43_A	George 	Scott	1927-11-18	Stany Zjednoczone
+44_A	Nicolas	Cage	1964-01-07	Stany Zjednoczone
+45_A	James	Cagney	1899-07-17	Stany Zjednoczone
+46_A	Michael	Caine	1933-03-14	Wielkia Brytania
+47_A	Art	Carney	1918-10-04	Stany Zjednoczone
+48_A	George	Chakiris	1934-09-16	Stany Zjednoczone
+49_A	Cher	Cher	1946-05-20	Stany Zjednoczone
+5_A	Don	Ameche	1908-05-31	Stany Zjednoczone
+50_A	Julie	Christie	1940-04-14	Indie
+51_A	George	Clooney	1961-05-06	Stany Zjednoczone
+52_A	Charles	Coburn	1877-06-19	Stany Zjednoczone
+53_A	James	Coburn	1928-08-31	Stany Zjednoczone
+54_A	Claudette	Colbert	1903-09-13	Francja
+55_A	Ronald	Colman	1891-02-09	Stany Zjednoczone
+56_A	Jennifer	Connelly	1970-12-12	Stany Zjednoczone
+57_A	Sean	Connery	1930-08-25	Szkocja
+58_A	Chris	Cooper	1951-07-09	Stany Zjednoczone
+59_A	Gary	Cooper	1901-05-07	Stany Zjednoczone
+6_A	Julie	Andrews	1935-11-01	Stany Zjednoczone
+60_A	Marion	Cotillard	1975-09-30	Francja
+61_A	Broderick	Crawford	1911-12-09	Stany Zjednoczone
+62_A	Joan	Crawford	1904-03-23	Stany Zjednoczone
+63_A	Donald	Crisp	1882-07-27	Stany Zjednoczone
+64_A	Bing	Crosby	1903-05-03	Stany Zjednoczone
+65_A	Russell	Crowe	1964-04-07	Stany Zjednoczone
+66_A	Penenope	Cruz	1974-04-28	Hiszpania
+67_A	Jane	Darwell	1879-11-15	Stany Zjednoczone
+68_A	Bette	Davis	1908-04-05	Stany Zjednoczone
+69_A	Geena	Davis	1956-01-21	Stany Zjednoczone
+7_A	Alan	Arkin	1934-03-26	Stany Zjednoczone
+70_A	Viola	Davis	1965-08-11	Stany Zjednoczone
+71_A	Daniel	Day-Lewis	1957-04-29	Wielkia Brytania
+72_A	Olivia	de Havilland	1916-07-01	Japonia
+73_A	Robert	De Niro	1943-08-17	Stany Zjednoczone
+75_A	Benicio	Del Toro	1967-02-19	Portoryko
+76_A	Judi	Dench	1934-12-09	Wielkia Brytania
+77_A	Sandy	Dennis	1937-04-27	Stany Zjednoczone
+78_A	Leonardo	DiCaprio	1974-10-11	Stany Zjednoczone
+79_A	Robert	Donat	1905-03-18	Stany Zjednoczone
+8_A	George	Arliss	1868-04-10	Wielkia Brytania
+80_A	Melvyn	Douglas	1901-04-05	Stany Zjednoczone
+81_A	Michael	Douglas	1944-09-25	Stany Zjednoczone
+82_A	Marie	Dressler	1868-10-09	Kanada
+83_A	Richard	Dreyfuss	1947-11-29	Stany Zjednoczone
+84_A	Jean	Dujardin	1972-06-19	Francja
+85_A	Olympia	Dukakis	1931-06-20	Stany Zjednoczone
+86_A	Patty	Duke	1946-12-14	Stany Zjednoczone
+87_A	Faye	Dunaway	1941-01-14	Stany Zjednoczone
+88_A	James	Dunn	1901-10-02	Stany Zjednoczone
+89_A	Robert	Duvall	1931-01-05	Stany Zjednoczone
+9_A	Patricia	Arquette	1968-04-08	Stany Zjednoczone
+90_A	Jose	Ferrer	1912-01-08	Portoryko
+91_A	Sally	Field	1946-10-06	Stany Zjednoczone
+92_A	Peter	Finch	1916-09-28	Wielkia Brytania
+93_A	Colin	Firth	1960-09-10	Wielkia Brytania
+94_A	Barry	Fitzgerald	1888-03-10	Irlandia
+95_A	Louise	Fletcher	1934-07-22	Stany Zjednoczone
+96_A	Henry	Fonda	1905-05-16	Stany Zjednoczone
+97_A	Jane	Fonda	1937-12-21	Stany Zjednoczone
+98_A	Joan	Fontaine	1917-11-22	Japonia
+99_A	Jodie	Foster	1962-10-19	Stany Zjednoczone

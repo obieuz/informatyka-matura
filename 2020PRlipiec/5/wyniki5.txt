@@ -1,0 +1,44 @@
+5.1
+
+czas realizacji programu	liczba klientów
+1	11
+2	9
+3	9
+4	7
+5	6
+6	10
+7	11
+8	6
+9	12
+10	8
+11	16
+12	14
+13	7
+14	12
+15	6
+
+5.2
+
+tylko 1 samochód	78
+dokładnie 2	21
+
+5.3
+
+a	114
+b	19:54:00
+
+5.4
+
+godzina	Liczba klientów
+1	9
+2	8
+3	7
+4	9
+5	5
+6	10
+
+5.5
+
+nr rejestracyjny	KP566
+ile zrezygnowało	44
+max_ciag_rezygnacji	3

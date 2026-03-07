@@ -1,0 +1,29 @@
+6.1
+
+Rok	GrandPrix
+2010	Australia
+
+6.2
+
+Indie
+
+6.3
+
+Imie	Nazwisko	Rok	punkty
+Michael	Schumacher	2000	108
+Fernando	Alonso	2006	134
+Sebastian	Vettel	2012	281
+
+6.4
+
+Kraj	reprezentanci
+Australia	2
+Brazylia	2
+Finlandia	1
+Francja	2
+Hiszpania	1
+Japonia	1
+Meksyk	1
+Niemcy	4
+Wenezuela	1
+Wielka Brytania	3

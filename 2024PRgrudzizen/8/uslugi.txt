@@ -1,0 +1,108 @@
+id_uslugi	usluga	rodzaj_uslugi	cena
+1	wymiana oleju silnikowego z filtrem	olej i plyny eksploatacyjne	120
+2	wymiana oleju w skrzyni automatycznej	olej i plyny eksploatacyjne	250
+3	wymiana oleju w manualnej skrzyni biegow	olej i plyny eksploatacyjne	120
+4	wymiana oleju w moscie	olej i plyny eksploatacyjne	70
+5	wymiana plynu chlodniczego	olej i plyny eksploatacyjne	120
+6	wymiana plynu hamulcowego z odpowietrzaniem	olej i plyny eksploatacyjne	160
+7	wymiana plynu wspomagania kierownicy	olej i plyny eksploatacyjne	120
+8	wymiana filtra oleju	filtry	60
+9	wymiana filtra kabinowego	filtry	60
+10	wymiana filtra powietrza w silniku	filtry	50
+11	wymiana filtra paliwa	filtry	60
+12	weryfikacja luzow w zawieszeniu	zawieszenie	120
+13	wymiana amortyzatora przod	zawieszenie	160
+14	wymiana amortyzatora tyl	zawieszenie	140
+15	wymiana sprezyny zawieszenia przod	zawieszenie	160
+16	wymiana sprezyny zawieszenia tyl	zawieszenie	150
+17	wymiana wahacza (lub elementow wahacza)	zawieszenie	120
+18	wymiana sworznia bez demontazu wahacza	zawieszenie	90
+19	wymiana lacznikow lub gum stablizatora	zawieszenie	90
+20	wymiana gornego mocowania amortyzatora	zawieszenie	160
+21	wymiana stabilizatora	zawieszenie	160
+22	wymiana tarcz hamulcowych	mechanika	150
+23	wymiana klockow hamulcowych	mechanika	120
+24	wymiana paska rozrzadu	mechanika	350
+25	wymiana lancucha rozrzadu	mechanika	600
+26	wymiana sprzegla	mechanika	550
+27	wymiana paska wielorowkowego osprzetu	mechanika	120
+28	wymiana chlodnicy silnika	mechanika	250
+29	wymiana pompy wody	mechanika	210
+30	wymiana pompy hamulcowej	mechanika	200
+31	wymiana pompy sprzegla	mechanika	200
+32	wymiana pompy paliwa	mechanika	180
+33	wymiana drazka kierowniczego	mechanika	90
+34	wymiana koncowki drazka kierowniczego	mechanika	70
+35	wymiana lozyska piasty kola	mechanika	200
+36	wymiana termostatu	mechanika	100
+37	wymiana maglownicy	mechanika	450
+38	regeneracja maglownicy	mechanika	500
+39	wymiana linki hamulca	mechanika	120
+40	wymiana zacisku hamulcowego	mechanika	180
+41	regeneracja zacisku hamulcowego	mechanika	190
+42	wymiana tlumika srodkowego	mechanika	190
+43	wymiana tlumika koncowego	mechanika	150
+44	wymiana uszczelki pod glowica silnika	mechanika	900
+45	wymiana uszczelki dekla zaworow	mechanika	150
+46	wymiana uszczelki miski olejowej	mechanika	150
+47	wymiana silnika	mechanika	150
+48	wymiana skrzyni biegow	mechanika	550
+49	regeneracja silnika	mechanika	300
+50	polerowanie lamp samochodowych	mechanika	120
+51	wymiana przegubu wewnetrznego, zewnetrznego	mechanika	160
+52	wymiana oslony przegubu wewnetrznego, zewnetrznego	mechanika	160
+53	wymiana filtra czastek stalych DPF	mechanika	170
+54	wymiana zaworu recyrkulacji spalin EGR	mechanika	170
+55	wymiana katalizatora spalin	mechanika	190
+56	wymiana lub regeneracja kolektora	mechanika	190
+57	wymiana zarowki	elektryka	30
+58	wymiana akumulatora	elektryka	50
+59	wymiana alternatora	elektryka	170
+60	wymiana rozrusznika	elektryka	170
+61	wymiana swiec zaplonowych	elektryka	70
+62	wymiana swiec zarowych	elektryka	110
+63	wymiana kabli wysokiego napiecia	elektryka	70
+64	wymiana cewki zaplonowej	elektryka	60
+65	wymiana modulu zamka drzwi	elektryka	210
+66	wymiana lampy samochodowej	elektryka	120
+67	test i wymiana sondy lambda	elektryka	150
+68	wymiana sterownikow i modulow w samochodzie	elektryka	250
+69	osuszenie ukladu klimatyzacji	klimatyzacja	50
+70	uzupelnienie czynnika chlodniczego (do 100 gr w cenie)	klimatyzacja	50
+71	wymiane oleju w ukladzie klimatyzacji	klimatyzacja	50
+72	test sprawdzenie szczelnosci prozniowe	klimatyzacja	50
+73	wymiane filtra kabinowego	klimatyzacja	50
+74	ozonowanie ukladu klimatyzacji i kabiny	klimatyzacja	50
+75	doplata za dodatkowy czynnik (kazde 100gr)	klimatyzacja	50
+76	sprawdzenie szczelnosci ukladu gazem sladowym	klimatyzacja	150
+77	uszczelnienie ukladu wraz z czynnikiem UV	klimatyzacja	150
+78	wymiana skraplacza klimatyzacji	klimatyzacja	140
+79	wymiana osuszacza klimatyzacji	klimatyzacja	120
+80	wymiana zaworu rozpreznego klimatyzacji	klimatyzacja	90
+81	wymiana sprezarki klimatyzacji	klimatyzacja	190
+82	wymiana sprzegla sprezarki klimatyzacji	klimatyzacja	210
+83	wymiana przewodow klimatyzacji	klimatyzacja	160
+84	plukanie elementow ukladu klimatyzacji	klimatyzacja	300
+85	ozonowanie, odgrzybianie klimatyzacji	klimatyzacja	90
+86	felga stalowa do 16 cali	wymiana opon	130
+87	felga stalowa 17 cali	wymiana opon	140
+88	felga stalowa od 18 cali	wymiana opon	150
+89	felga aluminiowa do 16 cali	wymiana opon	140
+90	felga aluminiowa 17 cali	wymiana opon	150
+91	felga aluminiowa 18 cali	wymiana opon	160
+92	felga aluminiowa 19 cali	wymiana opon	190
+93	felga aluminiowa 20 cali	wymiana opon	210
+94	felga aluminiowa 21 cali	wymiana opon	250
+95	naprawa przebitej opony	serwis opon	40
+96	utylizacja opony	serwis opon	15
+97	sezonowa przechowalnia opon	serwis opon	120
+98	wywazenie kola	serwis opon	30
+99	analiza spalin	diagnostyka	40
+100	test amortyzatorow	diagnostyka	40
+101	test hamulcow na plytach rolkowych	diagnostyka	50
+102	test akumulatora	diagnostyka	25
+103	ustawienie geometrii kol	diagnostyka	140
+104	ustawienie swiatel od	diagnostyka	30
+105	diagnostyka komputerowa	diagnostyka	120
+106	kasowanie inspekcji olejowej	diagnostyka	50
+107	pomiar zadymienia silnika ZS diagnostyka	45

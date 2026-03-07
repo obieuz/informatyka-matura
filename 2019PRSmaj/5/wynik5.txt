@@ -1,0 +1,55 @@
+5.1
+
+kraj_urodzenia	PoliczOfid_aktora
+Austria	1
+Wegry	1
+Ukraina	1
+Belgia	1
+Szkocja	1
+Grecja	1
+Rumunia	1
+RPA	1
+Niemcy	2
+Hiszpania	2
+Indie	2
+Irlandia	2
+Meksyk	2
+Szwecja	2
+Japonia	3
+Wlochy	3
+Rosja	3
+Portoryko	3
+Francja	4
+Australia	6
+Kanada	8
+Wielkia Brytania	38
+Stany Zjednoczone	204
+
+5.2
+
+imie	nazwisko	wiek
+Tatum	ONeal		10
+
+5.3
+
+imie	nazwisko	tytul		rok
+Katharine	Hepburn	Lew w zimie	1968
+Katharine	Hepburn	Nad zlotym stawem	1981
+Katharine	Hepburn	Poranna chwala	1932
+Katharine	Hepburn	Zgadnij, kto przyjdzie na obiad	1967
+
+5.4
+
+imie	nazwisko	lata_miedzy
+Gene	Hackman	21
+Helen	Hayes	39
+Jessica	Lange	12
+Jack	Lemmon	18
+Jack	Nicholson	14
+Maggie	Smith	9
+Ingrid	Bergman	30
+Kevin	Spacey	4
+Meryl	Streep	32
+Denzel	Washington	12
+Cate	Blanchett	9
+Robert	De Niro	6

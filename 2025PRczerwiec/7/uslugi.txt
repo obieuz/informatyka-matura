@@ -1,0 +1,49 @@
+id_uslugi	nazwa	cena
+Z01	Mycie z masazem, strzyzenie, modelowanie (wlosy krotkie)	100
+Z02	Mycie z masazem, strzyzenie, modelowanie (wlosy srednie)	120
+Z03	Mycie z masazem, strzyzenie, modelowanie (wlosy dlugie)	140
+Z04	Mycie z masazem, strzyzenie (wlosy krotkie)	80
+Z05	Mycie z masazem, strzyzenie (wlosy srednie)	100
+Z06	Mycie z masazem, strzyzenie (wlosy dlugie)	120
+Z07	Modelowanie (wlosy krotkie)	60
+Z08	Modelowanie (wlosy srednie)	70
+Z09	Modelowanie (wlosy dlugie)	80
+Z10	Farbowanie (wlosy krotkie)	160
+Z11	Farbowanie (wlosy srednie)	180
+Z12	Farbowanie (wlosy dlugie)	200
+Z13	Farbowanie, strzyzenie (wlosy krotkie)	200
+Z14	Farbowanie, strzyzenie (wlosy srednie)	220
+Z15	Farbowanie, strzyzenie (wlosy dlugie)	240
+Z16	Farbowanie, refleksy (wlosy krotkie)	230
+Z17	Farbowanie, refleksy (wlosy srednie)	250
+Z18	Farbowanie, refleksy (wlosy dlugie)	270
+Z19	Farbowanie, refleksy,strzyzenie (wlosy krotkie)	250
+Z20	Farbowanie, refleksy,strzyzenie (wlosy srednie)	280
+Z21	Farbowanie, refleksy,strzyzenie (wlosy dlugie)	300
+Z22	Kontrast / Baleyage (wlosy krotkie)	240
+Z23	Kontrast / Baleyage (wlosy srednie)	260
+Z24	Kontrast / Baleyage (wlosy dlugie)	280
+Z25	Kontrast / Baleyage, strzyzenie (wlosy krotkie)	260
+Z26	Kontrast / Baleyage, strzyzenie (wlosy srednie)	280
+Z27	Kontrast / Baleyage, strzyzenie (wlosy dlugie)	300
+Z28	Koloryzacja techniki kreatywne	260
+Z29	Sombre, ombre, air touch (wlosy dlugie)	350
+Z30	Dekoloryzacja (wlosy krotkie)	230
+Z31	Dekoloryzacja (wlosy srednie)	245
+Z32	Dekoloryzacja (wlosy dlugie)	260
+Z33	Smartbond do koloryzacji	60
+Z34	Keratynowe prostowanie wlosow (wlosy krotkie)	249
+Z35	Keratynowe prostowanie wlosow (wlosy srednie)	349
+Z36	Keratynowe prostowanie wlosow (wlosy dlugie)	449
+Z37	Przedluzanie	1799
+Z38	Zageszczanie	899
+Z39	Doczepianie	399
+Z40	Zabieg regeneracyjny	110
+Z41	Botox	110
+Z42	Upiecie / Fale / Loki (wlosy srednie)	150
+Z43	Upiecie / Fale / Loki (wlosy dlugie)	170
+Z44	Grzywka	20
+Z45	Konsultacja trychologiczna	40
+Z46	Odsiwianie	160
+Z47	Wasy, broda	50
+Z48	Strzyzenie meskie	45

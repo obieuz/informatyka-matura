@@ -1,0 +1,23 @@
+a
+504
+b
+110
+c
+Z samych zer - 32 
+Z samych jedynek - 50
+d
+Dla k=2 jest 43 liczb
+Dla k=3 jest 38 liczb
+Dla k=4 jest 37 liczb
+Dla k=5 jest 57 liczb
+Dla k=6 jest 53 liczb
+Dla k=7 jest 68 liczb
+Dla k=8 jest 78 liczb
+Dla k=9 jest 103 liczb
+Dla k=10 jest 83 liczb
+Dla k=11 jest 90 liczb
+Dla k=12 jest 86 liczb
+Dla k=13 jest 81 liczb
+Dla k=14 jest 68 liczb
+Dla k=15 jest 59 liczb
+Dla k=16 jest 56 liczb

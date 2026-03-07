@@ -1,0 +1,26 @@
+6.1
+
+165
+
+6.2
+
+liczba_spoznionych_uczniow dzien miesiaca
+233	4
+303	5
+134	6
+280	7
+127	8
+
+6.3
+
+IdUcznia	Imie	Nazwisko
+314	Sebastian	Rabaj
+172	Monika	Kado
+299	Alicja	Kronecka
+
+6.4
+
+Imie	Nazwisko
+Mateusz	Kordas
+Krzysztof	Michalak
+Oliwier	Ziolko

@@ -1,0 +1,37 @@
+8.1
+
+177
+
+8.2
+nazwa			   ile razy
+wymiana plynu chlodniczego 29
+
+marki w których nie bylo
+bmw
+daewoo
+honda
+kia
+lancia
+mazda
+nissan
+saab
+volkswagen
+
+8.3
+
+identyfikator - 897
+
+nr_rejestracyjny	usluga
+SB 3799	wymiana sprzegla
+SB 3799	wymiana amortyzatora tyl
+SB 9213	felga stalowa do 16 cali
+SB 9213	ozonowanie ukladu klimatyzacji i kabiny
+SB 5822	wymiana paska rozrzadu
+SB 5822	wymiana oleju silnikowego z filtrem
+
+8.4
+
+numer miesiąca przychód
+11		150530
+12		105860
+

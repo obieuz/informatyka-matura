@@ -1,0 +1,301 @@
+id_filmu	rok	tytul
+1_F	2002	Adaptacja
+10_F	1981	Artur
+100_F	1971	Klute
+101_F	1928	Kokietka
+102_F	1985	Kokon
+103_F	1986	Kolor pieniedzy
+104_F	1943	Komu bije dzwon
+105_F	1948	Koralowa wyspa
+106_F	1956	Kroj i ja
+107_F	2006	Krolowa
+108_F	1966	Kto sie boi Virginii Woolf?
+109_F	1935	Kusicielka
+11_F	2011	Artysta jako George Valenti
+110_F	1969	Kwiat kaktusa
+111_F	2016	La La Land
+112_F	2008	Lektor
+113_F	1997	Lepiej byc nie moze
+114_F	2012	Les Miserables. Nedznicy
+115_F	1968	Lew w zimie
+116_F	2012	Lincoln
+117_F	1975	Lot nad kukulczym gniazdem
+118_F	1978	lowca jeleni
+119_F	2006	Mala miss
+12_F	2004	Aviator
+120_F	2016	Manchester by the Sea
+121_F	1955	Marty
+122_F	1964	Mary Poppins
+123_F	1961	Matka i corka
+124_F	1980	Melvin i Howard
+125_F	1938	Miasto chlopcow
+126_F	2007	Michael Clayton
+127_F	1984	Miejsca w sercu
+128_F	1959	Miejsce na gorze
+129_F	1991	Milczenie owiec
+13_F	2007	Az poleje sie krew
+130_F	1945	Mildred Pierce
+131_F	1973	Milosc w godzinach nadliczbowych
+132_F	1930	Min i Bill
+133_F	1990	Misery
+134_F	1955	Mister Roberts
+135_F	1992	Moj kuzyn Vinny
+136_F	1989	Moja lewa stopa
+137_F	2003	Monster
+138_F	2016	Moonlight
+139_F	1974	Morderstwo w Orient Expressie
+14_F	2009	Bekarty wojny
+140_F	1957	Most na rzece Kwai
+141_F	2015	Most szpiegow
+142_F	1972	Motyle sa wolne
+143_F	2008	Mroczny rycerz 
+144_F	1964	My Fair Lady
+145_F	1954	Na nabrzezach
+146_F	1955	Na wschod od Edenu
+147_F	1981	Nad zlotym stawem
+148_F	1946	Najlepsze lata naszego zycia
+149_F	1946	Najtrwalsza milosc
+15_F	1959	Ben-Hur
+150_F	1944	Nic oprocz samotnego serca
+151_F	2007	Niczego nie zaluje - Edith Piaf
+152_F	1999	Nie czas na lzy
+153_F	1987	Nietykalni
+154_F	1967	Nieugiety Luke
+155_F	1979	Norma Rae
+156_F	2008	Obywatel Milk
+157_F	1973	Ocalic tygrysa
+158_F	1982	Oficer i dzentelmen
+159_F	1972	Ojciec chrzestny
+16_F	1992	Bez przebaczenia
+160_F	1974	Ojciec chrzestny II
+161_F	2002	Ones - Chicago
+162_F	1988	Oskarzeni
+163_F	1958	Osobne stoliki
+164_F	2006	Ostatni krol Szkocji
+165_F	1928	Ostatni rozkaz
+166_F	1971	Ostatni seans filmowy
+167_F	1946	Ostrze brzytwy
+168_F	1966	Oto jest glowa zdrajcy
+169_F	1959	Pamietnik Anny Frank
+17_F	1958	Bialy Kanion
+170_F	1942	Pani Miniver
+171_F	1973	Papierowy ksiezyc
+172_F	1956	Pasja zycia
+173_F	1936	Pasteur
+174_F	1970	Patton
+175_F	1969	Pelnia zycia panny Brodie
+176_F	2002	Pianista
+177_F	1952	Piekny i zly
+178_F	2001	Piekny umysl
+179_F	1943	Piesn o Bernadette
+18_F	1996	Blask
+180_F	1956	Pisane na wietrze
+181_F	2016	Ploty
+182_F	1985	Pocalunek kobiety pajaka
+183_F	1983	Pod czula kontrola
+184_F	1995	Podejrzani
+186_F	1985	Podroz do Bountiful
+187_F	1984	Podroz do Indii
+188_F	1947	Podwojne zycie
+189_F	2015	Pokoj
+19_F	1994	Blekit nieba
+190_F	1984	Pola smierci
+191_F	2000	Pollock
+192_F	1963	Polne lilie
+193_F	2012	Poradnik pozytywnego myslenia
+194_F	1932	Poranna chwala
+195_F	1970	Port lotniczy
+196_F	1935	Potepieniec
+197_F	1978	Powrot do domu
+198_F	1992	Powrot do Howards End
+199_F	1969	Prawdziwe mestwo
+2_F	1951	Afrykanska krolowa
+20_F	2013	Blue Jasmine
+200_F	1936	Prawo mlodosci
+201_F	1975	Promienni chlopcy
+202_F	1998	Prywatne pieklo
+203_F	1933	Prywatne zycie Henryka VIII
+204_F	1995	Przed egzekucja
+205_F	1939	Przeminelo z wiatrem
+206_F	1999	Przerwana lekcja muzyki
+207_F	1988	Przypadkowy turysta
+208_F	1988	Rain Man
+209_F	2004	Ray
+21_F	1937	Bohaterowie morza
+210_F	1983	Rok niebezpiecznego zycia
+211_F	1929	Rozwodka
+212_F	1988	Rybka zwana Wanda
+213_F	2003	Rzeka tajemnic
+214_F	1953	Rzymskie wakacje
+215_F	1957	Sayonara
+216_F	1993	Scigany
+217_F	1976	Siec
+219_F	1941	Sierzant York
+22_F	1967	Bonnie i Clyde
+220_F	1948	Skarb Sierra Madre
+221_F	1962	Slodki ptak mlodosci
+222_F	2011	Sluzace
+223_F	2005	Spacer po linie
+224_F	1960	Spartakus
+225_F	1979	Sprawa Kramerow
+226_F	1953	Stad do wiecznosci
+227_F	1953	Stalag 17
+228_F	2014	Still alice
+229_F	1945	Stracony weekend
+23_F	1954	Bosonoga Contessa
+230_F	1943	Straz nad Renem
+231_F	1994	Strzaly na Broadwayu
+232_F	1978	Suita kalifornijska
+233_F	1991	Sultani westernu
+234_F	2005	Syriana
+235_F	2009	Szalone serce
+236_F	1975	Szampon
+237_F	1966	Szczescie Harry'ego
+238_F	1997	Tajemnice Los Angeles
+239_F	1955	Tatuowana roza
+24_F	2014	Boyhood
+240_F	2014	Teoria wszystkiego
+241_F	1968	The Subject Was Roses
+242_F	2007	To nie jest kraj dla starych ludzi
+243_F	1982	Tootsie
+244_F	1964	Topkapi
+245_F	2000	Traffic
+246_F	1951	Tramwaj zwany pozadaniem
+247_F	1957	Trzy oblicza Ewy
+248_F	1965	Tysiac klownow
+249_F	1950	Urodzeni wczoraj
+25_F	1997	Buntownik z wyboru
+250_F	1990	Uwierz w ducha
+251_F	2008	Vicky Cristina Barcelona
+252_F	1952	Viva Zapata!
+253_F	1965	W cieniu dobrego drzewa
+254_F	1973	W pogoni za papierkiem
+255_F	1952	W samo poludnie
+256_F	1929	W starej Arizonie
+257_F	1937	W starym Chicago
+258_F	1967	W upalna noc
+259_F	1987	Wall Street
+26_F	1960	BUtterfield 8
+260_F	1999	Wbrew regulom
+261_F	1943	Wesoly sublokator
+262_F	1961	West Side Story
+263_F	2014	Whiplash
+264_F	1945	Wielka nagroda
+265_F	2009	Wielki Mike
+266_F	1936	Wielki Ziegfeld
+267_F	1941	Wielkie klamstwo
+268_F	2005	Wierny ogrodnik
+269_F	2013	Witaj w klubie
+27_F	2005	Capote
+270_F	2013	Witaj w klubie
+271_F	1931	Wolne dusze
+272_F	1989	Wozac pania Daisy
+273_F	1987	Wplyw ksiezyca
+274_F	1952	Wroc, mala Shebo
+275_F	1980	Wsciekly Byk
+276_F	1976	Wszyscy ludzie prezydenta
+277_F	1950	Wszystko o Ewie
+278_F	1982	Wybor Zofii
+279_F	1961	Wyrok w Norymberdze
+28_F	1968	Charly
+280_F	1979	Wystarczy byc
+281_F	2003	Wzgorze nadziei
+282_F	1942	Yankee Doodle Dandy
+283_F	1949	Z jasnego nieba
+284_F	1963	Z zycia VIP-ow
+285_F	2004	Za wszelka cene
+286_F	1962	Zabic drozda
+287_F	1970	Zakochane kobiety
+288_F	1998	Zakochany Szekspir
+289_F	1992	Zapach kobiety
+29_F	1958	Chce zyc!
+290_F	1939	Zegnaj Chips
+291_F	2011	Zelazna Dama
+292_F	1967	Zgadnij, kto przyjdzie na obiad
+293_F	1941	Zielona dolina
+294_F	1937	Ziemia blogoslawiona
+295_F	2015	Zjawa
+296_F	2013	Zniewolony
+297_F	1995	Zostawic Las Vegas
+298_F	1980	Zwyczajni ludzie
+299_F	1937	Zycie Emila Zoli
+3_F	1974	Alicja juz tu nie mieszka
+30_F	1990	Chlopcy z ferajny
+300_F	1998	Zycie jest piekne
+31_F	1989	Chwala
+32_F	1947	Corka farmera
+33_F	1980	Corka gornika
+34_F	1970	Corka Ryana
+35_F	1947	Cud na 34. ulicy
+36_F	1962	Cudotworczyni
+37_F	1950	Cyrano de Bergerac
+38_F	2010	Czarny labedz
+39_F	2001	Czekajac na wyrok
+4_F	1984	Amadeusz
+40_F	1981	Czerwoni
+41_F	1940	Czlowiek z Zachodu
+42_F	1983	Czule slowka
+43_F	1969	Czyz nie dobija sie koni?
+44_F	1965	Darling
+45_F	2011	Debiutanci
+46_F	1930	Disraeli
+47_F	2012	Django
+48_F	1932	Doktor Jekyll i pan Hyde
+49_F	2006	Dreamgirls
+5_F	1999	American Beauty
+50_F	1990	Druga prawda
+51_F	1945	Drzewko na Brooklynie
+52_F	1939	Dylizans
+53_F	1947	Dzentelmenska umowa
+54_F	1986	Dzieci gorszego boga
+55_F	1968	Dziecko Rosemary
+56_F	2001	Dzien proby
+57_F	1977	Dziewczyna na pozegnanie
+58_F	2015	Dziewczyna z Portretu
+59_F	1954	Dziewczyna z prowincji
+6_F	1956	Anastazja
+60_F	1994	Ed Wood
+61_F	1960	Elmer Gantry
+62_F	2000	Erin Brockovich
+63_F	1996	Fargo
+64_F	2010	Fighter
+65_F	1993	Filadelfia
+66_F	1940	Filadelfijska opowiesc
+67_F	1991	Fisher King
+68_F	1994	Forrest Gump
+69_F	1993	Fortepian
+7_F	1996	Angielski pacjent
+70_F	1971	Francuski lacznik
+71_F	1982	Gandhi
+72_F	1944	Gasnacy plomien
+73_F	2000	Gladiator
+74_F	2002	Godziny
+75_F	1964	Grek Zorba
+76_F	1940	Grona gniewu
+77_F	1931	Grzech Madelon Claudet
+78_F	1949	Gubernator
+79_F	1948	Hamlet
+8_F	1977	Annie Hall
+80_F	1986	Hannah i jej siostry
+81_F	1974	Harry i Tonto
+82_F	1950	Harvey
+83_F	2009	Hej, skarbie
+84_F	1985	Honor Prizzich
+85_F	1963	Hud, syn farmera
+86_F	1934	Ich noce
+87_F	1944	Idac moja droga
+88_F	2001	Iris
+89_F	2010	Jak zostac krolem
+9_F	1936	Anthony Adverse
+90_F	1995	Jej wysokosc Afrodyta
+91_F	1996	Jerry Maguire
+92_F	1938	Jezebel
+93_F	1948	Johnny Belinda
+94_F	1942	Johnny Eager
+95_F	1977	Julia
+96_F	1972	Kabaret
+97_F	1965	Kasia Ballou
+98_F	1938	Kentucky
+99_F	1940	Kitty Foyle
+218_F	1976	Siec
+185_F	1941	Podejrzenie

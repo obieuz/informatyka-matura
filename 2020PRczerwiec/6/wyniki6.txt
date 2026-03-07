@@ -1,0 +1,27 @@
+6.1
+
+T4	905
+
+6.2
+
+20
+
+6.3
+
+data	czego_najw	ile_najw	czego_najmniej	ile_najmniej
+01.02.2016	T2	48		T4	24
+01.08.2018	T5	125		T1	3
+
+6.5
+
+a	
+
+ile_talarow_pod_koniec	545844
+
+dzien	ile_talarow
+08.10.2018	550079
+
+b	
+
+6399	
+

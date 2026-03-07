@@ -1,0 +1,9 @@
+4.1
+5
+4.2
+14 i 39
+4.3
+maksymalny bok - 12
+numer dzialki - 28
+numer dzialki - 32
+numer dzialki - 45

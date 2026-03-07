@@ -1,0 +1,35 @@
+6.1
+
+Pojemnosc_dysku	komputery
+300	173
+200	31
+500	31
+800	29
+700	28
+600	26
+400	20
+290	11
+160	10
+220	10
+
+6.2
+
+Numer_komputera	liczba_wymian
+42	11
+123	11
+171	12
+202	12
+
+6.3
+
+DATA		Sekcja
+23.12.2015	Q
+
+6.4
+
+Numer_zgloszenia	Czas_awarii		MaksimumOfCzas_naprawy
+2087			06.11.2015 12:38:46	13.11.2015 12:38:32
+
+6.5
+
+149

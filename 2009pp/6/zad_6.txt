@@ -1,0 +1,23 @@
+a)
+
+23
+
+b)
+
+id_mieszkania
+8/2009
+9/2009
+32/2009
+69/2009
+
+c)
+
+imie	nazwisko
+Tadeusz	Nazimek
+Joanna	Cependa
+
+d)
+
+płeć    liczba
+m	92
+k	184

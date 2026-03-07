@@ -1,0 +1,36 @@
+13.1
+
+nazwa_aktywnosci	liczba_realizacji
+silownia	193
+scianka wspinaczkowa	185
+sztuki walki	114
+squash	102
+nordic walking	101
+
+13.2
+
+183
+
+13.3
+
+Imie	Nazwisko
+Justyna	Andrzejewska
+Jerzy	Durczok
+Karolina	Gawron
+Amelia	Herman
+Rozalia	Jacak
+Andrzej	Kowalski
+Krystyna	Makowska
+Justyna	Myszkowska
+Bogumil	Nowak
+Marek	Stasicki
+Feliks	Synowski
+Anna	Tobera
+Marzena	Warszawska
+Patrycja	Wilczynska
+
+13.4
+
+plec	sredni_wiek
+k	34,40
+m	31,24

@@ -1,0 +1,18 @@
+5.1
+
+jabłoni	32
+wiśni	30
+
+5.3
+
+27.04.2022
+
+5.4
+
+mniejsza niż 10 drzewek	148
+od 10 do 20	63
+20 lub więcej	3
+
+5.5
+
+48
